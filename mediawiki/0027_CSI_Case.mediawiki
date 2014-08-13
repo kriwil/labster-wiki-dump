@@ -1,0 +1,31 @@
+
+[[File: CSI Case.jpg|x300px|frame|left|link=CSI CASE|'''Welcome to the Labster CSI Case!''']]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+Here we have gathered all the relevant theory material to boost your learning. It takes about 15-20 minutes to read it all.
+
+If you have any feedback or suggested changes, please send a mail to tamara  [@] labster.com
+
+Danish version: http://learn.labster.com/index.php/CSI_Casen
+
+==Introduction==
+*[[CSI Case Introduction | Solving a Murder Case with Biotechnology]]
+
+==Case Theory==
+
+*[[DNA Profiling]]
+**[[DNA]]
+**[[Tandem Repeated Regions]]
+*[[DNA Replication]]
+*[[PCR (Polymerase Chain Reaction)]]
+**[[Primers]]
+**[[DNA Polymerase]]
+**[[Nucleotides]]
+*[[Gel Electrophoresis]]
+**[[DNA Ladder]]
+
+==After reading all the theory: Start Labster!==
+Go to Labster:
+'''http://www.labster.com/csi'''
+
+Labster requires unity3d player -click here if it is not installed automatically: [http://unity3d.com/webplayer/ Install Unity3D]

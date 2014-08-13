@@ -1,0 +1,25 @@
+Below are links to pages with the theory related to the Crime Investigation case. Click on a subject to read more. On each page there are links to related subjects for easy navigation between theoretical subjects. You can always return to this page for an overview, or to the [[Main Page]] for other cases.
+
+
+=Case theory=
+
+*[[DNA Profiling]]
+**[[Tandem Repeated Regions]]
+*[[PCR (Polymerase Chain Reaction)]]
+**[[Primers]]
+**[[DNA Polymerase]]
+**[[Nucleotides]]
+*[[Gel Electrophoresis]]
+**[[DNA Ladder]]
+
+
+=Basic Theory=
+
+*[[DNA]]
+**[[DNA Replication]]
+**[[DNA Polymerase]]
+**[[Nucleotides]]
+*[[Sterile Technique]]
+
+
+Look here for explanation of basic terms and words related to the case: [[Keywords]]

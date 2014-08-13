@@ -1,0 +1,80 @@
+A karyotype is an organized profile of an organism chromosome. A karyotype is the result of karyotyping which is a process of pairing and ordering all chromosome of an organism. Karyotype analysis allows clinical cytogeneticist to reveal chromosomal abnormalities includes deletion, duplication, translocation, inversion and aneuploid condition.<br>
+
+
+Karyotype is prepared from mitotic cell that have been arrested in the metaphase when the chromosome is most visible. Major step involves in karyotype preparation are as follows:<br>
+
+
+'''Cell Arrest and Harvest'''<br>
+Chromosome reaches their maximum level of condensation during metaphase. One way to obtain a sufficient number of high quality metaphase is to have many actively dividing cells. Colcemid or colchicine is added to the culture mix to arrest the cell in metaphase.  Colcemid works by preventing the formation of microtubules that attach to chromosome centromere and holds the two chromatids apart during anaphase of mitosis.<br>
+
+
+Colcemid or cochicine should be added before the cell culture reach 80% confluence. The reason is that the difficulty to obtain a good number of metaphase is increase with greater confluency.
+
+
+'''Hypotonic Treatment'''<br>
+A hypotonic solution, such as KCl, has a lower salt concentration than that present in the cytoplasm of the cells. According to the osmotic laws extracellular water will therefore penetrate into the cells, whereby they swell, thereby allowing a more even spread of chromosomes.<br>
+Insufficient hypotonic treatment result in chromosome spread that tightly tight hence harder to identify.
+
+
+'''Fixation''' <br>
+The fixation reagent is used to stop the action of hypotonic solution. Fixation reagent also called a Carnoy's solution can be prepared from three parts of absolute methanol and one part of glacial acetic acid. This reagent arrest the process of hypotonic swelling and metabolic processes of the cells, and preserves cells in stable state<br>
+
+
+'''Staining''' <br>
+There are two method of chromosome banding based on staining chromosome with a dye or on assaying from a particular function. Without any chromosome banding treatment, the details of chromosome structure are impossible to detect under a light microscope.<br>
+
+
+The commonly used chromosome banding are G-(Giemsa), R-(reverse), C-(centromere) and Q-(quinacrine) banding. G- and R- banding are the most commonly used techniques for chromosome identification (karyotyping) and for identifying  chromosomal abnormalities. In this case the staining used for chromosome banding is Leishman’s Eosin-Methylene or simply Leishman stain. Leishman’s stains as well as Giemsa and Wright stain are belong to the group of Romanovsky stain.<br>
+
+
+Light and dark chromosome band can be observed after staining treatment. Dark band in G-banding usually correspond to late-replicating region, tend to be AT-rich DNA and relatively gene poor. Light band typically correspond to earlier-replicating regions, tend to be GC-rich DNA and more transcriptionally active.
+
+
+The nomenclature of band assignment and chromosome aberration is summarized in the International System for Human Cytogenetic Nomenclature (ISCN)
+
+{| border="1" , cellpadding="2"
+|+ '''Karyotyping Nomenclature'''
+! width="80" | Karyotype
+! width="500" | Description
+|-
+! 46,XY 
+| Normal male chromosome constitution
+|-
+! 47,XX,+21
+| Female with trisomy 21, Down syndrome
+|-
+!der(22)
+|Translocation chromosome derived from chromosome 1 and containing the centromere of chromosome 1
+|-
+! 47,XY,+21[10]/46,XY[10]
+| Male who is a mosaic of trisomy 21 cells and normal cells (10 cells scored for each karyotype)
+|-
+! 46,XY,del(4)(p14)
+| Male with distal deletion of the short arm of chromosome 4 band designated 14
+|-
+! 46,XX,dup(5)(p14p15.3)
+| Female with a duplication of the short arm of chromosome 5 from bands p14 to p15.3
+|-
+! 45,XY,der(13;14)(q10;q10)
+| A male with a balanced Robertsonian translocation of chromosomes 13 and 14. Karyotype shows that one normal 13 and one normal 14 are missing and replaced with a derivative chromosome
+|-
+! 46,XY,t(11;22)(q23;q22)
+| A male with a balanced reciprocal translocation between chromosomes 11 and 22. The breakpoints are at 11q23 and 22q22
+|-
+! 46,XX,inv(3)(p21;q13)
+| An inversion on chromosome 3 that extends from p21 to q13; because it includes the centromere, this is a pericentric inversion
+|-
+! 46,X,r(X)
+| A female with one normal X chromosome and one ring X chromosome
+|-
+! 46,X,i(Xq)
+| A female with one normal X chromosome and an isochromosome of the long arm of the X chromosome
+|-
+|} 
+
+
+In a karyotype, overlap with other chromosome should be avoided to ensure each band of every chromosomes is clearly visible. 
+
+
+[[Amniotic Culture| &lArr; Amniotic Culture]]/ [[Chromosome| Chromosome &rArr;]]<br>
+[[Cytogenetics| &lArr; Theory Overview]]

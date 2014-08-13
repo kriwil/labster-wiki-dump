@@ -1,0 +1,87 @@
+Cytogenetics is subfield of genetics that study the chromosome and chromosomal aberrations. The word chromosome derived from the Greek words ''chromos'', meaning color, and ''soma'', meaning body.  Chromosomes are the structure that holds the genes. Gene defined as the entire nucleic acid sequence that is necessary for the synthesis of a functional gene product (polypeptide or RNA).<br>
+
+
+==Karyotype==
+Each chromosome is paired with its homologous chromosome which have an exact match in size and structure. The autosome are numbered 1 to 22 according to size. The X and Y chromosome are placed at the end.
+
+
+==Structure==
+Chromosome morphology and staining characteristic are obtain from the most visible chromosome, the metaphase chromosome. During interphase, when cells are not dividing, the genetic material exists as a nucleoprotein complex called chromatin, which is dispersed through the nucleus.<br>
+
+[[File:Centromer Location.jpg|thumb|right|400px|Centromer Location ]]
+
+
+Each metaphase chromosome consists of two sister chromatids, which are attached at the centromere.Telomere refers to specialized DNA sequences located at the end chromosomes. Centromere divides chromosome into a short arm (p; petit) and a long arm (q;queque). The short and long arm can be connected in either metacentric, submetacentric, acrocentric or telocentric. <br>
+*Metacentric: The centromere position is at the middle, so the length of the arms is almost equal
+*Submetacentric: The arm leght is unequal
+*Acrocentric: The short arm is extremely short so is hard to observe. The human genome has six acrocentric chromosome which include: 13, 14, 15, 21, 22 and Y.
+*Telocentric: The centromere position is at the end of chromosome. Human does not posses this type of chromosome. 
+
+Human have 23 pairs of chromosomes which organized into 22 pairs of homologous autosomes and two sex chromosomes (X and Y). A chromosome banding pattern is comprised of alternating light and dark stripes, or bands, that appear along its length after being stained with a dye. A unique banding pattern is used to identify each chromosome.
+
+==Nomenclature==
+[[File:Chromosome banding.jpg|thumb|right|400px|Chromosome banding ]]
+
+Karyotype is abbreviated by the total number of chromosomes, a comma, and the sex chromosomes of an individual. Each arm of chromosome (p and q) is further subdivided into regions by landmark. Landmarks is consistent and distinct morphologic area of a chromosome. Regions are divided into bands which further divided to sub-bands. Example: Xp22.3 = X chromosome, short arm region 2, band 2, sub-band 3.
+
+
+{| border="1" , cellpadding="2"
+|+ '''Symbol used in designing karyotypes'''
+! width="80" | Symbol
+! width="500" | Description
+|-
+! 1-22 
+| Autosome number
+|-
+! X,Y
+| Sex chromosome
+|-
+! (+) or (-) 
+| When placed before an autosomal number, indicates that chromosome is extra or missing
+|-
+! cen
+| Centromere
+|-
+! inv
+| Inversion
+|-
+! dic
+| Dicentric
+|-
+! p
+| Short arm of the chromosome
+|-
+! q
+| Long arm of the chromosome
+|-
+! t
+| Translocation
+|-
+! del
+| Deletion
+|-
+! ins
+| Insertion
+|-
+! dup
+| Duplication
+|-
+! ter
+| Terminal
+|-
+!der
+|Derivative
+|-
+! :
+| Break
+|-
+! ::
+| Break and join
+|-
+! '''&rarr;'''
+| From to
+|} 
+
+
+[[Karyotyping| &lArr; Karyotyping]]/ [[Chromosome Abnormalities| Chromosome Abnormalities &rArr;]]<br>
+[[Cytogenetics| &lArr; Theory Overview]]

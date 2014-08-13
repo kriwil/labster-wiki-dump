@@ -1,0 +1,21 @@
+You will be able to download the data from your experiments here. 
+
+The extinction coefficient for NADH is 6220 M<sup>-1</sup>cm<sup>-1</sup> and the path length is 1 cm.
+
+[http://labster.com/enzyme/ADH1B_1_data.xlsx Click here to download the data]
+
+
+'''Plotting a curve'''
+* Select the data 
+* Select "Charts" and then select "Scatter" and then select "Smooth Marked Scatter"
+[[File: MakePlot.png|thumb|none|x250px]]
+
+
+'''Finding the slope'''
+* Right click on the graph
+* Select "Format Trendline"
+[[File: FormatTrendline.png|thumb|none|x250px]]
+* Select "Options" on the left panel and then tick the "Display equation on chart"
+[[File: DisplayEquation.png|thumb|none|x250px]]
+* The equation Y = m(slope)X + C will be displayed on the graph
+[[File: Equation.png|thumb|none|x250px]]

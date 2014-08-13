@@ -1,0 +1,13 @@
+Once we have DNA with blunt ends from the [[End-repair]] step, we proceed by adding 1 nucleotide at the tail so that it can bind specifically with the adapter that has the complimentary tail. Adenine (A) is added at the 3' end of the DNA sample. As you remember, Adenine pairs up specifically with Thymine. The adapters have Thymine at the 3' end that will specifically bind to the 3' Adenine of the DNA sample. 
+
+
+A non-proof reading Polymerase such as ''Taq'' could be use to add an Adenine at the 3' of the blunt end DNA.
+
+[[File: Atailing.png|frame|x200px|Adenine is added at the 3' end of the blunt DNA.]]
+
+
+
+
+[[End-repair|&lArr; Previous (End-repair)]] / [[Adapter ligation|Next (Adapter ligation) &rArr;]]
+
+[[NGS_Case |&lArr; Theory overview]]

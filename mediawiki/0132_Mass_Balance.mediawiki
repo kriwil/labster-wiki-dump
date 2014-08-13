@@ -1,0 +1,18 @@
+'''Black box modelling'''<br>
+In black box model, the input and output of the system  are analyzed instead of the processes inside a system itself. The first laws of thermodynamics explained that there is no modification of the total amount of matter participating during any chemical or physical change. The first law of thermodynamics can be expressed in equation: <br>
+''M''<sub>input</sub> + ''M''<sub>produce</sub> - ''M''<sub>output</sub> - ''M''<sub>consume</sub> = ''M''<sub>accumulated</sub>
+
+Under steady state condition, in which the concentration of chemicals and the other system are constatnt, the amount of accumulated matter, ''M''<sub>accumulated</sub> is zero. It is valid for carbon analysis in batch processes with chemoheterotroph organism such as yeast. 
+
+''M''<sub>input</sub> + ''M''<sub>produce</sub> - ''M''<sub>output</sub> - ''M''<sub>consume</sub> = 0
+
+
+'''Carbon balance'''
+
+== Productivity ==
+*q<sub>p</sub>
+*r<sub>p</sub>
+
+[[Microbial_Stoichiometry |<-- Previous (Microbial Stoichiometry)]] 
+<br>
+[[Fermentation_Case|&lArr; Theory overview]]

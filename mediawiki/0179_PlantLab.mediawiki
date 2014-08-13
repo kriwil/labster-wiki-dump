@@ -1,0 +1,25 @@
+[[File: wiki plant case.jpg|x300px|frame|left|link=PlantLab|'''Welcome to the Labster Plant Genetic and Evolution Lab!''']]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+Here we have gathered all the relevant theory material to boost your learning. It takes about 15-20 minutes to read it all.
+
+
+==Introduction==
+[[Welcome to the Plant Lab]]
+
+
+==Case Theory==
+*[[Plant Taxonomy]]
+*[[Plant Secondary Metabolites]]
+**[[Terpenoid Biosynthesis]]
+**[[Molecular Characterization]]
+*[[Malaria]]
+**[[Killer Assay]]
+*[[Gene Discovery]]
+**[[cDNA]]
+**[[RNA extraction]]
+**[[NGS_Plant| Next Generation Sequencing]]
+**[[BLAST]]
+**[[Phylogenetics]]
+*[[Moss Transformation]]
+*[[Lab Biosafety]]

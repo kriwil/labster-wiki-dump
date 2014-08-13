@@ -1,0 +1,34 @@
+[[File: 1HSZ.png|frame|right|x500px|Structure of alcohol dehydrogenase ADH1B*1 (from PDB entry 1HSZ)]]
+The first step in the metabolism of alcohol in humans is catalyzed by the [[enzyme]] Alcohol Dehydrogenase (ADH). ADH catalyzes the oxidation of a broad range of substrates containing hydroxyl groups, including ethanol. In the case of ethanol, the alcohol is converted into acetaldehyde, another toxic compound, which is then metabolized further. To proceed, the reaction requires the oxidizing agent Nicotinamide Adenine Dinucleotide (NAD<sup>+</sup>). NAD<sup>+</sup> is a co-enzyme that acts as an electron acceptor, accepting 2 electrons and an H<sup>+</sup> from ethanol [1]. Thus, ADH catalyzes the following reaction:
+
+[[File: ADH_reaction.png|x40px]]
+
+When performing kinetic assays, it is important to start measuring immediately after the enzyme is added, because this reaction occurs as soon as ADH is mixed with NAD<sup>+</sup> and ethanol.
+
+
+==Asian glow==
+Humans have several different versions (isozymes) of ADH.  Two of these, called ADH1B*1 and ADH1B*2, differ in only 1 amino acid residue, however the 2 isozymes show significant differences in kinetic properties.  Where ADH1B*1 has an arginine residue at position 47, ADH1B*2 has a histidine residue at that position.  ADH1B*2 is more common among East Asians, while ADH1B*1 is common among Caucasians [2,3].
+
+
+The kinetic differences are due to the chemical properties of arginine and histidine. Arginine in ADH1B*1 forms ionic bonds with the pyrophosphate group of NAD<sup>+</sup>, however the histidine residue in ADH1B*2 is not able to form the same bonds. This means that ADH1B*2 does not bind NAD<sup>+</sup> as tightly as ADH1B*1, leading to a higher [[km|K<sub>m</sub>]] value for ADH1B*2. The rate-determining step of the overall reaction is the dissociation of NADH; therefore, the [[kcat|turnover number]] and [[vmax|V<sub>max</sub>]] of ADH1B*2 are higher, because NADH is not bound as tightly. Furthermore, because the pKa value of histidine is lower than that of arginine, the optimal pH of ADH1B*2 (8.5) is lower than that of ADH1B*1 (10.0) [4].
+
+
+Individuals possessing the ADH1B*2 isozyme experience the condition called Asian glow. The condition leads to flushing and other symptoms usually associated with hangovers after the  consumption of even small amounts of alcohol. These symptoms are caused by an elevated level of acetaldehyde in the blood, which is due to higher activity of ADH1B*2 than ADH1B*1. Thus, the single amino acid substitution in ADH1B*2, caused by a mutation in DNA, leads to the Asian glow condition [5].
+
+
+
+[[Enzyme|&lArr; Previous (Enzyme)]] / [[Active site|Next (Active Site) &rArr;]]
+
+[[Enzyme Kinetics|&lArr; Theory overview]]
+
+==References==
+
+1. http://www.rcsb.org/pdb/101/motm.do?momID=13
+
+2. Hurley, T.D., Bosron, W.F., Stone, C.L. and Amzel, L.M. (1994) Structures of three human ß alcohol dehydrogenase variants. ''J. Mol. Biol.'' '''239''', 415-429.
+
+3. Shou-Lun Lee, Gar-Yang Chau, Chung-Tay Yao, Chew-Wun Wu, and Shih-Jiun Yin (2006) Functional assessment of Human Alcohol Dehydrogenase Family in Ethanol Metabolism: Significance of First-Pass Metabolism. ''Alcohol. Clin. Exp. Res.'' '''30''', 1132-1142.
+
+4. Jornvall H., Hempel J., Vallee, B.T., Bosron, W.F. and Li, T.K. (1984) Human liver alcohol dehydrogenase: Amino acid substitution in the ß2ß2 Oriental isozyme explains functional properties, establishes an active site structure, and parallels mutational exchanges in the yeast enzyme. ''Proc. Natl. Acad. Sci. USA'', '''81''', 3024-3028. 
+
+5. Thomasson, H.R., Crabb, D.W., Edenberg, H.J., and Li, T.K (1993) Alcohol and Aldehyde Dehydrogenase Polymorphisms and Alcoholism. ''Behav. Genet.'' '''23''', 131-136.

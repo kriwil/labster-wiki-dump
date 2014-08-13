@@ -1,0 +1,24 @@
+[[File: molecular cloning case.jpg|frame|left|x300px|Welcome to the Molecular Cloning case!]]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+Here we have gathered all the relevant theory material to boost your learning. It takes about 15-20 minutes to read it all.
+
+
+==Introduction==
+*[[Molecular Cloning Introduction | Utilizing Jellyfish Gene to Monitor DNA Repair Mechanism]]
+
+==Case Theory==
+
+*[[DNA Isolation]]
+**[[PCR_MC|PCR (Polymerase Chain Reaction)]]
+**[[Gel Electrophoresis_MC|Gel electrophoresis]]
+*[[Restriction enzyme]]
+*[[Ligation]]
+*[[Transformation]]
+*[[Reporter Gene]]
+*[[DNA damage and repair]]
+
+==After reading all the theory: Start Labster!==
+Go to Labster:
+'''http://www.labster.com/molecular cloning'''
+
+Labster requires unity3d player -click here if it is not installed automatically: [http://unity3d.com/webplayer/ Install Unity3D]
