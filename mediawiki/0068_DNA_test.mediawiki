@@ -1,4 +1,0 @@
-A DNA test for a known mutation is used to determine the genetic status (sick/healthy/carrier) of an individual. A DNA test is usually expected to be used for testing many DNA samples and it should therefore be cheap, reliable, and fast. PCR in combination with gel electrophoresis are often used as  diagnostic tests. If the mutation is a deletion or an insertion, the mutated DNA region is amplified in PCR. The size of the product is then estimated by gel electrophoresis revealing whether the product is longer/shorter as compared with the wild type. Two known control samples (sick and healthy) should be included in all tests for comparison.
-
-
-[[Animal Genetics|&larr; Theory Overview]]

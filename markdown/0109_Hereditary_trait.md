@@ -1,8 +1,0 @@
-A hereditary etiology should be suspected if a phenotype appears more
-frequent in some breeds/families than others. This is due to the fact,
-that animals of the same breed/family share more alleles (including
-disease alleles) than others. The suspicion can be strengthened if a
-similar phenotype is known to be hereditary in other species. Whether it
-is hereditary or not can be investigated by collecting family material
-for a pedigree and observing the pattern of inheritance.
-

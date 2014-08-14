@@ -1,5 +1,0 @@
-* Explain briefly the Illumina sample prep (using adapter)
-* Go through the different steps, with link to each step
-
-
-[[NGS_Case |<-- Theory overview]]

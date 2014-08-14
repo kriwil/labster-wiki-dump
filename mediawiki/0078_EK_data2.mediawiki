@@ -1,5 +1,0 @@
-You will be able to download the data from your experiments here. 
-
-The extinction coefficient for NADH is 6220 M<sup>-1</sup>cm<sup>-1</sup> and the path length is 1 cm.
-
-[http://labster.com/enzyme/ADH1B_2_data.xlsx Click here to download the data]
