@@ -12,7 +12,5 @@ that we can believe conclusions made from those results.
 
 ![]( steril.jpeg " steril.jpeg")
 
-Back to [CSI Case](CSI Case "wikilink")
-
-Back to [Main Page](Main Page "wikilink")
+Back to [Animal Genetics](Animal Genetics "wikilink")
 

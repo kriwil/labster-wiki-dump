@@ -1,0 +1,89 @@
+### HPLC case - BB523: Farmaceutisk toksikologi A
+
+Welcome to Labster's HPLC case!
+
+You have the opportunity to use Labster's HPLC case and prepare yourself
+before the exam. You can access this website and the case anytime you
+want until the examination day.
+
+Please read the instructions on how to use the case below.
+
+Good luck!
+
+### How to use the case
+
+-   **Install Unity 3D player**
+
+You will need to install Unity 3D player in order to be able to use the
+case. When you go to the case website, it will automatically prompt you
+to install Unity 3D player if you do not have one installed yet. Just
+follow the instructions, it takes about 1 minute to install Unity 3D
+player on your computer. Once installed, you will be able to load the
+case. Otherwise click on the reload button to reload the website again.
+
+-   **Disable pop-up blocker**
+
+If you have a pop-up blocker activated, please disable it. When you
+click on the view theory button or when you need to download the data, a
+new window will pop up. If you have a pop-up blocker activated, the new
+window will not be able to pop-up.
+
+-   **Use a computer**
+
+Currently the HPLC case cannot be used in iPad, please use a computer to
+run this case.
+
+-   **Questionnaire and feedback survey**
+
+You will be asked to answer a set of 10 questions that will be used to
+analyze your learning after completing the case.
+
+You need to answer these questions before starting the case (pre-test)
+and after completing the case (post-test). Please spend around 10-15
+minutes to answer these questions, if you do not know the answer, please
+make an educated guess. This questionnaire is anonymous and does not
+contribute to your grade in this course.
+
+We would like you to fill in a feedback survey after completing the case
+to share your experience with us. Your feedback is very valuable for us
+to make the case even better in the future. This survey is anonymous.
+
+### Wiki theory page
+
+You can always read the related theory that are compiled in wiki pages.
+You can access them by clicking the "View Theory" button on the case or
+by [Click here](http://learn.labster.com/index.php/HPLC).
+
+### Start HPLC case
+
+-   You will first need to complete the pre-test before starting the
+    HPLC case
+
+[Click here](https://www.surveymonkey.com/s/HPLC_PreTest) to start the
+pre-test **it is very important for you complete the pre-test before
+starting the case!**
+
+-   After completing the pre-test you will be directed to the Labster
+    dashboard, create a user name and password and click "Register"
+-   Once in the dashboard, simply click "Play" to start the HPLC case
+-   After completing the case, remember to go back to the Dashboard and
+    complete the post-test link **it is very important that you also
+    complete the post-test after the case**
+
+It is very important that you answer the post-test because we need to
+quantify your learning based on the case, and of course your feedback is
+very much appreciated for us to further develop the case.
+
+### Contact me
+
+If you have any questions, feedback, comments or anything, please don't
+hesitate to contact me.
+
+Tamara Tjitrowirjo
+
+<tamara@labster.com>
+
++45 61 43 72 44
+
+[www.labster.com](http://www.labster.com)
+

@@ -1,44 +1,43 @@
-We recommend you to watch video about DNA profiling:
-<http://vimeo.com/69239594>
+Vi anbefaler dig at se den følgende video omkring DNA profiler:
+<http://vimeo.com/69239594>\
+ Tandem repeats forekommer når en sekvens af baser bliver gentaget flere
+gange. Sekvensen ATGATGATGATGATGATGATGATG gentager sekvensen ”ATG” otte
+gang. Selve sekvensen som bliver gentaget kaldes et motif. Gentagelser
+på 10-60 baser per gentagle kaldes ministatellitter, hvorimod kortere
+gentagelser (2-9 baser) kaldes mikrosatellitter (eller STRs = short
+tandem repeats). Tandem reapetsne findes flere steder i det menneskelige
+genom, og de variere i antallet af gentagelser.
 
-Tandem repeats arise when a sequence of bases is repeated multiple
-times. The sequence ATGATGATGATGATGATGATGATG has the repeated sequence
-"ATG" eight times. The sequence being repeated is termed a *motif*.
-Repeats of 10-60 bases per repeat are known as minisatellites, where as
-shorter repeats (2-9 bases) are known as microsatellites (or STRs =
-Small Tandem Repeats). The tandem repeated regions are present at many
-sites in the human genome, and differ in their number of repeats.
+[frame|right|En tandem repeated region har et forskelligt antal
+gentagelser i forskellige individer. Gentagelserne kan være
+dinukleotide, trinukleotide eller mere. Et primer sæt placeret i enderne
+af den variable region vil forøge antallet af fragmenter af forskellig
+længde alt efter antallet af
+gentagelser.|x350px](FIle: tandem dk.jpeg "wikilink")
 
-[frame|right|A tandem repeated region will have different number of
-repeats among individuals. Repeats can be dinucleotide, trinucleotide,
-and others. A set of primers placed on the flanking regions of a
-variable sequence will amplify fragments of different lengths depending
-on the number of repeats.|x350px](FIle: tandem.jpeg "wikilink")
+### Tandem repeated regions ændrer sig på grund af replikerings fejl
 
-### Tandem Repeated Regions change because of replication errors
+Antallet af tandem repeats varierer på grund af fejl under replikeringen
+af genom DNA. I takt med at DNA-polymerasen bevæger sig ned over
+DNA-strengen og tilfører de komplementære nukleotider, kan den komme ud
+for områder med mange gentagelser. Her kan DNA-polymerasen komme til at
+”higge” og enten springe en hel gentagelse over, eller tilfører en
+ekstra.
 
-The difference in the number of tandem repeats in human arise because of
-errors in the replication of genomic DNA. The DNA polymerase slides
-along the DNA and adds complementary nucleotides. When moving over a
-highly repetitive sequence, such as a microsatellite, the DNA polymerase
-sometimes "hiccups," resulting either skipping an entire repeat or
-creating an extra repeat.\
-The process of adding or removing a single repeat of a motif is also
-called stepwise mutation process. DNA polymerase replication errors of
-highly repetitive sequences are fairly common. This implies that the
-mutation rate in microsatellites with a high number of repeats is very
-high.
+Processen med at tilføje eller fjerne enkle gentagelser fra en motif
+kaldes en stepwise mutation. Der sker ofte fejl ved sekvenser med mange
+gentagelser, dette betyder at mikrosatellitter med et stort antalt
+gentagelser har en højere tendens for mutationer end kortere
+mikrosatellitter.
 
-### Tandem Repeated Regions as Molecular Markers
+Tandem repeated region som molekulære markøre
 
-Microsatellites do not code for any protein, and are therefore
-considered to be neutral markers. High mutation rate and a large number
-of possible sites make microsatellites incredibly useful as molecular
-markers for population genetics, parentage assignment studies, and
-forensic science.
+Mikrosatelitter koder ikke for nogle proteiner, og er derfor antaget til
+at være neutrale markøre. En høj mutationsrate og en høj frekvens gør
+dem til utroligt brugbare molekyle markøre for befolkningsstudier,
+faderskabstest og retsmedicinsk arbejde.
 
-[← Previous (DNA)](DNA "wikilink") / [Next (DNA Replication)
-→](DNA Replication "wikilink")
-
-[← Theory overview](CSI Case "wikilink")
+[⇐ Forrige (DNA)](DNA_DK "wikilink") / [ Næste (DNA replikation)
+⇒](DNA replikation "wikilink")\
+[⇐ Teori oversigt ](CSI_Casen "wikilink")
 
