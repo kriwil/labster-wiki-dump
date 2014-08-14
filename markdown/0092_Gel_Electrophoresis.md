@@ -34,8 +34,8 @@ This will make the sample heavier by increasing the overall sample
 viscosity.\
 \***Water** to dilute the above mentioned reagents.
 
-[← Previous (Nucleotides)](Nucleotides "wikilink") / [Next (DNA Ladder)
-→](DNA Ladder "wikilink")
+[← Previous (Nucleotides)](/wiki/Nucleotides "wikilink") / [Next (DNA Ladder)
+→](/wiki/DNA_Ladder "wikilink")
 
-[← Theory Overview](CSI Case "wikilink")
+[← Theory Overview](/wiki/CSI_Case "wikilink")
 

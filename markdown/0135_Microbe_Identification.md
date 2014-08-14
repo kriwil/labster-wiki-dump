@@ -90,7 +90,7 @@ This method includes Western blot, Immuno-precipitation and Enzyme
 Linked Immuno-sorbant Assay (ELISA), which use antibodies to detect
 specific proteins that are unique to an organism.
 
-[⇐ Previous (Fermentation)](Fermentation "wikilink") / [Next (Microbial
-Growth) ⇒](Microbial Growth "wikilink")\
-[⇐ Theory overview](Fermentation_Case "wikilink")
+[⇐ Previous (Fermentation)](/wiki/Fermentation "wikilink") / [Next (Microbial
+Growth) ⇒](/wiki/Microbial_Growth "wikilink")\
+[⇐ Theory overview](/wiki/Fermentation_Case "wikilink")
 

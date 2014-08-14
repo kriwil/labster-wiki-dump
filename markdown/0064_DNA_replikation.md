@@ -9,9 +9,7 @@ mest kendte er DNA-polymerase. Det er DNA-polymerases opgave at lave den
 nye streng ved at sætte nukleotider på den originale DNA streng i den
 tilsvarende rækkefølge.
 
-[⇐ Forrige (Tandem repeated
-regions))](Tandem_repeated_regions "wikilink") / [ Næste (PCR
-(Polymerase chain reaction))
-⇒](PCR (Polymerase chain reaction) "wikilink")\
-[⇐ Teori oversigt ](CSI_Casen "wikilink")
+[⇐ Forrige (Tandem repeated regions))](/wiki/Tandem_repeated_regions "wikilink") / [ Næste (PCR
+(Polymerase chain reaction)) ⇒](/wiki/PCR "wikilink")\
+[⇐ Teori oversigt ](/wiki/CSI_Casen "wikilink")
 

@@ -10,7 +10,7 @@ værdigfuldt værktøj indenfor flere molekylære tests.\
  ![PCR består af tre trin: 1. Denaturation(opdeling) 2.
 Annealing(binding) og 3. Extension(forlængelse). Disse tre trin gentages
 for det meste 30 gange, hvilket giver millioner af kopier af den ønskede
-region.](PCR dk.jpg "fig:PCR består af tre trin: 1. Denaturation(opdeling) 2. Annealing(binding) og 3. Extension(forlængelse). Disse tre trin gentages for det meste 30 gange, hvilket giver millioner af kopier af den ønskede region.")
+region.](/wiki/PCR dk.jpg "fig:PCR består af tre trin: 1. Denaturation(opdeling) 2. Annealing(binding) og 3. Extension(forlængelse). Disse tre trin gentages for det meste 30 gange, hvilket giver millioner af kopier af den ønskede region.")
 
 ### Trinene i en PCR
 
@@ -63,7 +63,7 @@ pipettespids hver gang du tager en ny prøve, rens bordet med RNase free
 for reducerer risikoen for kontaminerende RNA, sæt dit hård op og undgå
 at nyse og hoste nær PCR arbejdspladsen).
 
-[⇐ Forrige (DNA replikation)](DNA replikation "wikilink") / [ Næste
-(Primere) ⇒](Primere "wikilink")\
-[⇐ Teori oversigt ](CSI_Casen "wikilink")
+[⇐ Forrige (DNA replikation)](/wiki/DNA_replikation "wikilink") / [ Næste
+(Primere) ⇒](/wiki/Primere "wikilink")\
+[⇐ Teori oversigt ](/wiki/CSI_Casen "wikilink")
 

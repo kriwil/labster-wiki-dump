@@ -82,7 +82,7 @@ generation.]( PESeq.jpg "fig:Figure 3. Paired-end sequencing implies that the se
 
 As the name suggests, single-end sequencing is when the sequencing
 process is performed only from a single direction. As we have discussed
-earlier in [Cluster generation](Cluster generation "wikilink") after
+earlier in [Cluster generation](/wiki/Cluster_generation "wikilink") after
 bridge PCR amplification, we have 2 types of DNA molecules that are
 complementary to each other, and we washed away 1 of them. We then
 sequence the remaining DNA that have the same direction. If we only
@@ -110,5 +110,5 @@ paired-end sequencing. It is also better to use paired-end sequencing
 when we wants to study deletion, mutations, or chromosomal
 rearrangements.
 
-[⇐ Theory overview](NGS_Case "wikilink")
+[⇐ Theory overview](/wiki/NGS_Case "wikilink")
 

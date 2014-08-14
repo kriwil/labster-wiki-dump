@@ -1,5 +1,5 @@
 As written in the previous section [High Performance Liquid
-Chromatography](High Performance Liquid Chromatography "wikilink"), the
+Chromatography](/wiki/High_Performance_Liquid_Chromatography "wikilink"), the
 separation takes place in the column due to interactions between the
 analyte and the stationary and mobile phases.
 
@@ -38,8 +38,8 @@ seen in the figure) will present London dispersion forces and stay
 longer in the column.
 
 [⇐ Previous (High Performance Liquid
-Chromatography)](High Performance Liquid Chromatography "wikilink") / [
-Next (HPLC machine)⇒ ](HPLC_machine "wikilink")
+Chromatography)](/wiki/High_Performance_Liquid_Chromatography "wikilink") / [
+Next (HPLC machine)⇒ ](/wiki/HPLC_machine "wikilink")
 
-[⇐ Theory overview](HPLC "wikilink")
+[⇐ Theory overview](/wiki/HPLC "wikilink")
 

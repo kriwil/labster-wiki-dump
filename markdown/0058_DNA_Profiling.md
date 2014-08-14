@@ -1,9 +1,5 @@
-![A gel with one suspect sample vs. three suspect DNA profiles. The DNA
-profiles evidence A (e.g., blood sample from a crime scene) and suspect
-2 are a
-match!]( suspectgel.png "fig:A gel with one suspect sample vs. three suspect DNA profiles. The DNA profiles evidence A (e.g., blood sample from a crime scene) and suspect 2 are a match!")
-![Every human has a unique DNA profile, similar to having unique
-fingerprints](DNA Fingerprinting.jpeg "fig:Every human has a unique DNA profile, similar to having unique fingerprints")
+![A gel with one suspect sample vs. three suspect DNA profiles. The DNA profiles evidence A (e.g., blood sample from a crime scene) and suspect 2 are a match!]( suspectgel.png "fig:A gel with one suspect sample vs. three suspect DNA profiles. The DNA profiles evidence A (e.g., blood sample from a crime scene) and suspect 2 are a match!")
+![Every human has a unique DNA profile, similar to having unique fingerprints](/wiki/DNA Fingerprinting.jpeg "fig:Every human has a unique DNA profile, similar to having unique fingerprints")
 
 ### Unique DNA profiles
 
@@ -18,9 +14,8 @@ individuals due to mutations accumulated through generations.
 ### Visualizing DNA Profiles
 
 To identify the DNA profile of an individual, we must look at the DNA in
-these particular regions. This is conducted by amplification using [PCR
-(Polymerase Chain Reaction)](PCR (Polymerase Chain Reaction) "wikilink")
-and [Gel Electrophoresis](Gel Electrophoresis "wikilink"). PCR can
+these particular regions. This is conducted by amplification using [PCR (Polymerase Chain Reaction)](/wiki/PCR "wikilink")
+and [Gel Electrophoresis](/wiki/Gel_Electrophoresis "wikilink"). PCR can
 amplify only the specific repeat regions by using specific primers. To
 perform DNA profiling, purified DNA is required. DNA can be isolated
 from most human cells.
@@ -34,8 +29,8 @@ shares the same number of repeats with the actual murderer would be too
 great. Therefore, a minimum of 13 tandem repeat sites are investigated
 while performing DNA profiling.
 
-[⇐Previous (Introduction)](CSI Case Introduction "wikilink") / [Next
-(DNA) ⇒](DNA "wikilink")
+[⇐Previous (Introduction)](/wiki/CSI_Case_Introduction "wikilink") / [Next
+(DNA) ⇒](/wiki/DNA "wikilink")
 
-[⇐ Theory overview](CSI Case "wikilink")
+[⇐ Theory overview](/wiki/CSI_Case "wikilink")
 

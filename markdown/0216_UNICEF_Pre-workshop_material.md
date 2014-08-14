@@ -43,8 +43,7 @@ Before starting the CSI case, we recommend to read the related theory.
 This will provide you with sufficient knowledge to complete the case. If
 you dont have time to this, jump to step 2
 
--   [<http://www.learn.labster.com/index.php?CSICase>| Click here to
-    view the theory.] The link will open in a new window/tab.
+-   [Click here to view the theory](http://www.learn.labster.com/index.php?CSICase). The link will open in a new window/tab.
 
 **2. If you get stuck during the lab?**
 
@@ -53,8 +52,7 @@ prepared detailed instructions including the correct answers for all the
 quiz questions and a walk through video clip that you can find below. We
 want everyone to be able to enjoy our CSI case!
 
--   [Click here to view the walk
-    through.](http://www.learn.labster.com/index.php/Walk_through) The
+-   [Click here to view the walk through.](http://www.learn.labster.com/index.php/Walk_through) The
     link will open in a new window/tab.
 
 **3. Get started with Labster**
@@ -69,7 +67,6 @@ Additional material
 
 Storyboard for possible CCL case:
 
--   [Click here to view a proposal for a CCL
-    case.](ftp://labster.com/Other/CCLcase.pdf) The link will open in a
+-   [Click here to view a proposal for a CCL case.](ftp://labster.com/Other/CCLcase.pdf) The link will open in a
     new window/tab.
 

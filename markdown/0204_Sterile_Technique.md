@@ -12,5 +12,5 @@ that we can believe conclusions made from those results.
 
 ![]( steril.jpeg " steril.jpeg")
 
-Back to [Animal Genetics](Animal Genetics "wikilink")
+Back to [Animal Genetics](/wiki/Animal_Genetics "wikilink")
 

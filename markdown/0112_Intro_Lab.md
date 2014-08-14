@@ -21,12 +21,12 @@ Lab.]( Intro_lab_scene.jpg "fig:Welcome to the Introductory Lab.")\
 
 ### Introduction
 
--   [Introduction laboratory](Introduction laboratory "wikilink")
+-   [Introduction laboratory](/wiki/Introduction_laboratory "wikilink")
 
 ### Case Theory
 
--   [Safety in the lab](Safety in the lab "wikilink")
--   [Acid and base](Acid and base "wikilink")
--   [Diffusion and osmosis](Diffusion and osmosis "wikilink")
--   [Blood typing](Blood typing "wikilink")
+-   [Safety in the lab](/wiki/Safety_in_the_lab "wikilink")
+-   [Acid and base](/wiki/Acid_and_base "wikilink")
+-   [Diffusion and osmosis](/wiki/Diffusion_and_osmosis "wikilink")
+-   [Blood typing](/wiki/Blood_typing "wikilink")
 

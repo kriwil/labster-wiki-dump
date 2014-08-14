@@ -28,7 +28,7 @@ the electron transport system.
 ### Physical Condition
 
 ![ Effect of temperature on microbial
-growth](temperature effect.jpg " Effect of temperature on microbial growth")
+growth](/wiki/temperature effect.jpg " Effect of temperature on microbial growth")
 
 Growth is defined as an increase in the number of cells. The growth of
 microorganism is greatly affected by environment conditions such as
@@ -70,7 +70,7 @@ fungi(including yeast) is slightly acidic. The pH affects enzyme and
 protein condition, and can cause enzyme denaturation and interfere with
 membrane ion pumping.
 
-[⇐ Previous (Sterilization)](Sterilization "wikilink") / [Next (Cell
-Metabolism) ⇒](Cell Metabolism "wikilink")\
-[⇐ Theory overview](Fermentation_Case "wikilink")
+[⇐ Previous (Sterilization)](/wiki/Sterilization "wikilink") / [Next (Cell
+Metabolism) ⇒](/wiki/Cell_Metabolism "wikilink")\
+[⇐ Theory overview](/wiki/Fermentation_Case "wikilink")
 

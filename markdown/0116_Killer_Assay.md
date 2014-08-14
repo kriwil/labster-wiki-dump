@@ -31,7 +31,7 @@ sample should be obtained to ensure consistent results. The drug potency
 can then be evaluated by comparing the average fluorescence of the
 samples with the two controls.\
 \
- [ ⇐ Malaria](Malaria "wikilink")/ [ Gene Discovery
-⇒](Gene Discovery "wikilink")\
-[ ⇐ Theory overview](PlantLab "wikilink")
+ [ ⇐ Malaria](/wiki/Malaria "wikilink")/ [ Gene Discovery
+⇒](/wiki/Gene_Discovery "wikilink")\
+[ ⇐ Theory overview](/wiki/PlantLab "wikilink")
 

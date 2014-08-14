@@ -92,8 +92,8 @@ phase.]( StationaryPolarity.jpg "Polarity scale for stationary phase.")
 \
 \
 \
- [⇐ Previous (Sample injector)](Sample injector "wikilink") / [Next
-(Oven regulator)⇒](Oven regulator "wikilink")
+ [⇐ Previous (Sample injector)](/wiki/Sample_injector "wikilink") / [Next
+(Oven regulator)⇒](/wiki/Oven_regulator "wikilink")
 
-[⇐ Theory overview](HPLC "wikilink")
+[⇐ Theory overview](/wiki/HPLC "wikilink")
 

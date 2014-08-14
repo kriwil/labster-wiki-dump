@@ -31,5 +31,5 @@ Fermentation (High School) progression
 -   Mission 3: Yeast growth phase quantitaive assessment
 -   End of the case
 
-[⇐ Theory overview](Fermentation_Case "wikilink")
+[⇐ Theory overview](/wiki/Fermentation_Case "wikilink")
 

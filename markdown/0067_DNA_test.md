@@ -9,5 +9,5 @@ product is longer/shorter as compared with the wild type. Two known
 control samples (sick and healthy) should be included in all tests for
 comparison.
 
-[← Theory Overview](Animal Genetics "wikilink")
+[← Theory Overview](/wiki/Animal_Genetics "wikilink")
 

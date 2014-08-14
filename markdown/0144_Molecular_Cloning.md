@@ -25,19 +25,19 @@ Introduction
 ------------
 
 -   [ Utilizing Jellyfish Gene to Monitor DNA Repair
-    Mechanism](Molecular Cloning Introduction "wikilink")
+    Mechanism](/wiki/Molecular_Cloning_Introduction "wikilink")
 
 Case Theory
 -----------
 
--   [DNA Isolation](DNA Isolation "wikilink")
-    -   [PCR (Polymerase Chain Reaction)](PCR_MC "wikilink")
-    -   [Gel electrophoresis](Gel Electrophoresis_MC "wikilink")
--   [Restriction enzyme](Restriction enzyme "wikilink")
--   [Ligation](Ligation "wikilink")
--   [Transformation](Transformation "wikilink")
--   [Reporter Gene](Reporter Gene "wikilink")
--   [DNA damage and repair](DNA damage and repair "wikilink")
+-   [DNA Isolation](/wiki/DNA_Isolation "wikilink")
+    -   [PCR (Polymerase Chain Reaction)](/wiki/PCR_MC "wikilink")
+    -   [Gel electrophoresis](/wiki/Gel_Electrophoresis_MC "wikilink")
+-   [Restriction enzyme](/wiki/Restriction_enzyme "wikilink")
+-   [Ligation](/wiki/Ligation "wikilink")
+-   [Transformation](/wiki/Transformation "wikilink")
+-   [Reporter Gene](/wiki/Reporter_Gene "wikilink")
+-   [DNA damage and repair](/wiki/DNA_damage_and_repair "wikilink")
 
 After reading all the theory: Start Labster!
 --------------------------------------------

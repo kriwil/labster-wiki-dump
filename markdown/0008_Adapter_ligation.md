@@ -2,7 +2,7 @@
 Thymine tail of the
 adapter.]( Adapterligation.png "The Adenine tail of the DNA sample will bind specifically with the Thymine tail of the adapter.")
 
-As explained in the [End-repair](End-repair "wikilink") section, the
+As explained in the [End-repair](/wiki/End-repair "wikilink") section, the
 purpose of adding Adenine at the end of the DNA strand is to allow
 specific paring with the Thymine tail of the adapter.
 
@@ -35,10 +35,10 @@ cell. The flow cell is covered in many short DNA molecules that are
 complimentary to the adapter. When our DNA molecules are pumped into the
 flow cell, the adapters will recognize the short DNA molecules attached
 to the flow cell and bind together. This is important for the [Cluster
-generation](Cluster generation "wikilink") to take place.
+generation](/wiki/Cluster_generation "wikilink") to take place.
 
-[⇐ Previous (A-overhang)](A-tailing "wikilink") / [Next (PCR
-amplification)⇒](PCR amplification "wikilink")
+[⇐ Previous (A-overhang)](/wiki/A-tailing "wikilink") / [Next (PCR
+amplification)⇒](/wiki/PCR_amplification "wikilink")
 
-[⇐ Theory overview](NGS_Case "wikilink")
+[⇐ Theory overview](/wiki/NGS_Case "wikilink")
 

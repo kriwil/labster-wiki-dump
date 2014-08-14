@@ -12,10 +12,10 @@ arabic numeral (1, 2, 3, 4 etc.).
 
 ![Pedigree illustrating a three generation family and the inheritance of
 an X-linked recessive
-trait.](Pedigree wiki.jpg "Pedigree illustrating a three generation family and the inheritance of an X-linked recessive trait.")
+trait.](/wiki/Pedigree wiki.jpg "Pedigree illustrating a three generation family and the inheritance of an X-linked recessive trait.")
 
-[\<-- Previous (Hereditary traits)](Hereditary traits "wikilink") /
-[Next (Mode of inheritance) --\>](Mode of inheritance "wikilink")
+[\<-- Previous (Hereditary traits)](/wiki/Hereditary_traits "wikilink") /
+[Next (Mode of inheritance) --\>](/wiki/Mode_of_inheritance "wikilink")
 
-[\<-- Theory overview](Animal Genetics "wikilink")
+[\<-- Theory overview](/wiki/Animal_Genetics "wikilink")
 

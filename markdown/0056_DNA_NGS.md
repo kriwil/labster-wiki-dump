@@ -1,6 +1,6 @@
-![Figure 1. DNA is made up of [Nucleotides](Nucleotides "wikilink")
+![Figure 1. DNA is made up of [Nucleotides](/wiki/Nucleotides "wikilink")
 abbreviated as A, T, C and G. They pair as A–T and
-G-C)](DNA helix bases.png "Figure 1. DNA is made up of Nucleotides abbreviated as A, T, C and G. They pair as A–T and G-C)")
+G-C)](/wiki/DNA helix bases.png "Figure 1. DNA is made up of Nucleotides abbreviated as A, T, C and G. They pair as A–T and G-C)")
 
 DNA is the hereditary material of all living organisms, including
 humans. DNA stores information through a code made up of four chemical
@@ -17,7 +17,7 @@ DNA structure
 ![Figure 2. DNA is organized in a double-helix form. It is said to be
 antiparallel because one strand runs in the 5′→3′ direction and the
 other runs in the 3'→5'
-direction](Dna chemical.png "fig:Figure 2. DNA is organized in a double-helix form. It is said to be antiparallel because one strand runs in the 5′→3′ direction and the other runs in the 3'→5' direction")\
+direction](/wiki/Dna chemical.png "fig:Figure 2. DNA is organized in a double-helix form. It is said to be antiparallel because one strand runs in the 5′→3′ direction and the other runs in the 3'→5' direction")\
 \
 \
 \
@@ -85,7 +85,7 @@ sample can be quite tricky as compared to blood samples or tissue
 samples. There are many commercial kits available for extracting
 specific sample including for bone samples.
 
-[Next (Ancient DNA sample) ⇒](Ancient DNA sample "wikilink")
+[Next (Ancient DNA sample) ⇒](/wiki/Ancient_DNA_sample "wikilink")
 
-[⇐ Theory overview](NGS Case "wikilink")
+[⇐ Theory overview](/wiki/NGS_Case "wikilink")
 

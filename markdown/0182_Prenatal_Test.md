@@ -26,7 +26,7 @@ Ultrasound Examination
 
 ![Ultrasound examination result Left:Baby with cleft lip Right:Baby
 without cleft
-lip](Cleft usg1.jpg "Ultrasound examination result Left:Baby with cleft lip Right:Baby without cleft lip")
+lip](/wiki/Cleft usg1.jpg "Ultrasound examination result Left:Baby with cleft lip Right:Baby without cleft lip")
 
 Ultrasound is the use of high frequency sound waves to make an image.
 Ultrasound is part of prenatal diagnostic test that are used to see if
@@ -57,7 +57,7 @@ ultrasound.
 Amniocentesis
 -------------
 
-![Amniocentesis process](Amniocentesis.jpg "Amniocentesis process")
+![Amniocentesis process](/wiki/Amniocentesis.jpg "Amniocentesis process")
 
 Amniotic fluid obtained via amniocentesis provides a source of fetal
 material used in prenatal diagnosis. Amniocentesis usually performed
@@ -95,6 +95,6 @@ Danish healthcare system:
 -   Information booklet about prenatal diagnosis
     [1](http://sundhedsstyrelsen.dk/publ/Publ2004/Informeret_valg.pdf)
 
-[ Cleft Lip and Palate ⇒](Cleft Lip and Palate "wikilink")\
-[ ⇐ Theory Overview](Cytogenetics "wikilink")
+[ Cleft Lip and Palate ⇒](/wiki/Cleft_Lip_and_Palate "wikilink")\
+[ ⇐ Theory Overview](/wiki/Cytogenetics "wikilink")
 

@@ -6,13 +6,13 @@ Enzyme kinetics is the study of enzyme mechanisms through determination
 of reaction rates under varied conditions. The rate of a reaction is
 dependent on several factors including the concentration of the
 substrate and the enzyme, temperature, pH and presence of
-[inhibitors](inhibitors "wikilink"). [1]
+[inhibitors](/wiki/inhibitors "wikilink"). [1]
 
 Performing kinetic assays
 -------------------------
 
 The aim of a kinetic assay is to model the [reaction
-rate](reaction rate "wikilink"), V, as a function of the substrate
+rate](/wiki/reaction_rate "wikilink"), V, as a function of the substrate
 concentration, [S], as illustrated in Fig. 1. It is therefore necessary
 to measure the rate at several different substrate concentrations. For
 each substrate concentration, a progress curve showing the amount of
@@ -27,11 +27,11 @@ progress curve in the beginning of the reaction, when the progress curve
 is still linear [1].
 
 The simplest model of V as a function of [S] is the [Michaelis-Menten
-equation](Michaelis-Menten "wikilink"). Reactions where the
+equation](/wiki/Michaelis-Menten "wikilink"). Reactions where the
 Michaelis-Menten equation can be applied show an increase in the
 reaction rate when [S] is increased; however, this increase is
 diminished as the rate approaches the [maximum
-velocity](vmax "wikilink"), V~max~ as seen in Fig.1. The
+velocity](/wiki/vmax "wikilink"), V~max~ as seen in Fig.1. The
 Michaelis-Menten equation will be further described on the following
 pages [1].
 
@@ -71,5 +71,5 @@ References
 *Principles of Biochemistry* (5th ed.). New York, NY: W.H. Freeman and
 Company. ISBN 978-0-7167-7108-1.
 
-[⇐ Theory overview](Enzyme Kinetics "wikilink")
+[⇐ Theory overview](/wiki/Enzyme_Kinetics "wikilink")
 

@@ -71,8 +71,8 @@ scale.]( MobilePolarity.jpg "Figure 3. Mobile phase polarity scale.")
                  
   -----------------------------------
 
-[ ⇐ Previous (HPLC machine)](HPLC machine "wikilink")/ [ Next (Pumps)
-⇒](Pumps "wikilink")
+[ ⇐ Previous (HPLC machine)](/wiki/HPLC_machine "wikilink")/ [ Next (Pumps)
+⇒](/wiki/Pumps "wikilink")
 
-[⇐ Theory overview](HPLC "wikilink")
+[⇐ Theory overview](/wiki/HPLC "wikilink")
 

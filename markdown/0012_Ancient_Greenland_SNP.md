@@ -46,5 +46,5 @@ populations and absent in populations of African and European origins.
 The 1540C allele has also been associated with Asian-specific hair
 thickness.
 
-[⇐ Theory overview](NGS_Case "wikilink")
+[⇐ Theory overview](/wiki/NGS_Case "wikilink")
 

@@ -6,8 +6,8 @@ will primarily affect tissues relying on and expressing that specific
 gene. Techniques for detecting gene expression are for example, northern
 blot, quantitative PCR, and microarray.
 
-[← Previous (Linkage analysis)](Linkage Analysis "wikilink") / [Next
-(DNA sequencing) →](DNA sequencing "wikilink")
+[← Previous (Linkage analysis)](/wiki/Linkage_Analysis "wikilink") / [Next
+(DNA sequencing) →](/wiki/DNA_sequencing "wikilink")
 
-[← Theory Overview](Animal Genetics "wikilink")
+[← Theory Overview](/wiki/Animal_Genetics "wikilink")
 

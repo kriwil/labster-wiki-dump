@@ -14,7 +14,7 @@ forskellige slags kulhydrater, enten i en ren form eller sat sammen i
 kæder. Tre af disse grundlæggende stukture kan ses ud fra det
 nedestående billede, hvor man kan se stukturen for hhv. glukose,
 galaktose og fruktose.\
-![](sukkerstruktur.jpg "fig:sukkerstruktur.jpg")\
+![](/wiki/sukkerstruktur.jpg "fig:sukkerstruktur.jpg")\
 Sukrose f.eks, som er det klassiske hvide sukker, består af et glukose
 og fruktose molekyle sat sammen også kaldet en oligosakkarid. Dette gør
 at kroppen ikke er i stand til at optage molekylet som det er, og er
@@ -80,10 +80,10 @@ kurven for en blodsukker måling. Man kan på den måde undersøge, beskrive
 og sammenligne den tilgængelige mængde energi i forskellige typer mad.
 Man kan på den nedestående graf se forskellige på to typer mad, et
 hurtigt levningsmiddel med en høj GI, og et langsomt levningsmiddel med
-en lav GI. ![](GI_New.jpg "fig:GI_New.jpg")
+en lav GI. ![](/wiki/GI_New.jpg "fig:GI_New.jpg")
 
 [⇐Forrige (Det humane
-fordøjelsessystem)](Det humane fordøjelses system "wikilink") / [Næste
-(Diabetes) ⇒](Diabetes "wikilink")\
-[⇐ Teori oversigt ](Bio-Kemi "wikilink")
+fordøjelsessystem)](/wiki/Det_humane_fordøjelses_system "wikilink") / [Næste
+(Diabetes) ⇒](/wiki/Diabetes "wikilink")\
+[⇐ Teori oversigt ](/wiki/Bio-Kemi "wikilink")
 

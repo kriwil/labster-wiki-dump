@@ -30,7 +30,7 @@ bruge på vækst, vil noget af sukkeren blive omdirigeret fra respiration
 til ethanol fermentering.\
 
 ![ Aerob og anaerob
-respiration](Anerobic and aerobic respiration dk.jpg " Aerob og anaerob respiration")
+respiration](/wiki/Anerobic and aerobic respiration dk.jpg " Aerob og anaerob respiration")
 
 ### Substrat niveau fosforylering
 
@@ -77,8 +77,8 @@ oxideringen af molekylet med O2 som elektronacceptor.
 
   : Table 1. Aerob Respiration og Fermenteringen
 
-[⇐ Forrige (Vækstmedie)](Vækstmedie "wikilink") /[Næste (Glykolysen)
-⇒](Glykolysen "wikilink")
+[⇐ Forrige (Vækstmedie)](/wiki/Vækstmedie "wikilink") /[Næste (Glykolysen)
+⇒](/wiki/Glykolysen "wikilink")
 
-[⇐ Teori oversigt ](Fermenteringscase "wikilink")
+[⇐ Teori oversigt ](/wiki/Fermenteringscase "wikilink")
 

@@ -9,7 +9,7 @@ Some enzymes require "helper-molecules" for catalysis to take place.
 These helper-molecules are called cofactors. Cofactors are non-protein
 molecules that bind to the enzyme and contribute to reactions in a
 number of different ways. Co-factors can either be inorganic ions, such
-as the Zn^2+^ ions required by [ADH](ADH "wikilink"), or they can be
+as the Zn^2+^ ions required by [ADH](/wiki/ADH "wikilink"), or they can be
 more complex organic or metalloorganic molecules, which are then called
 co-enzymes. If a co-factor is bound tightly (sometimes covalently) to
 the enzyme, it is termed a prosthetic group [1].
@@ -37,8 +37,8 @@ References
 *Principles of Biochemistry* (5th ed.). New York, NY: W.H. Freeman and
 Company. ISBN 978-0-7167-7108-1.
 
-[⇐Previous (Substrate)](Substrate "wikilink") / [Next (Product)
-⇒](Product "wikilink")
+[⇐Previous (Substrate)](/wiki/Substrate "wikilink") / [Next (Product)
+⇒](/wiki/Product "wikilink")
 
-[⇐Theory overview](Enzyme Kinetics "wikilink")
+[⇐Theory overview](/wiki/Enzyme_Kinetics "wikilink")
 

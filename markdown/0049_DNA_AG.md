@@ -1,6 +1,6 @@
-![DNA is made up of [Nucleotides](Nucleotides "wikilink") abbreviated A,
+![DNA is made up of [Nucleotides](/wiki/Nucleotides "wikilink") abbreviated A,
 T, C and G. They pair A-T and
-G-C](DNA helix bases.png "DNA is made up of Nucleotides abbreviated A, T, C and G. They pair A-T and G-C")
+G-C](/wiki/DNA helix bases.png "DNA is made up of Nucleotides abbreviated A, T, C and G. They pair A-T and G-C")
 
 DNA is the hereditary material of all living organisms, including
 humans. DNA stores information through a code made up of four chemical
@@ -46,7 +46,7 @@ genome consists of noncoding DNA!
 ![Figure 2. DNA is organized in a double-helix form. It is said to be
 antiparallel because one strand runs in the 5′→3′ direction and the
 other runs in the 3′→5′
-direction](DNA helix copy.jpg "Figure 2. DNA is organized in a double-helix form. It is said to be antiparallel because one strand runs in the 5′→3′ direction and the other runs in the 3′→5′ direction")
+direction](/wiki/DNA helix copy.jpg "Figure 2. DNA is organized in a double-helix form. It is said to be antiparallel because one strand runs in the 5′→3′ direction and the other runs in the 3′→5′ direction")
 
 **DNA extraction** DNA can be extracted from any cell. First, we need to
 disrupt the cell (also known as cell lysis). This can be achieved using
@@ -60,10 +60,10 @@ of the most popular methods is the use of phenol and chloroform;
 however, newer methods that are easier and safer have been developed,
 for example, using column separation.
 
-[\<-- Theory overview](Animal Genetics "wikilink")
+[\<-- Theory overview](/wiki/Animal_Genetics "wikilink")
 
 ![DNA is organized in a double-helix form. It is said to be
 antiparallel, because one strand runs in the 5'-\>3' direction and the
 other in the 3'-\>5'
-direction](Dna chemical.png "DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'->3' direction and the other in the 3'->5' direction")
+direction](/wiki/Dna chemical.png "DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'->3' direction and the other in the 3'->5' direction")
 

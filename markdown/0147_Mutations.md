@@ -28,7 +28,7 @@ alters the reading frame
 
 (Chapter 8 page 276)
 
-[ ← Previous (DNA sequencing)](DNA sequencing "wikilink")
+[ ← Previous (DNA sequencing)](/wiki/DNA_sequencing "wikilink")
 
-[← Theory Overview](Animal Genetics "wikilink")
+[← Theory Overview](/wiki/Animal_Genetics "wikilink")
 

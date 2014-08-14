@@ -83,7 +83,7 @@ difficult to determine because it can be modified by many factors such
 as age, environmental factors, other genes (polygenic), and epigenetic
 regulation.
 
-[Next (Pedigree) ⇒](Pedigree_MG "wikilink")
+[Next (Pedigree) ⇒](/wiki/Pedigree_MG "wikilink")
 
-[⇐ Theory overview](Medical Genetics case "wikilink")
+[⇐ Theory overview](/wiki/Medical_Genetics_case "wikilink")
 

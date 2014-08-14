@@ -2,7 +2,7 @@ This page is specifically discussing the process of diagnosing cleft lip
 and/or palate.
 
 ![The risk of birth defects increases with mother's
-age](Maternal Age Risk.jpg "The risk of birth defects increases with mother's age")
+age](/wiki/Maternal Age Risk.jpg "The risk of birth defects increases with mother's age")
 
 Prenatal diagnosis is the process of ruling in or out fetal anomalies or
 genetic disorders, to provide expecting parents with information and the
@@ -39,7 +39,7 @@ performed. This page
 [1](https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/gynaekologi/tilstande-og-sygdomme/abort/abort-provokeret/)
 provide more information on how abortion is performed in Denmark.
 
-[ ⇐ Chromosome Abnormalities](Chromosome Abnormalities "wikilink")/ [
-Pedigree ⇒](Pedigree Cytogenetics "wikilink")\
-[ ⇐ Theory Overview](Cytogenetics "wikilink")
+[ ⇐ Chromosome Abnormalities](/wiki/Chromosome_Abnormalities "wikilink")/ [
+Pedigree ⇒](/wiki/Pedigree_Cytogenetics "wikilink")\
+[ ⇐ Theory Overview](/wiki/Cytogenetics "wikilink")
 

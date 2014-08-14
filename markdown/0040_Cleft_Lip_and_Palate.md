@@ -1,5 +1,5 @@
 ![Anatomy of lip and
-palate](Anatomy of lip and palate.jpg "Anatomy of lip and palate")
+palate](/wiki/Anatomy of lip and palate.jpg "Anatomy of lip and palate")
 
 A cleft lip and palate is a gap, which occurs when the lip and/or roof
 of the mouth does not completely fuse during the first trimester of
@@ -12,7 +12,7 @@ from fusing tissue of upper lip, gum and inner mouth sides. Formation of
 palate takes palate takes place between 7^th^ and 14^th^ week of
 gestation.\
  ![Cleft Lip and
-Palate](Cleft Lip and Palate.jpg "fig:Cleft Lip and Palate")
+Palate](/wiki/Cleft Lip and Palate.jpg "fig:Cleft Lip and Palate")
 
 Generally, cleft is divided into three categories:
 
@@ -20,8 +20,8 @@ Generally, cleft is divided into three categories:
 -   Isolated cleft palate
 -   Cleft lip and palate
 
-[ ⇐ Prenatal Test](Prenatal Test "wikilink")/ [ Array Comparative
+[ ⇐ Prenatal Test](/wiki/Prenatal_Test "wikilink")/ [ Array Comparative
 Genomic Hybridization
-⇒](Array Comparative Genomic Hybridization "wikilink")\
-[ ⇐ Theory Overview](Cytogenetics "wikilink")
+⇒](/wiki/Array_Comparative_Genomic_Hybridization "wikilink")\
+[ ⇐ Theory Overview](/wiki/Cytogenetics "wikilink")
 

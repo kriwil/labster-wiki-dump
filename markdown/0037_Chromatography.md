@@ -63,7 +63,7 @@ chromatography can be distinguished:
   ---------------------------------------------------------
 
 [Next (High Performance Liquid
-Chromatography)⇒](High Performance Liquid Chromatography "wikilink")
+Chromatography)⇒](/wiki/High_Performance_Liquid_Chromatography "wikilink")
 
-[⇐ Theory overview](HPLC "wikilink")
+[⇐ Theory overview](/wiki/HPLC "wikilink")
 

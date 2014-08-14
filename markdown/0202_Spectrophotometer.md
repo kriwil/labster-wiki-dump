@@ -35,7 +35,7 @@ A spectrophotometer consists of the following (Fig. 1):
 ![Fig. 1. Light emitted from the source passes through the slit, letting
 only 1 specific wavelength through. This light will through the sample
 placed in a cuvette and will be measured by the
-detector.](Spectrophotometer.png "Fig. 1. Light emitted from the source passes through the slit, letting only 1 specific wavelength through. This light will through the sample placed in a cuvette and will be measured by the detector.")
+detector.](/wiki/Spectrophotometer.png "Fig. 1. Light emitted from the source passes through the slit, letting only 1 specific wavelength through. This light will through the sample placed in a cuvette and will be measured by the detector.")
 
 In this case, we will measure concentrations of NADH. NADH has an
 absorption maximum at 340 nm; therefore, the spectrophotometer is set to
@@ -63,5 +63,5 @@ light is transmitted and so on in a logarithmic trend.
 [Click here](http://youtu.be/pxC6F7bK8CU) to watch the short video clip
 describing how a spectrophotometer works.
 
-[⇐ Theory overview](Enzyme Kinetics "wikilink")
+[⇐ Theory overview](/wiki/Enzyme_Kinetics "wikilink")
 

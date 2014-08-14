@@ -61,7 +61,7 @@ water (the medium around the cell will be hypertonic) causes cell
 shrink.
 
 ![Osmosis phenomena in red blood
-cells.](Osmotic_pressure_on_blood_cells_diagram.png "Osmosis phenomena in red blood cells.")
+cells.](/wiki/Osmotic_pressure_on_blood_cells_diagram.png "Osmosis phenomena in red blood cells.")
 
 Water potential
 ---------------
@@ -89,8 +89,8 @@ L∙bar/mol∙K), and T is the absolute temperature (K). Notice that
 ionization constant is 1 for molecules that do not ionize when
 dissolved.
 
-[\<-- Previous (Acid and base)](Acid and base "wikilink") / [Next (Blood
-typing) --\>](Blood typing "wikilink")
+[\<-- Previous (Acid and base)](/wiki/Acid_and_base "wikilink") / [Next (Blood
+typing) --\>](/wiki/Blood_typing "wikilink")
 
-[\<-- Theory overview](Intro Lab "wikilink")
+[\<-- Theory overview](/wiki/Intro_Lab "wikilink")
 

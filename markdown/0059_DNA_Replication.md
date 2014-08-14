@@ -8,10 +8,10 @@ replicated by an enzyme called DNA polymerase, which makes a copy of a
 DNA strand by connecting nucleotides to each other in the same sequence
 as in the original, template DNA.
 
-[← Previous (Tandem Repeats Region)](Tandem_Repeated_Regions "wikilink")
-/ [Next (PCR) →](PCR "wikilink")
+[← Previous (Tandem Repeats Region)](/wiki/Tandem_Repeated_Regions "wikilink")
+/ [Next (PCR) →](/wiki/PCR "wikilink")
 
-Back to [CSI Case](CSI Case "wikilink")
+Back to [CSI Case](/wiki/CSI_Case "wikilink")
 
-Back to [Main Page](Main Page "wikilink")
+Back to [Main Page](/wiki/Main_Page "wikilink")
 

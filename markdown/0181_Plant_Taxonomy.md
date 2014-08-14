@@ -1,4 +1,4 @@
-![Plant Taxonomy](plant taxonomy.jpg "Plant Taxonomy")
+![Plant Taxonomy](/wiki/plant taxonomy.jpg "Plant Taxonomy")
 
 ### Plant Taxonomy
 
@@ -39,6 +39,6 @@ arise. A species is a group of individuals whose members have the
 potential to produce a fertile offspring with a member of the same
 species but not with members of other species.
 
-[ ⇐ Theory Overview](PlantLab "wikilink")/ [Plant Secondary Metabolites
-⇒](Plant_Secondary_Metabolites "wikilink")
+[ ⇐ Theory Overview](/wiki/PlantLab "wikilink")/ [Plant Secondary Metabolites
+⇒](/wiki/Plant_Secondary_Metabolites "wikilink")
 

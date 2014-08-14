@@ -24,7 +24,7 @@ specturm with a unique fragmentation pattern. This molecular fingerprint
 can be compared to a database and the component can be identified.
 
 [ ⇐ Plant Secondary
-Metabolites](Plant Secondary Metabolites "wikilink")/[ Killer Assay ⇒
-](Killer Assay "wikilink")\
-[ ⇐ Theory Overview](PlantLab "wikilink")
+Metabolites](/wiki/Plant_Secondary_Metabolites "wikilink")/[ Killer Assay ⇒
+](/wiki/Killer_Assay "wikilink")\
+[ ⇐ Theory Overview](/wiki/PlantLab "wikilink")
 

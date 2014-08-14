@@ -7,7 +7,7 @@ be fragmented or cut into a smaller size. This step is typically
 referred to as the *fragmentation* step.
 
 Shorter DNA samples, for example, [ancient DNA
-sample](ancient DNA sample "wikilink") do not need to be fragmented
+sample](/wiki/ancient_DNA_sample "wikilink") do not need to be fragmented
 because they are already partially degraded into approximately 50 bp.
 Another example is cDNA generated from miRNA (micro RNA), which is also
 very short.
@@ -33,8 +33,8 @@ are several different enzymes that are capable of cutting DNA strands;
 they can target specific sequences or randomly cut the DNA.
 
 [⇐ Previous (Next Generation
-Sequencing)](Next Generation Sequencing "wikilink") / [Next
-(End-repair)⇒](End-repair "wikilink")
+Sequencing)](/wiki/Next_Generation_Sequencing "wikilink") / [Next
+(End-repair)⇒](/wiki/End-repair "wikilink")
 
-[⇐ Theory overview](NGS_Case "wikilink")
+[⇐ Theory overview](/wiki/NGS_Case "wikilink")
 

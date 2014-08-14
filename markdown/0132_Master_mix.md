@@ -53,5 +53,5 @@ Isolate: V~1~ = (C~2~ • V~2~)/C~1~
 
 Insert and calculate: V~1~ = (0.2 M • 0.0005l) / 1 M = 0.0001 L = 100 µl
 
-[⇐ Theory overview](Enzyme Kinetics "wikilink")
+[⇐ Theory overview](/wiki/Enzyme_Kinetics "wikilink")
 

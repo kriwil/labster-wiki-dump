@@ -100,7 +100,7 @@ linked immuno-sorbant assay (ELISA), som burger antistoffer til at
 identificere proteiner som er specifikke for den undersøgte
 mikroorganisme.\
 
-[⇐ Forrige (Fermentering)](Fermentering "wikilink") / [Næste (Mikrobiel
-vækst) ⇒](Mikrobiel vækst "wikilink")\
-[⇐ Teori oversigt ](Fermenteringscase "wikilink")
+[⇐ Forrige (Fermentering)](/wiki/Fermentering "wikilink") / [Næste (Mikrobiel
+vækst) ⇒](/wiki/Mikrobiel_vækst "wikilink")\
+[⇐ Teori oversigt ](/wiki/Fermenteringscase "wikilink")
 

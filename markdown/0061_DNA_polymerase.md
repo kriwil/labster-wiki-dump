@@ -1,6 +1,6 @@
 ![DNA polymerasen syntitisere en ny DNA streng i 5´-\>3' retning. Den
 nye streng er komplementær til template strengen og
-antiparallel.](PCR-process dk.jpg "DNA polymerasen syntitisere en ny DNA streng i 5´->3' retning. Den nye streng er komplementær til template strengen og antiparallel.")
+antiparallel.](/wiki/PCR-process dk.jpg "DNA polymerasen syntitisere en ny DNA streng i 5´->3' retning. Den nye streng er komplementær til template strengen og antiparallel.")
 
 DNA polymerase er det enzym som er ansvarlig for kopieringen af den nye
 DNA-streng ud fra template strengen. For at DNA polymerasen har et sted
@@ -30,7 +30,7 @@ i de varme kilder i Yellowstone national park. Denne Taq polymerase er
 aktiv ved temperature op til 95oC, derfor er man i stand til at køre
 flere cyklusser uden stop, og uden tilførslen af nyt polymerase.
 
-[⇐ Forrige (Primere)](Primere "wikilink") / [ Næste (Nukleotider)
-⇒](Nukleotider "wikilink")\
-[⇐ Teori oversigt ](CSI_Casen "wikilink")
+[⇐ Forrige (Primere)](/wiki/Primere "wikilink") / [ Næste (Nukleotider)
+⇒](/wiki/Nukleotider "wikilink")\
+[⇐ Teori oversigt ](/wiki/CSI_Casen "wikilink")
 

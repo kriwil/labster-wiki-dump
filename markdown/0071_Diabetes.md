@@ -116,6 +116,6 @@ Mest for type 2 diabetes kan tilføjes\
 Der findes på nuværende tidspunkt ingen kur mod diabetes, men forskning
 inden for stamceller giver håb for at der en dag kan findes en kur.
 
-[⇐Forrige (Næringsstoffer)](Næringsstoffer "wikilink")\
-[⇐ Teori oversigt ](Bio-Kemi "wikilink")
+[⇐Forrige (Næringsstoffer)](/wiki/Næringsstoffer "wikilink")\
+[⇐ Teori oversigt ](/wiki/Bio-Kemi "wikilink")
 

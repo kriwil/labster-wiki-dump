@@ -74,9 +74,9 @@ alleles, for example (CA)~10~ and (CA)~15~ he/she is said to be
 heterozygous for the microsatellite. On the other hand, when an
 individual has only one allele in both the chromosomes, he/she is said
 to be homozygous for the microsatellite. We can analyze the genotype of
-the microsatellite by amplifying it using [PCR](PCR_MG "wikilink") and
+the microsatellite by amplifying it using [PCR](/wiki/PCR_MG "wikilink") and
 analyzing the length (the number of repeats) using [gel
-electrophoresis](Gel electrophoresis_MG "wikilink").
+electrophoresis](/wiki/Gel_electrophoresis_MG "wikilink").
 
 Reference
 ---------
@@ -85,7 +85,7 @@ Reference
 1990, *Linkage of early-onset familial breast cancer to chromosome
 17q21.* Science Dec 21;250(4988):1684-9.
 
-[Next (PCR) ⇒](PCR_MG "wikilink")
+[Next (PCR) ⇒](/wiki/PCR_MG "wikilink")
 
-[⇐ Theory overview](Medical Genetics case "wikilink")
+[⇐ Theory overview](/wiki/Medical_Genetics_case "wikilink")
 

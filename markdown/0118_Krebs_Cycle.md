@@ -1,7 +1,7 @@
 ![ Citronsyre cyklussen starter med to-carbon molekylet acetyl-CoA, og
 vil igennem den fulde cyklus danne tre CO~2~ molekyler, fire NADH og en
 FADH~2~.
-](krebs cycle fc.jpg " Citronsyre cyklussen starter med to-carbon molekylet acetyl-CoA, og vil igennem den fulde cyklus danne tre CO2 molekyler, fire NADH og en FADH2. ")
+](/wiki/krebs cycle fc.jpg " Citronsyre cyklussen starter med to-carbon molekylet acetyl-CoA, og vil igennem den fulde cyklus danne tre CO2 molekyler, fire NADH og en FADH2. ")
 
 Krebs cycle or tricarboxylic acid (TCA) cycle or citric acid cycle is
 the pathway where pyruvate is converted to CO~2~ and intermediates are
@@ -15,7 +15,7 @@ molecules, more NADH, and one FADH are formed. In the end, oxaloacetate
 is regenerated to return as an acetyl acceptor, and the cycle is
 completed.
 
-[⇐ Forrige (Glycolysis)](Glycolysis "wikilink") / [Next (Electron
-Transport Chain) ⇒](Electron_Transport_Chain "wikilink")\
-[⇐ Theory overview](Fermentation_Case "wikilink")
+[⇐ Forrige (Glycolysis)](/wiki/Glycolysis "wikilink") / [Next (Electron
+Transport Chain) ⇒](/wiki/Electron_Transport_Chain "wikilink")\
+[⇐ Theory overview](/wiki/Fermentation_Case "wikilink")
 

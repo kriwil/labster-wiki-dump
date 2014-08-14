@@ -15,7 +15,7 @@ can then be estimated by comparing with the DNA ladder (Figure 1).
 a gel. The fragments will move at a speed and a distance relative to
 their size: smaller DNA molecules will move down the gel faster and
 further than longer DNA
-molecules.](Gelelektroforese.jpg "Figure 1. Fragments of different length from a PCR reaction are run on a gel. The fragments will move at a speed and a distance relative to their size: smaller DNA molecules will move down the gel faster and further than longer DNA molecules.")
+molecules.](/wiki/Gelelektroforese.jpg "Figure 1. Fragments of different length from a PCR reaction are run on a gel. The fragments will move at a speed and a distance relative to their size: smaller DNA molecules will move down the gel faster and further than longer DNA molecules.")
 
 By mixing the PCR product with loading buffer, we can visualize how far
 the PCR product has traveled during gel electrophoresis. Loading buffer
@@ -61,7 +61,7 @@ order to enhance the gel dissolving process, the mixture is incubated at
 The last step is the addition of the elution buffer to elute the
 purified DNA from the purification column.
 
-[⇐ Previous (Polymerase Chain Reaction)](PCR_MC "wikilink") / [Next
-(Restriction Enzyme) ⇒](Restriction_enzyme "wikilink")\
-[⇐ Theory overview](Molecular Cloning "wikilink")
+[⇐ Previous (Polymerase Chain Reaction)](/wiki/PCR_MC "wikilink") / [Next
+(Restriction Enzyme) ⇒](/wiki/Restriction_enzyme "wikilink")\
+[⇐ Theory overview](/wiki/Molecular_Cloning "wikilink")
 

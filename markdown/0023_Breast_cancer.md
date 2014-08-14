@@ -13,7 +13,7 @@ that are inherited from one of the parents. Mutations of the BRCA1 and
 BRCA2 are the most common. Women with BRCA1/2 mutations have up to an
 80% risk of developing breast cancer during their lifetime, and they are
 more likely to be diagnosed at a younger age (before menopause). This is
-explained previously in the [heritable cancer](Cancer "wikilink")
+explained previously in the [heritable cancer](/wiki/Cancer "wikilink")
 section. An increased ovarian cancer risk is also associated with these
 genetic mutations. Mutations in *BRCA1* or *BRCA2* can be passed on from
 the mother or the father.
@@ -49,7 +49,7 @@ nonhomologous end joining repair and homologous recombination, while
 as KU proteins that are involved in nonhomologous end joining and Rad51
 proteins that are involved in homologous recombination (Figure 1).
 
-[⇐ Previous (Cancer)](Cancer "wikilink")
+[⇐ Previous (Cancer)](/wiki/Cancer "wikilink")
 
-[⇐ Theory overview](Medical Genetics case "wikilink")
+[⇐ Theory overview](/wiki/Medical_Genetics_case "wikilink")
 

@@ -24,15 +24,15 @@ The ligation reaction generally consist of two steps:
 ![Ligation reaction. The AMP nucleotide is transferred to the
 5'-phosphate. Then the AMP-phosphate bond is attacked by 3'-OH forming a
 covalent bond while releasing
-AMP.](ligase.png "Ligation reaction. The AMP nucleotide is transferred to the 5'-phosphate. Then the AMP-phosphate bond is attacked by 3'-OH forming a covalent bond while releasing AMP.")
+AMP.](/wiki/ligase.png "Ligation reaction. The AMP nucleotide is transferred to the 5'-phosphate. Then the AMP-phosphate bond is attacked by 3'-OH forming a covalent bond while releasing AMP.")
 
 The efficiency of a ligation reaction can be increased by optimizing the
 insert:vector ratio. A ratio of 3:1 is a good initial parameter. The
 concentration of DNA vector and insert can be measured using
-spectrophotometer such as [Nanodrop](DNA_Isolation "wikilink"). The
+spectrophotometer such as [Nanodrop](/wiki/DNA_Isolation "wikilink"). The
 formula required to calculate amount of gene of interest (insert) to be
 added in the ligation reaction is:\
-![](ligation formula.png "fig:ligation formula.png")
+![](/wiki/ligation formula.png "fig:ligation formula.png")
 
 **Example of ligation reaction optimization calculation:**\
 **Data**\
@@ -81,7 +81,7 @@ Plasmid vector
 
 ![ Expression vector contains multiple cloning sites, a selectable
 marker, an origin of replication, an operator and a strong
-promoter.](Expression vector.jpg "fig: Expression vector contains multiple cloning sites, a selectable marker, an origin of replication, an operator and a strong promoter.")
+promoter.](/wiki/Expression vector.jpg "fig: Expression vector contains multiple cloning sites, a selectable marker, an origin of replication, an operator and a strong promoter.")
 Plasmid are extra-chromosomal molecules of DNA, mostly double-stranded,
 covalently closed, and circular molecule. It varies in size from 1 kb to
 more than 200 kb. Not all plasmids are a vector. A DNA molecule such as
@@ -127,7 +127,7 @@ successfully ligated into plasmid vector with the correct conformation
 and reading frame. Frame shift can cause nonsense or misense mutation
 that lead to the expression of nonfunctional protein.
 
-[⇐ Previous (Restriction enzyme)](Restriction enzyme "wikilink") / [Next
-(Transformation) ⇒](Transformation "wikilink")\
-[⇐ Theory overview](Molecular Cloning "wikilink")
+[⇐ Previous (Restriction enzyme)](/wiki/Restriction_enzyme "wikilink") / [Next
+(Transformation) ⇒](/wiki/Transformation "wikilink")\
+[⇐ Theory overview](/wiki/Molecular_Cloning "wikilink")
 

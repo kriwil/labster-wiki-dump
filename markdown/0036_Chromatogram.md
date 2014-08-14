@@ -63,7 +63,7 @@ shown in the Figure 2.
 to the
 concentration.]( Calibration curve.png "Figure 2. Calibration curve showing the relation between peak area to the concentration.")
 
-[⇐ Previous (Data analysis)](Data analysis "wikilink")
+[⇐ Previous (Data analysis)](/wiki/Data_analysis "wikilink")
 
-[⇐ Theory overview](HPLC "wikilink")
+[⇐ Theory overview](/wiki/HPLC "wikilink")
 

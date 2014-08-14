@@ -23,6 +23,6 @@ Productivity
 -   r~p~
 
 [\<-- Previous (Microbial
-Stoichiometry)](Microbial_Stoichiometry "wikilink")\
-[⇐ Theory overview](Fermentation_Case "wikilink")
+Stoichiometry)](/wiki/Microbial_Stoichiometry "wikilink")\
+[⇐ Theory overview](/wiki/Fermentation_Case "wikilink")
 

@@ -1,8 +1,7 @@
 Velkommen til Bio-Kemi laboratoriet
 -----------------------------------
 
-![Velkomen til Biologi-Kemi
-Lab.]( Title.jpg "fig:Velkomen til Biologi-Kemi Lab.")\
+![Velkomen til Biologi-Kemi Lab.]( Title.jpg "fig:Velkomen til Biologi-Kemi Lab.")\
 \
 \
 \
@@ -38,22 +37,20 @@ hjælpe dig igennem forsøgene.
 Du kan herfra klikke dig videre til de enkelte sektioner, alt efter hvad
 for et forsøg du er startet på
 
--   [Segl celler](Segl_Celler "wikilink")\
-    \*[DNA](DNA_Bio-Kemi "wikilink")
-    -   [DNA replikation](DNA replikation_Bio-Kemi "wikilink")
-    -   [PCR (Polymerase Chain
-        Reaction)](PCR (Polymerase chain reaction)_Bio-Kemi "wikilink")
-    -   [Primere](Primere_Bio-Kemi "wikilink")
-    -   [DNA polymerase](DNA polymerase_Bio-Kemi "wikilink")
-    -   [Nukleotider](Nukleotider_Bio-Kemi "wikilink")
-    -   [Gel elektroforese](Gel elektroforese_Bio-Kemi "wikilink")
--   [Blodsukker koncentration](Blodsukker_koncentration "wikilink")\
-    \*[Det humane fordøjelses
-    system](Det humane fordøjelses system "wikilink")
-    -   [Næringsstoffer](Næringsstoffer "wikilink")
-    -   [Diabetes](Diabetes "wikilink")
--   [Blodtype](Blodtype "wikilink")\
--   [Diffusion og osmose](Diffusion_og_osmose "wikilink")\
+-   [Segl celler](/wiki/Segl_Celler "wikilink")\
+    [DNA](/wiki/DNA_Bio-Kemi "wikilink")
+    -   [DNA replikation](/wiki/DNA_replikation_Bio-Kemi "wikilink")
+    -   [PCR (Polymerase Chain Reaction)](/wiki/PCR_Bio-Kemi "wikilink")
+    -   [Primere](/wiki/Primere_Bio-Kemi "wikilink")
+    -   [DNA polymerase](/wiki/DNA_polymerase_Bio-Kemi "wikilink")
+    -   [Nukleotider](/wiki/Nukleotider_Bio-Kemi "wikilink")
+    -   [Gel elektroforese](/wiki/Gel_elektroforese_Bio-Kemi "wikilink")
+-   [Blodsukker koncentration](/wiki/Blodsukker_koncentration "wikilink")\
+    [Det humane fordøjelses system](/wiki/Det_humane_fordøjelses_system "wikilink")
+    -   [Næringsstoffer](/wiki/Næringsstoffer "wikilink")
+    -   [Diabetes](/wiki/Diabetes "wikilink")
+-   [Blodtype](/wiki/Blodtype "wikilink")\
+-   [Diffusion og osmose](/wiki/Diffusion_og_osmose "wikilink")\
 
 God fornøjelse!
 

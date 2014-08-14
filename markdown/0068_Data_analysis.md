@@ -116,8 +116,8 @@ identify which peak corresponds to each molecule. For that purpose, you
 have to think what your stationary phase is made of (polar or non
 polar?) and see if your analytes are more or less polar.
 
-[⇐ Previously (Detector)](Detector "wikilink")\\ [ Next (Chromatogram)
-⇒](Chromatogram "wikilink")
+[⇐ Previously (Detector)](/wiki/Detector "wikilink")\\ [ Next (Chromatogram)
+⇒](/wiki/Chromatogram "wikilink")
 
-[⇐ Theory overview](HPLC "wikilink")
+[⇐ Theory overview](/wiki/HPLC "wikilink")
 

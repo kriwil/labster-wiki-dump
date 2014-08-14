@@ -97,7 +97,7 @@ example:
     adenine) starting from position 345.
 
 [⇐ Previous (Protein Truncation
-Test)](Protein Truncation Test "wikilink")
+Test)](/wiki/Protein_Truncation_Test "wikilink")
 
-[⇐ Theory overview](Medical Genetics case "wikilink")
+[⇐ Theory overview](/wiki/Medical_Genetics_case "wikilink")
 

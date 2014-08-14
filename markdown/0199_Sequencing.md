@@ -1,4 +1,4 @@
 -   DNA sequencing for confirmation
 
-[\<-- Theory overview](Molecular Cloning "wikilink")
+[\<-- Theory overview](/wiki/Molecular_Cloning "wikilink")
 

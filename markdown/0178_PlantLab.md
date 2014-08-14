@@ -24,25 +24,25 @@ learning. It takes about 15-20 minutes to read it all.
 Introduction
 ------------
 
-[Welcome to the Plant Lab](Welcome to the Plant Lab "wikilink")
+[Welcome to the Plant Lab](/wiki/Welcome_to_the_Plant_Lab "wikilink")
 
 Case Theory
 -----------
 
--   [Plant Taxonomy](Plant Taxonomy "wikilink")
+-   [Plant Taxonomy](/wiki/Plant_Taxonomy "wikilink")
 -   [Plant Secondary
-    Metabolites](Plant Secondary Metabolites "wikilink")
-    -   [Terpenoid Biosynthesis](Terpenoid Biosynthesis "wikilink")
+    Metabolites](/wiki/Plant_Secondary_Metabolites "wikilink")
+    -   [Terpenoid Biosynthesis](/wiki/Terpenoid_Biosynthesis "wikilink")
     -   [Molecular
-        Characterization](Molecular Characterization "wikilink")
--   [Malaria](Malaria "wikilink")
-    -   [Killer Assay](Killer Assay "wikilink")
--   [Gene Discovery](Gene Discovery "wikilink")
-    -   [cDNA](cDNA "wikilink")
-    -   [RNA extraction](RNA extraction "wikilink")
-    -   [ Next Generation Sequencing](NGS_Plant "wikilink")
-    -   [BLAST](BLAST "wikilink")
-    -   [Phylogenetics](Phylogenetics "wikilink")
--   [Moss Transformation](Moss Transformation "wikilink")
--   [Lab Biosafety](Lab Biosafety "wikilink")
+        Characterization](/wiki/Molecular_Characterization "wikilink")
+-   [Malaria](/wiki/Malaria "wikilink")
+    -   [Killer Assay](/wiki/Killer_Assay "wikilink")
+-   [Gene Discovery](/wiki/Gene_Discovery "wikilink")
+    -   [cDNA](/wiki/cDNA "wikilink")
+    -   [RNA extraction](/wiki/RNA_extraction "wikilink")
+    -   [ Next Generation Sequencing](/wiki/NGS_Plant "wikilink")
+    -   [BLAST](/wiki/BLAST "wikilink")
+    -   [Phylogenetics](/wiki/Phylogenetics "wikilink")
+-   [Moss Transformation](/wiki/Moss_Transformation "wikilink")
+-   [Lab Biosafety](/wiki/Lab_Biosafety "wikilink")
 

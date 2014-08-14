@@ -15,5 +15,5 @@ Fermenteringscase forløb
 -   Mission 3: Kvantitativ bedømmelse af gærs vækstfase
 -   Casen er færdig
 
-[⇐ Teori oversigt ](Fermenteringscase "wikilink")
+[⇐ Teori oversigt ](/wiki/Fermenteringscase "wikilink")
 

@@ -19,23 +19,23 @@ case!]( Wiki_Fermentation.jpg "fig:Welcome to the Fermentation case!")\
 \
 \
 == Introduction == [Welcome to the Fermentation
-case](Welcome to the Fermentation case "wikilink")
+case](/wiki/Welcome_to_the_Fermentation_case "wikilink")
 
 Case Theory
 -----------
 
--   [The Bioreactor](The Bioreactor "wikilink")\
-    \*[Sterilization](Sterilization "wikilink")
--   [Culture Media](Culture Media "wikilink")
--   [Cell Metabolism](Cell Metabolism "wikilink")\
-    \*[Glycolysis](Glycolysis "wikilink")
-    -   [Krebs Cycle](Krebs Cycle "wikilink")
-    -   [Electron Transport Chain](Electron Transport Chain "wikilink")
-    -   [Fermentation](Fermentation "wikilink")
--   [Microbe Identification](Microbe Identification "wikilink")
--   [Microbial Growth](Microbial Growth "wikilink")
-    -   [Microbial Stoichiometry](Microbial Stoichiometry "wikilink")\
--   [Excel Guide](Fermentation_excel "wikilink")\
+-   [The Bioreactor](/wiki/The_Bioreactor "wikilink")\
+    \*[Sterilization](/wiki/Sterilization "wikilink")
+-   [Culture Media](/wiki/Culture_Media "wikilink")
+-   [Cell Metabolism](/wiki/Cell_Metabolism "wikilink")\
+    \*[Glycolysis](/wiki/Glycolysis "wikilink")
+    -   [Krebs Cycle](/wiki/Krebs_Cycle "wikilink")
+    -   [Electron Transport Chain](/wiki/Electron_Transport_Chain "wikilink")
+    -   [Fermentation](/wiki/Fermentation "wikilink")
+-   [Microbe Identification](/wiki/Microbe_Identification "wikilink")
+-   [Microbial Growth](/wiki/Microbial_Growth "wikilink")
+    -   [Microbial Stoichiometry](/wiki/Microbial_Stoichiometry "wikilink")\
+-   [Excel Guide](/wiki/Fermentation_excel "wikilink")\
 
 Reference
 ---------

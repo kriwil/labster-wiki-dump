@@ -21,7 +21,7 @@ are numerical values that describe the overall quality of an alignment.
 The percentage of the query length that is included in the aligned
 segments is called the query coverage.
 
-[ ⇐ Next Generation Sequencing](NGS_Plant "wikilink")/ [ Phylogenetics
-⇒](Phylogenetics "wikilink")\
-[ ⇐ Theory Overview](PlantLab "wikilink")
+[ ⇐ Next Generation Sequencing](/wiki/NGS_Plant "wikilink")/ [ Phylogenetics
+⇒](/wiki/Phylogenetics "wikilink")\
+[ ⇐ Theory Overview](/wiki/PlantLab "wikilink")
 

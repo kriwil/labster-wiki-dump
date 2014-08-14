@@ -7,7 +7,7 @@ used instead of bioreactor; however, both mean the same.
 ![Bioreactor parts consist of the following: 1. pH monitor, 2.
 temperature monitor, 3. air outlet and inlet, 4. water/steam outlet and
 inlet, 5. nutrient inlet, 6. stirrer and 7. culture inlet
-](Bioreactor.png "Bioreactor parts consist of the following: 1. pH monitor, 2. temperature monitor, 3. air outlet and inlet, 4. water/steam outlet and inlet, 5. nutrient inlet, 6. stirrer and 7. culture inlet ")
+](/wiki/Bioreactor.png "Bioreactor parts consist of the following: 1. pH monitor, 2. temperature monitor, 3. air outlet and inlet, 4. water/steam outlet and inlet, 5. nutrient inlet, 6. stirrer and 7. culture inlet ")
 
 The key for an effective bioreactor is to control and maintain the
 microbial growth and metabolite production inside the bioreactor. To
@@ -33,6 +33,6 @@ very high CO~2~-levels, and a high biomass concentration relative to the
 product. It is extremely important to prevent contamination; therefore,
 the fermenter must be sterilized.
 
-[Next (Sterilization) ⇒](Sterilization "wikilink")\
- [⇐ Theory overview](Fermentation_Case "wikilink")
+[Next (Sterilization) ⇒](/wiki/Sterilization "wikilink")\
+ [⇐ Theory overview](/wiki/Fermentation_Case "wikilink")
 

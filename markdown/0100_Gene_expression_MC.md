@@ -6,5 +6,5 @@ primarily affect tissues relying on and expressing that specific gene.
 Techniques for detecting gene expression are for example northern blot,
 quantitative PCR and microarray.
 
-[\<-- Theory overview](Molecular Cloning "wikilink")
+[\<-- Theory overview](/wiki/Molecular_Cloning "wikilink")
 

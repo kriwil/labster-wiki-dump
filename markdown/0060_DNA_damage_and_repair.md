@@ -6,7 +6,7 @@ UV-induced DNA damage and repair
 --------------------------------
 
 **DNA damage** ![UV induce nucleotide
-dimer](photoreactivation.png "fig:UV induce nucleotide dimer") The
+dimer](/wiki/photoreactivation.png "fig:UV induce nucleotide dimer") The
 purine and pyrimidine bases of nucleic acids absorb UV radiation
 strongly. UV light can be classified into three groups based on the
 wavelength: UV-A (315-400nm), UV-B (280-315nm) and UV-C (280 nm). UV
@@ -29,7 +29,7 @@ breaks are the most dangerous because they affect both DNA strands and
 can lead to the loss of genetic material.
 
 **DNA repair** ![Homologous
-recombination](homologous recombination.png "fig:Homologous recombination")
+recombination](/wiki/homologous recombination.png "fig:Homologous recombination")
 Double-strand DNA breaks can be repaired by two main pathways:
 homologous recombination and non-homologous end-joining. In simple
 eukaryotes such as yeast, homologous recombination is the main pathway,
@@ -62,6 +62,6 @@ heptameric ring that catalyses DNA annealing and mediates Rad51-mediated
 strand invasion. Rad52 protein also protect 3' single-stranded DNA from
 exonucleolytic digestion in homologous recombination process.
 
-[⇐ Previous (Reporter gene)](Reporter Gene "wikilink")\
-[⇐ Theory overview](Molecular Cloning "wikilink")
+[⇐ Previous (Reporter gene)](/wiki/Reporter_Gene "wikilink")\
+[⇐ Theory overview](/wiki/Molecular_Cloning "wikilink")
 

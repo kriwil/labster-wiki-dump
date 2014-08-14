@@ -5,7 +5,7 @@ The area where substrates and co-factors binds to the enzyme is called
 the active site. This is where the catalysis takes place. An active site
 often appears like a pocket, and consists of several amino acids which
 can have specific interactions with the substrate [1]. Fig. 1 shows the
-active site of [alcohol dehydrogenase](ADH "wikilink") where NAD^+^
+active site of [alcohol dehydrogenase](/wiki/ADH "wikilink") where NAD^+^
 binds. Amino acid residue 47, which is responsible for the Asian glow
 syndrome is located in this active site, and this amino acid is
 important in binding to NAD^+^. If a mutation causes an amino acid
@@ -19,8 +19,8 @@ References
 *Principles of Biochemistry* (5th ed.). New York, NY: W.H. Freeman and
 Company. ISBN 978-0-7167-7108-1.
 
-[⇐ Previous (ADH)](ADH "wikilink") / [Next
-(Substrate)⇒](Substrate "wikilink")
+[⇐ Previous (ADH)](/wiki/ADH "wikilink") / [Next
+(Substrate)⇒](/wiki/Substrate "wikilink")
 
-[⇐ Theory overview](Enzyme Kinetics "wikilink")
+[⇐ Theory overview](/wiki/Enzyme_Kinetics "wikilink")
 

@@ -10,6 +10,6 @@ ukendte prøver og så sammenligner man de kendte bånd fra markøren med de
 ukendte fra prøven og kan derfor estimere størrelserne på ens
 fragmenter.
 
-[⇐ Forrige (Gel elektroforese)](Gel elektroforese "wikilink")\
-[⇐ Teori oversigt ](CSI_Casen "wikilink")
+[⇐ Forrige (Gel elektroforese)](/wiki/Gel_elektroforese "wikilink")\
+[⇐ Teori oversigt ](/wiki/CSI_Casen "wikilink")
 

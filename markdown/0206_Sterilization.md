@@ -11,7 +11,7 @@ a vacuum may develop and unsterile air be drawn into the vessel.
 
 ![Aseptic technique used in material transfer from the bottle. The neck
 of the bottle is always heated by Bunsen burner
-flame](aseptic.jpg "Aseptic technique used in material transfer from the bottle. The neck of the bottle is always heated by Bunsen burner flame")
+flame](/wiki/aseptic.jpg "Aseptic technique used in material transfer from the bottle. The neck of the bottle is always heated by Bunsen burner flame")
 
 ### Aseptic Technique
 
@@ -40,7 +40,7 @@ Key to work sterile is as follows:
     unwanted microorganisms.
 
 ![Autoclave tape. Before autoclave; white stripe, After autoclave: black
-stripe](autoclave tape.jpg "Autoclave tape. Before autoclave; white stripe, After autoclave: black stripe")
+stripe](/wiki/autoclave tape.jpg "Autoclave tape. Before autoclave; white stripe, After autoclave: black stripe")
 
 ### Media Sterilization
 
@@ -73,10 +73,10 @@ one can use the formula below: V~1~ is the volume taken from the
 inoculum, C~1~ is the concentration in the inoculum, V~2~ is the final
 volume in the fermenter and C~2~ is the concentration wanted in the
 fermenter.\
-![](Volumen.jpg "fig:Volumen.jpg")\
+![](/wiki/Volumen.jpg "fig:Volumen.jpg")\
  ![A contaminated petri dish. Various species of fungi has grown in this
 petri
-dish.](Contaminated culture.jpg "fig:A contaminated petri dish. Various species of fungi has grown in this petri dish.")
+dish.](/wiki/Contaminated culture.jpg "fig:A contaminated petri dish. Various species of fungi has grown in this petri dish.")
 
 Culture used to inoculate (inoculum) for fermentation meet the following
 criteria:
@@ -102,7 +102,7 @@ upscaled in prefermenters. After all steps are done without
 contamination, the inoculum is ready to be used in a production
 fermenter.
 
-[⇐ Previous (The Bioreactor)](The Bioreactor "wikilink") / [Next
-(Culture Media) ⇒](Culture Media "wikilink")\
-[⇐ Theory overview](Fermentation_Case "wikilink")
+[⇐ Previous (The Bioreactor)](/wiki/The_Bioreactor "wikilink") / [Next
+(Culture Media) ⇒](/wiki/Culture_Media "wikilink")\
+[⇐ Theory overview](/wiki/Fermentation_Case "wikilink")
 

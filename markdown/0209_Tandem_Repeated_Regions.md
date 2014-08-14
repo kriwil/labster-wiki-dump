@@ -13,7 +13,7 @@ gentagelser i forskellige individer. Gentagelserne kan være
 dinukleotide, trinukleotide eller mere. Et primer sæt placeret i enderne
 af den variable region vil forøge antallet af fragmenter af forskellig
 længde alt efter antallet af
-gentagelser.|x350px](FIle: tandem dk.jpeg "wikilink")
+gentagelser.|x350px](/wiki/FIle:_tandem_dk.jpeg "wikilink")
 
 ### Tandem repeated regions ændrer sig på grund af replikerings fejl
 
@@ -37,7 +37,7 @@ at være neutrale markøre. En høj mutationsrate og en høj frekvens gør
 dem til utroligt brugbare molekyle markøre for befolkningsstudier,
 faderskabstest og retsmedicinsk arbejde.
 
-[⇐ Forrige (DNA)](DNA_DK "wikilink") / [ Næste (DNA replikation)
-⇒](DNA replikation "wikilink")\
-[⇐ Teori oversigt ](CSI_Casen "wikilink")
+[⇐ Forrige (DNA)](/wiki/DNA_DK "wikilink") / [ Næste (DNA replikation)
+⇒](/wiki/DNA_replikation "wikilink")\
+[⇐ Teori oversigt ](/wiki/CSI_Casen "wikilink")
 

@@ -1,5 +1,4 @@
-![**Velkommen til CSI
-Casen!**]( CSI Case.jpg "fig:Velkommen til CSI Casen!")\
+![**Velkommen til CSI Casen!**]( CSI Case.jpg "fig:Velkommen til CSI Casen!")\
 \
 \
 \
@@ -25,20 +24,18 @@ tamara @labster.com
 
 ### Introduktion
 
--   [ At løse en mordsag ved hjælp af
-    bioteknologi](CSI casen Introduktion "wikilink")
+-   [ At løse en mordsag ved hjælp af bioteknologi](/wiki/CSI_casen_Introduktion "wikilink")
 
 ### Case teori
 
--   [DNA profilering](DNA profilering "wikilink")
-    -   [DNA DK](DNA DK "wikilink")
-    -   [Tandem repeated regions](Tandem repeated regions "wikilink")
--   [DNA replikation](DNA replikation "wikilink")
--   [PCR (Polymerase chain
-    reaction)](PCR (Polymerase chain reaction) "wikilink")
-    -   [Primere](Primere "wikilink")
-    -   [DNA polymerase](DNA polymerase "wikilink")
-    -   [Nukleotider](Nukleotider "wikilink")
--   [Gel elektroforese](Gel elektroforese "wikilink")
-    -   [DNA-markøre](DNA-markøre "wikilink")
+-   [DNA profilering](/wiki/DNA_profilering "wikilink")
+    -   [DNA DK](/wiki/DNA_DK "wikilink")
+    -   [Tandem repeated regions](/wiki/Tandem_repeated_regions "wikilink")
+-   [DNA replikation](/wiki/DNA_replikation "wikilink")
+-   [PCR (Polymerase chain reaction)](/wiki/PCR "wikilink")
+    -   [Primere](/wiki/Primere "wikilink")
+    -   [DNA polymerase](/wiki/DNA_polymerase "wikilink")
+    -   [Nukleotider](/wiki/Nukleotider "wikilink")
+-   [Gel elektroforese](/wiki/Gel_elektroforese "wikilink")
+    -   [DNA-markøre](/wiki/DNA-markøre "wikilink")
 

@@ -7,7 +7,7 @@ en bioreaktor, begge dækker dog over det samme.\
 ![Bioreaktoren består af de følgende dele: 1. pH sensorer, temperatur
 sensorer, 3. luft in og outflow, 4. Vand/damp in og outflow, 5. Medie
 inflow, 6. Omrærer, 7. Inokuleringsområde
-](Bioreactor dk.jpg "Bioreaktoren består af de følgende dele: 1. pH sensorer, temperatur sensorer, 3. luft in og outflow, 4. Vand/damp in og outflow, 5. Medie inflow, 6. Omrærer, 7. Inokuleringsområde ")
+](/wiki/Bioreactor dk.jpg "Bioreaktoren består af de følgende dele: 1. pH sensorer, temperatur sensorer, 3. luft in og outflow, 4. Vand/damp in og outflow, 5. Medie inflow, 6. Omrærer, 7. Inokuleringsområde ")
 
 Nøglen til at have en effektiv bioreaktor, er at bevare kontrollen over
 den mikrobielle vækst samt metabolit produktionen i reaktoren. For at
@@ -36,6 +36,6 @@ give en stigning i CO2 niveauet, og en høj biomasse koncentration ift.
 produktet. Det er ekstremt vigtigt at undgå kontaminering, derfor skal
 fermentoren steriliseres før brug.
 
-[Næste (Sterilisering) ⇒](Sterilisering "wikilink")\
- [ ⇐ Teori oversigt](Fermenteringscase "wikilink")
+[Næste (Sterilisering) ⇒](/wiki/Sterilisering "wikilink")\
+ [ ⇐ Teori oversigt](/wiki/Fermenteringscase "wikilink")
 

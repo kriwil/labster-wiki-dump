@@ -18,9 +18,9 @@ molekyler NADH
 ![ glykolysen består af flere trin, hvor seks-carbon molekyler bliver
 nedbrudt til to tre-carbon molekyler hvor der samtidligt bliver
 produceret to molekyler ATP, to pyruvatsyre og to molekyler
-NADH.](glycolysis.jpg " glykolysen består af flere trin, hvor seks-carbon molekyler bliver nedbrudt til to tre-carbon molekyler hvor der samtidligt bliver produceret to molekyler ATP, to pyruvatsyre og to molekyler NADH.")
+NADH.](/wiki/glycolysis.jpg " glykolysen består af flere trin, hvor seks-carbon molekyler bliver nedbrudt til to tre-carbon molekyler hvor der samtidligt bliver produceret to molekyler ATP, to pyruvatsyre og to molekyler NADH.")
 
-[⇐ Forrige (Celle metabolisme)](Celle metabolisme "wikilink") / [Næste
-(Krebscyklus) ⇒](Krebscyklus "wikilink")\
-[⇐ Teori oversigt ](Fermenteringscase "wikilink")
+[⇐ Forrige (Celle metabolisme)](/wiki/Celle_metabolisme "wikilink") / [Næste
+(Krebscyklus) ⇒](/wiki/Krebscyklus "wikilink")\
+[⇐ Teori oversigt ](/wiki/Fermenteringscase "wikilink")
 

@@ -51,6 +51,6 @@ can exclude all of the RNA species other than mRNAs. Relevant sequences
 contain a start codon, followed by several hundred codons, and then a
 stop codon.
 
-[ ⇐ cDNA](cDNA "wikilink")/ [ BLAST ⇒](BLAST "wikilink")\
-[⇐ Theory overview](PlantLab "wikilink")
+[ ⇐ cDNA](/wiki/cDNA "wikilink")/ [ BLAST ⇒](/wiki/BLAST "wikilink")\
+[⇐ Theory overview](/wiki/PlantLab "wikilink")
 

@@ -31,7 +31,7 @@ emerged in Southeast Asia. Therefore, the development of novel drugs is
 essential to fight the disease.\
 \
 \
-[ ⇐ Molecular Characterization](Molecular Characterization "wikilink")/
-[ Killer Assay ⇒](Killer Assay "wikilink")\
-[ ⇐ Theory overview](PlantLab "wikilink")
+[ ⇐ Molecular Characterization](/wiki/Molecular_Characterization "wikilink")/
+[ Killer Assay ⇒](/wiki/Killer_Assay "wikilink")\
+[ ⇐ Theory overview](/wiki/PlantLab "wikilink")
 

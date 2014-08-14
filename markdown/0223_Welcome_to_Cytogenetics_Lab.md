@@ -19,5 +19,5 @@ Cytogenetics Lab Case Progression
 -   End of the case
 
 \
- [⇐ Theory overview](Cytogenetics "wikilink")
+ [⇐ Theory overview](/wiki/Cytogenetics "wikilink")
 

@@ -22,5 +22,5 @@ Good luck!
 -   DNA damage experiment
 -   Conclusion
 
-[⇐ Theory overview](Molecular Cloning "wikilink")
+[⇐ Theory overview](/wiki/Molecular_Cloning "wikilink")
 

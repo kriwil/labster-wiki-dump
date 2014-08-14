@@ -2,7 +2,7 @@ Enzyme inhibition
 -----------------
 
 Enzyme inhibitors are molecules that decrease the activity of
-[enzymes](Enzyme "wikilink"), and knowledge about inhibitors can, for
+[enzymes](/wiki/Enzyme "wikilink"), and knowledge about inhibitors can, for
 example, be used in developing drugs or in the study of biochemical
 pathways, because inhibitors provide a way to interfere with these
 pathways. Enzyme inhibitors can be either irreversible or reversible;
@@ -24,7 +24,7 @@ bind to both the enzyme and the enzyme-substrate complex at a site
 distinct from the active site [1].
 
 The mechanisms of enzyme inhibition can be thought of as an extension to
-the [Michaelis-Menten mechanism](Michaelis-Menten "wikilink") and
+the [Michaelis-Menten mechanism](/wiki/Michaelis-Menten "wikilink") and
 competitive and un-competitive inhibition can be regarded a special case
 of mixed inhibition:
 
@@ -47,14 +47,14 @@ to fit a double-reciprocal plot:
 If α \> 1 and α’ \> 1, the inhibition is mixed; for competitive
 inhibition, α’ = 1; for uncompetitive inhibition, α = 1. Thus, 3
 different equations are obtained for the 3 different types of
-inhibition, and a [Lineweaver-Burk](km "wikilink") plot of the kinetic
+inhibition, and a [Lineweaver-Burk](/wiki/km "wikilink") plot of the kinetic
 data can reveal the type of inhibition that the inhibitor performs. This
 will be explained in the following pages [1,2].
 
 Methanol poisoning
 ------------------
 
-The enzyme [alcohol dehydrogenase](ADH "wikilink") is not completely
+The enzyme [alcohol dehydrogenase](/wiki/ADH "wikilink") is not completely
 specific for ethanol; it also catalyzes the formation of aldehydes from
 other alcohols. One of these alcohols is methanol, which is metabolized
 into formaldehyde and other toxic compounds that can cause blindness or
@@ -70,11 +70,11 @@ Calculation of kinetic parameters
 See the following pages for details of how to calculate the kinetic
 parameters for different inhibitors:
 
-[Competitive inhibition](Competitive inhibition "wikilink")
+[Competitive inhibition](/wiki/Competitive_inhibition "wikilink")
 
-[Un-competitive inhibition](Un-competitive inhibition "wikilink")
+[Un-competitive inhibition](/wiki/Un-competitive_inhibition "wikilink")
 
-[Mixed/non-competitive inhibition](Mixed inhibition "wikilink")
+[Mixed/non-competitive inhibition](/wiki/Mixed_inhibition "wikilink")
 
 References
 ----------
@@ -93,5 +93,5 @@ University Press. ISBN 978-0-19-920606-3.
 Review of Ethanol and Fomepizole Use in Toxic Alcohol Ingestions.
 *Emerg. Med. Int.* **2013**, 638057.
 
-[⇐ Theory overview](Enzyme Kinetics "wikilink")
+[⇐ Theory overview](/wiki/Enzyme_Kinetics "wikilink")
 

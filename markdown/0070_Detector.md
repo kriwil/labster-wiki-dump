@@ -59,8 +59,8 @@ molecules have sigma bonds (σ) that is very stable and require a lot of
 energy to excite them. This is why they are difficult to detect using UV
 detector.
 
-[⇐ Previous (Oven regulator)](Oven regulator "wikilink") / [Next (Data
-analysis) ⇒](Data_analysis "wikilink")
+[⇐ Previous (Oven regulator)](/wiki/Oven_regulator "wikilink") / [Next (Data
+analysis) ⇒](/wiki/Data_analysis "wikilink")
 
-[⇐ Theory overview](HPLC "wikilink")
+[⇐ Theory overview](/wiki/HPLC "wikilink")
 

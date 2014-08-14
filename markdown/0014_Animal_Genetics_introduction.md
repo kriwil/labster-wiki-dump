@@ -5,5 +5,5 @@ hereditary defect.
 In the final part of the case you will develop a DNA test which you will
 use for diagnostic genotyping.
 
-[← Theory overview](Animal Genetics "wikilink")
+[← Theory overview](/wiki/Animal_Genetics "wikilink")
 

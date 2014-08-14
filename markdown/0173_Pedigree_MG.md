@@ -45,7 +45,7 @@ members; however, the proband typically refers to the member seeking
 medical attention or being studied, even if affected ancestors are
 known.
 
-[⇐ Previous (Mendelian inheritance)](Mendelian inheritance "wikilink")
+[⇐ Previous (Mendelian inheritance)](/wiki/Mendelian_inheritance "wikilink")
 
-[ ⇐ Theory overview](Medical Genetics case "wikilink")
+[ ⇐ Theory overview](/wiki/Medical_Genetics_case "wikilink")
 

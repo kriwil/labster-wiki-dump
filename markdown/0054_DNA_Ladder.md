@@ -14,7 +14,7 @@ bp" and others. If a band from an unknown sample has run the same
 distance in the gel as the 500 bp band, it can be assumed that the
 unknown fragment has a length close or equal to 500.
 
-[← Previous (Gel Electrophoresis)](Gel Electrophoresis "wikilink")
+[← Previous (Gel Electrophoresis)](/wiki/Gel_Electrophoresis "wikilink")
 
-[← Theory overview](CSI Case "wikilink")
+[← Theory overview](/wiki/CSI_Case "wikilink")
 

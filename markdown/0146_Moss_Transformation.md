@@ -90,7 +90,7 @@ secondary metabolites. Thus, we can preserve rare plant species by using
 transgenic plants, i.e. the secondary metabolites can be produced in
 large quantities without extracting the components from rare plants.
 
-[ ⇐ Phylogenetics](Phylogenetics "wikilink")/ [ Lab Biosafety
-⇒](Lab Biosafety "wikilink")\
-[ ⇐ Theory Overview](PlantLab "wikilink")
+[ ⇐ Phylogenetics](/wiki/Phylogenetics "wikilink")/ [ Lab Biosafety
+⇒](/wiki/Lab_Biosafety "wikilink")\
+[ ⇐ Theory Overview](/wiki/PlantLab "wikilink")
 

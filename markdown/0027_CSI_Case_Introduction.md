@@ -18,6 +18,6 @@ and to solve a brutal murder of a Professor!
 But first, learn how to perform DNA fingerprinting as a professional
 scientist.
 
-[\<-- Previous (Theory overview)](CSI Case "wikilink") / [Next (DNA
-Profiling) --\>](DNA Profiling "wikilink")
+[\<-- Previous (Theory overview)](/wiki/CSI_Case "wikilink") / [Next (DNA
+Profiling) --\>](/wiki/DNA_Profiling "wikilink")
 

@@ -18,7 +18,7 @@ addition during fermentation so exponential growth of cell is limited to
 a few generations.
 
 ![Yeast growth phase in batch
-fermentation](Growth curve.png "Yeast growth phase in batch fermentation")
+fermentation](/wiki/Growth curve.png "Yeast growth phase in batch fermentation")
 
 The phase of microbial growth in batch fermentation is generally divided
 into four phase which are lag phase, log phase or exponential phase and
@@ -29,7 +29,7 @@ biomass is achieved. Since it is a batch fermentation where no
 additional nutrients was added, nutrient will be depleted and growth
 rate decrease and becomes zero.
 
-[⇐ Previous (Sterilization)](Sterilization "wikilink") / [Next (Culture
-Media) ⇒](Culture Media "wikilink")\
- [⇐ Theory overview](Fermentation_Case "wikilink")
+[⇐ Previous (Sterilization)](/wiki/Sterilization "wikilink") / [Next (Culture
+Media) ⇒](/wiki/Culture_Media "wikilink")\
+ [⇐ Theory overview](/wiki/Fermentation_Case "wikilink")
 

@@ -59,8 +59,8 @@ good separation and measurement.
 So in many cases, an increase in temperature can have multiple benefits
 – if adverse selectivity changes are not encountered.
 
-[⇐ Previous (Column)](Column "wikilink") / [Next (Detector)
-⇒](Detector "wikilink")
+[⇐ Previous (Column)](/wiki/Column "wikilink") / [Next (Detector)
+⇒](/wiki/Detector "wikilink")
 
-[⇐ Theory overview](HPLC "wikilink")
+[⇐ Theory overview](/wiki/HPLC "wikilink")
 

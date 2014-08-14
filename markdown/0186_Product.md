@@ -29,7 +29,7 @@ T., Kime, J., Kimc, J.K., Yoona, J.S. (2010) The Role of Acetaldehyde in
 Human Psychomotor Function: A Double-Blind Placebo-Controlled Crossover
 Study.
 
-[⇐ Previous (Co-factor)](Co-factor "wikilink")
+[⇐ Previous (Co-factor)](/wiki/Co-factor "wikilink")
 
-[⇐ Theory overview](Enzyme Kinetics "wikilink")
+[⇐ Theory overview](/wiki/Enzyme_Kinetics "wikilink")
 

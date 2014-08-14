@@ -24,7 +24,7 @@ Therefore, each component produces a mass spectrum with a unique
 fragmentation pattern. This molecular fingerprint can be compared to a
 database and the component can be identified.
 
-[ ⇐ Terpenoid Biosynthesis](Terpenoid Biosynthesis "wikilink")/[ Malaria
-⇒ ](Malaria "wikilink")\
-[ ⇐ Theory Overview](PlantLab "wikilink")
+[ ⇐ Terpenoid Biosynthesis](/wiki/Terpenoid_Biosynthesis "wikilink")/[ Malaria
+⇒ ](/wiki/Malaria "wikilink")\
+[ ⇐ Theory Overview](/wiki/PlantLab "wikilink")
 

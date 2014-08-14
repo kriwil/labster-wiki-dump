@@ -1,5 +1,4 @@
-![**Welcome to the Labster CSI
-Case!**]( CSI Case.jpg "fig:Welcome to the Labster CSI Case!")\
+![**Welcome to the Labster CSI Case!**]( CSI Case.jpg "fig:Welcome to the Labster CSI Case!")\
 \
 \
 \
@@ -29,23 +28,21 @@ Danish version: <http://learn.labster.com/index.php/CSI_Casen>
 Introduction
 ------------
 
--   [ Solving a Murder Case with
-    Biotechnology](CSI Case Introduction "wikilink")
+-   [ Solving a Murder Case with Biotechnology](/wiki/CSI_Case_Introduction "wikilink")
 
 Case Theory
 -----------
 
--   [DNA Profiling](DNA Profiling "wikilink")
-    -   [DNA](DNA "wikilink")
-    -   [Tandem Repeated Regions](Tandem Repeated Regions "wikilink")
--   [DNA Replication](DNA Replication "wikilink")
--   [PCR (Polymerase Chain
-    Reaction)](PCR (Polymerase Chain Reaction) "wikilink")
-    -   [Primers](Primers "wikilink")
-    -   [DNA Polymerase](DNA Polymerase "wikilink")
-    -   [Nucleotides](Nucleotides "wikilink")
--   [Gel Electrophoresis](Gel Electrophoresis "wikilink")
-    -   [DNA Ladder](DNA Ladder "wikilink")
+-   [DNA Profiling](/wiki/DNA_Profiling "wikilink")
+    -   [DNA](/wiki/DNA "wikilink")
+    -   [Tandem Repeated Regions](/wiki/Tandem_Repeated_Regions "wikilink")
+-   [DNA Replication](/wiki/DNA_Replication "wikilink")
+-   [PCR (Polymerase Chain Reaction)](/wiki/PCR "wikilink")
+    -   [Primers](/wiki/Primers "wikilink")
+    -   [DNA Polymerase](/wiki/DNA_Polymerase "wikilink")
+    -   [Nucleotides](/wiki/Nucleotides "wikilink")
+-   [Gel Electrophoresis](/wiki/Gel_Electrophoresis "wikilink")
+    -   [DNA Ladder](/wiki/DNA_Ladder "wikilink")
 
 After reading all the theory: Start Labster!
 --------------------------------------------

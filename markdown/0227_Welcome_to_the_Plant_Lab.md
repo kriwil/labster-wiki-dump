@@ -23,5 +23,5 @@ Plant Evolution and Genetics Lab case progression
 -   Outro: Antimalarial drug production
 -   End of the case
 
-[⇐ Theory overview](PlantLab "wikilink")
+[⇐ Theory overview](/wiki/PlantLab "wikilink")
 

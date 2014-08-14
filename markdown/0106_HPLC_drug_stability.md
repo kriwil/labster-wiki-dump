@@ -21,5 +21,5 @@ HPLC case progression
 -   Analyze using different parameters
 -   Analyze the medicine stored in 2 conditions
 
-[\<-- Theory overview](HPLC "wikilink")
+[\<-- Theory overview](/wiki/HPLC "wikilink")
 

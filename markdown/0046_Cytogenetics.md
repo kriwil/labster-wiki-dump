@@ -24,19 +24,19 @@ learning. It takes about 15-20 minutes to read it all.
 Introduction
 ------------
 
-[Welcome to Cytogenetics Lab](Welcome to Cytogenetics Lab "wikilink")
+[Welcome to Cytogenetics Lab](/wiki/Welcome_to_Cytogenetics_Lab "wikilink")
 
 Case Theory
 -----------
 
--   [Prenatal Test](Prenatal Test "wikilink")
-    -   [Cleft Lip and Palate](Cleft Lip and Palate "wikilink")
+-   [Prenatal Test](/wiki/Prenatal_Test "wikilink")
+    -   [Cleft Lip and Palate](/wiki/Cleft_Lip_and_Palate "wikilink")
 -   [Array Comparative Genomic
-    Hybridization](Array Comparative Genomic Hybridization "wikilink")
--   [Amniotic Culture](Amniotic Culture "wikilink")
--   [Karyotyping](Karyotyping "wikilink")
-    -   [Chromosome](Chromosome "wikilink")
-    -   [Chromosome Abnormalities](Chromosome Abnormalities "wikilink")
--   [Diagnosis](Diagnosis "wikilink")
-    -   [Pedigree Cytogenetics](Pedigree Cytogenetics "wikilink")
+    Hybridization](/wiki/Array_Comparative_Genomic_Hybridization "wikilink")
+-   [Amniotic Culture](/wiki/Amniotic_Culture "wikilink")
+-   [Karyotyping](/wiki/Karyotyping "wikilink")
+    -   [Chromosome](/wiki/Chromosome "wikilink")
+    -   [Chromosome Abnormalities](/wiki/Chromosome_Abnormalities "wikilink")
+-   [Diagnosis](/wiki/Diagnosis "wikilink")
+    -   [Pedigree Cytogenetics](/wiki/Pedigree_Cytogenetics "wikilink")
 

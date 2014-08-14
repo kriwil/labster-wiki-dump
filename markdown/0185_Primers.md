@@ -1,7 +1,4 @@
-![A primer is required in order for DNA polymerase to copy DNA. A primer
-is a short (18-25) stretch of nucleotides that anneals to complementary
-single stranded template
-DNA.|center]( polyprimer.png "A primer is required in order for DNA polymerase to copy DNA. A primer is a short (18-25) stretch of nucleotides that anneals to complementary single stranded template DNA.|center")
+![A primer is required in order for DNA polymerase to copy DNA. A primer is a short (18-25) stretch of nucleotides that anneals to complementary single stranded template DNA.|center]( polyprimer.png "A primer is required in order for DNA polymerase to copy DNA. A primer is a short (18-25) stretch of nucleotides that anneals to complementary single stranded template DNA.|center")
 
 Primers are short fragments of DNA used to start DNA copying by the
 enzyme DNA polymerase in a PCR reaction. They are typically 18-25
@@ -70,12 +67,7 @@ to amplify).
 
 ### Length of the PCR product is determined by the primers
 
-![The length of a PCR product is determined by the placement of the
-primers. In this figure, we follow a single strand, and observe how the
-primer placement shortens the fragment length through multiple rounds of
-replication (three rounds are required to get the first double-stranded
-fragment where both strands are the length of the
-primers)]( pcrlength.jpg "The length of a PCR product is determined by the placement of the primers. In this figure, we follow a single strand, and observe how the primer placement shortens the fragment length through multiple rounds of replication (three rounds are required to get the first double-stranded fragment where both strands are the length of the primers)")
+![The length of a PCR product is determined by the placement of the primers. In this figure, we follow a single strand, and observe how the primer placement shortens the fragment length through multiple rounds of replication (three rounds are required to get the first double-stranded fragment where both strands are the length of the primers)]( pcrlength.jpg "The length of a PCR product is determined by the placement of the primers. In this figure, we follow a single strand, and observe how the primer placement shortens the fragment length through multiple rounds of replication \(three rounds are required to get the first double-stranded fragment where both strands are the length of the primers\)")
 
 In a PCR reaction, the primers are chosen such that they frame the
 desired sequence. This also determines the length of the resulting
@@ -84,8 +76,7 @@ figure to the right shows how a single strand is shortened to the
 desired PCR product length through several rounds of replication
 directed by the site specific primers.
 
-[← Previous (PCR)](PCR (Polymerase Chain Reaction) "wikilink") / [Next
-(DNA Polymerase) →](DNA Polymerase "wikilink")
+[← Previous (PCR)](/wiki/PCR "wikilink") / [Next (DNA Polymerase) →](/wiki/DNA_Polymerase "wikilink")
 
-[← Theory Overview](CSI Case "wikilink")
+[← Theory Overview](/wiki/CSI_Case "wikilink")
 

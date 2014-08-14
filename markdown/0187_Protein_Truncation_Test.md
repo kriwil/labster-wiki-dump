@@ -43,7 +43,7 @@ Polyacrylamide gel electrophoresis
 
 Polyacrylamide gel electrophoresis is a technique used to analyze
 proteins on the basis of their size. It is quite similar to [agarose gel
-electrophoresis](Gel electrophoresis_MG "wikilink") that is used to
+electrophoresis](/wiki/Gel_electrophoresis_MG "wikilink") that is used to
 analyze DNA after performing PCR. Unlike DNA, proteins can be folded
 into a 3D structure. Before running them on the gel, we must first
 denature this 3D structure of the proteins and make them linear. We can
@@ -61,8 +61,8 @@ length using polyacrylamide gel electrophoresis. In protein truncation
 test, the wild-type proteins will migrate lesser than the truncated
 proteins that are shorter.
 
-[⇐ Previous (Gel electrophoresis)](Gel electrophoresis_MG "wikilink") /
-[Next (NGS) ⇒](NGS_MG "wikilink")
+[⇐ Previous (Gel electrophoresis)](/wiki/Gel_electrophoresis_MG "wikilink") /
+[Next (NGS) ⇒](/wiki/NGS_MG "wikilink")
 
-[⇐ Theory overview](Medical Genetics case "wikilink")
+[⇐ Theory overview](/wiki/Medical_Genetics_case "wikilink")
 

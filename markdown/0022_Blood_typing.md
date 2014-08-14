@@ -123,7 +123,7 @@ repeat it with another card to trust the result.
 ![]( Possible_results_blood_typing.png " Possible_results_blood_typing.png")
 
 [\<-- Previous (Diffusion and
-osmosis)](Diffusion and osmosis "wikilink")
+osmosis)](/wiki/Diffusion_and_osmosis "wikilink")
 
-[\<-- Theory overview](Intro Lab "wikilink")
+[\<-- Theory overview](/wiki/Intro_Lab "wikilink")
 

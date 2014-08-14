@@ -2,7 +2,7 @@
 
 ![DNA er opbygget af de fire nukleotider, forkortet som: A, T, C og G.
 De går sammen i parene A-T og
-G-C.](DNA model dk.jpg "DNA er opbygget af de fire nukleotider, forkortet som: A, T, C og G. De går sammen i parene A-T og G-C.")
+G-C.](/wiki/DNA model dk.jpg "DNA er opbygget af de fire nukleotider, forkortet som: A, T, C og G. De går sammen i parene A-T og G-C.")
 
 DNA er arvematerialet for alle levende organismer, inklusivt mennesker.
 DNA opbevarer sin information i en genetisk kode opbygget af de fire
@@ -35,7 +35,7 @@ tage en mindre prøve fra munden (epitelceller) eller fra hårsækken.
 
 ![DNA er sammensat i en dobbelhelix struktur. Man siger den er
 antiparallel, da den ene streng bevæger sig fra 5'→ 3' og den anden 3'→
-5'](DNA helix dk.jpg "DNA er sammensat i en dobbelhelix struktur. Man siger den er antiparallel, da den ene streng bevæger sig fra 5'→ 3' og den anden 3'→ 5'")
+5'](/wiki/DNA helix dk.jpg "DNA er sammensat i en dobbelhelix struktur. Man siger den er antiparallel, da den ene streng bevæger sig fra 5'→ 3' og den anden 3'→ 5'")
 
 Der findes flere typer af DNA her iblandt: genetisk, komplementært,
 mitokondrielt og ikke kodende. Genetisk DNA er den fulde DNA sekvensen,
@@ -65,9 +65,9 @@ phenol og chloroform. Dog er det blevet udviklet nemmere og sikrere
 metoder, ved brugen af f.eks. søjle separering.
 
 ![Sturkturen for de fire DNA nukloteider, samt RNA nukleotidet
-Uracil.](Dna chemical.png "Sturkturen for de fire DNA nukloteider, samt RNA nukleotidet Uracil.")
+Uracil.](/wiki/Dna chemical.png "Sturkturen for de fire DNA nukloteider, samt RNA nukleotidet Uracil.")
 
-[⇐Forrige (DNA profilering)](Segl_celler "wikilink") / [Næste (Tandem
-repeated regions) ⇒](Tandem repeated regions "wikilink")\
-[⇐ Teori oversigt ](Bio-Kemi "wikilink")
+[⇐Forrige (DNA profilering)](/wiki/Segl_celler "wikilink") / [Næste (Tandem
+repeated regions) ⇒](/wiki/Tandem_repeated_regions "wikilink")\
+[⇐ Teori oversigt ](/wiki/Bio-Kemi "wikilink")
 

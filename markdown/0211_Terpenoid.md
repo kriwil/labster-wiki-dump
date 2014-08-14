@@ -1,5 +1,5 @@
 ![The biosyhthesis of
-terpene](terpene biosynthesis.jpg "The biosyhthesis of terpene")
+terpene](/wiki/terpene biosynthesis.jpg "The biosyhthesis of terpene")
 
 ### Biosynthetic pathway
 
@@ -54,7 +54,7 @@ terpenoid pathway is a constantly improving tool, used for the
 fundamental study of terpenoid biosynthesis.
 
 [ ⇐ Plant Secondary
-Metabolites](Plant Secondary Metabolites "wikilink")/[ Killer Assay ⇒
-](Killer Assay "wikilink")\
-[ ⇐ Theory Overview](PlantLab "wikilink")
+Metabolites](/wiki/Plant_Secondary_Metabolites "wikilink")/[ Killer Assay ⇒
+](/wiki/Killer_Assay "wikilink")\
+[ ⇐ Theory Overview](/wiki/PlantLab "wikilink")
 

@@ -9,7 +9,7 @@ A substrate is a molecule upon which an enzyme acts. If we think of the
 enzyme as a machine in an assembly line, the substrate would be what we
 put into the machine to get the output we want.
 
-The substrate for [alcohol dehydrogenase](ADH "wikilink") (ADH), the
+The substrate for [alcohol dehydrogenase](/wiki/ADH "wikilink") (ADH), the
 enzyme we are working with in this case, is ethanol; however, ADH can
 also bind other substrates with a similar structure such as methanol.
 Similar to the way ethanol is converted to acetaldehyde, methanol is
@@ -28,8 +28,8 @@ References
 
 1\. <http://www.rcsb.org/pdb/101/motm.do?momID=13>
 
-[⇐ Previous (Active site)](Active site "wikilink") / [Next (Co-factor)
-⇒](Co-factor "wikilink")
+[⇐ Previous (Active site)](/wiki/Active_site "wikilink") / [Next (Co-factor)
+⇒](/wiki/Co-factor "wikilink")
 
-[⇐ Theory overview](Enzyme Kinetics "wikilink")
+[⇐ Theory overview](/wiki/Enzyme_Kinetics "wikilink")
 

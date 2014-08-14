@@ -23,18 +23,18 @@ only!]( CrimeScene.jpeg "This is a closed crime scene - Labster Specialists only
 Animal genetics: Double-Muscular Cows
 =====================================
 
-Go to case site: [Animal Genetics](Animal Genetics "wikilink")
+Go to case site: [Animal Genetics](/wiki/Animal_Genetics "wikilink")
 
 ![Do you eat meat from Double-Muscular
-Cows?](Double_muscled_cow_1.jpg‎ "Do you eat meat from Double-Muscular Cows?")
+Cows?](/wiki/Double_muscled_cow_1.jpg‎ "Do you eat meat from Double-Muscular Cows?")
 
 Enzyme Kinetics
 ===============
 
-Go to case site: [Enzyme Kinetics](Enzyme Kinetics "wikilink")
+Go to case site: [Enzyme Kinetics](/wiki/Enzyme_Kinetics "wikilink")
 
 Molecular Cloning
 =================
 
-Go to case site: [Molecular Cloning](Molecular Cloning "wikilink")
+Go to case site: [Molecular Cloning](/wiki/Molecular_Cloning "wikilink")
 

@@ -1,6 +1,6 @@
 ![Den klassiske madpyramide, som illustrere det anbefaldede indtag
 imellem forskellige typer
-mad.](Foodpyramide.jpg "fig:Den klassiske madpyramide, som illustrere det anbefaldede indtag imellem forskellige typer mad.")
+mad.](/wiki/Foodpyramide.jpg "fig:Den klassiske madpyramide, som illustrere det anbefaldede indtag imellem forskellige typer mad.")
 Alle levende organismer har behov for energi, uanset deres størrelse og
 kompleksitet. Planter er i stand til at udnytte solens energi sammen med
 vand og CO2 til at lave fotosyntese og på den måde omdanne solens energi
@@ -27,6 +27,6 @@ vigtigste dele af fordøjelsessystemet da det er relevant at vide hvordan
 kroppen optager de næringsstoffer vi er så dybt afhængige af.\
 
 [Næste (Det humane fordøjelses system)
-⇒](Det humane fordøjelses system "wikilink")\
-[⇐ Teori oversigt ](Bio-Kemi "wikilink")
+⇒](/wiki/Det_humane_fordøjelses_system "wikilink")\
+[⇐ Teori oversigt ](/wiki/Bio-Kemi "wikilink")
 

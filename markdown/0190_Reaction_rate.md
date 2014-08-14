@@ -31,7 +31,7 @@ constants:
 
 In the Michaelis-Menten model it is assumed that the third reaction is
 the rate-limiting step, and the associated rate constant k~2~ is also
-called the [turnover number](kcat "wikilink") or k~cat~. For another
+called the [turnover number](/wiki/kcat "wikilink") or k~cat~. For another
 reaction mechanism, the turnover number would be defined differently,
 for instance, in the following reaction:
 
@@ -70,8 +70,8 @@ University Press. ISBN 978-0-19-920606-3.
 *Principles of Biochemistry* (5th ed.). New York, NY: W.H. Freeman and
 Company. ISBN 978-0-7167-7108-1.
 
-[⇐Previous (Michaelis-Menten)](Michaelis-Menten "wikilink") / [Next
-(K~m~) ⇒](Km "wikilink")
+[⇐Previous (Michaelis-Menten)](/wiki/Michaelis-Menten "wikilink") / [Next
+(K~m~) ⇒](/wiki/Km "wikilink")
 
-[⇐ Theory overview](Enzyme Kinetics "wikilink")
+[⇐ Theory overview](/wiki/Enzyme_Kinetics "wikilink")
 

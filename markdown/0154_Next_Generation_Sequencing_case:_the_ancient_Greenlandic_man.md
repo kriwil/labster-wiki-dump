@@ -22,5 +22,5 @@ Next Generation Sequencing case progression
 -   Determine the physical characteristics of the ancient Greenlandic
     man
 
-[⇐ Theory overview](NGS_Case "wikilink")
+[⇐ Theory overview](/wiki/NGS_Case "wikilink")
 

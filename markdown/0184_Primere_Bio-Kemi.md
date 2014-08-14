@@ -1,7 +1,4 @@
-![DNApolymerase kræver en primer for at kunne påbegynde kopieringen af
-DNA. En primer er en kort nukleotidsekvens (18-25 bp) som binder sig til
-den komplementære single-stranded DNA
-streng.|center]( Polymerase dk.jpg "DNApolymerase kræver en primer for at kunne påbegynde kopieringen af DNA. En primer er en kort nukleotidsekvens (18-25 bp) som binder sig til den komplementære single-stranded DNA streng.|center")
+![DNApolymerase kræver en primer for at kunne påbegynde kopieringen af DNA. En primer er en kort nukleotidsekvens (18-25 bp) som binder sig til den komplementære single-stranded DNA streng.|center]( Polymerase dk.jpg "DNApolymerase kræver en primer for at kunne påbegynde kopieringen af DNA. En primer er en kort nukleotidsekvens (18-25 bp) som binder sig til den komplementære single-stranded DNA streng.|center")
 
 Primers er korte DNA fragmenter, der bruges til at starte PCR reaktionen
 ved at diagere DNA-polymerasen hen til det sted der skal kopieres.
@@ -66,10 +63,7 @@ programmet klare resten.
 
 ### Længden af PCR productet er bestemt af primerne
 
-![Længden af et PCR produkt bliver bestemt ud fra placering af primerne.
-I den her figur følger vi en enkelt streng og observere hvordan den
-bliver, korter og kortere indtil den ønskede længde er
-opnået.]( Pcrlength dk.jpg "Længden af et PCR produkt bliver bestemt ud fra placering af primerne. I den her figur følger vi en enkelt streng og observere hvordan den bliver, korter og kortere indtil den ønskede længde er opnået.")
+![Længden af et PCR produkt bliver bestemt ud fra placering af primerne.  I den her figur følger vi en enkelt streng og observere hvordan den bliver, korter og kortere indtil den ønskede længde er opnået.]( Pcrlength dk.jpg "Længden af et PCR produkt bliver bestemt ud fra placering af primerne. I den her figur følger vi en enkelt streng og observere hvordan den bliver, korter og kortere indtil den ønskede længde er opnået.")
 
 I en PCR reaktion er primerne valgt således at de ind grænser det område
 man ønsker kopieret. Dermed kommer de også til at bestemme længden af
@@ -77,8 +71,6 @@ PCR-produktet og bliver en del af det endelige produkt. Figuren til
 højre viser hvordan en enkelt-strenget sekvens bliver forkortet ned til
 den ønskede længde, via flere runder med sekvens specifikke primere.
 
-[⇐ Forrige (PCR (Polymerase chain
-reaction))](PCR (Polymerase chain reaction)_Bio-Kemi "wikilink") / [
-Næste (DNA polymerase) ⇒](DNA polymerase_Bio-Kemi "wikilink")\
-[⇐ Teori oversigt ](Bio-Kemi "wikilink")
+[⇐ Forrige (PCR (Polymerase chain reaction))](/wiki/PCR_Bio-Kemi "wikilink") / [ Næste (DNA polymerase) ⇒](/wiki/DNA_polymerase_Bio-Kemi "wikilink")\
+[⇐ Teori oversigt ](/wiki/Bio-Kemi "wikilink")
 

@@ -1,2 +1,2 @@
-1.  REDIRECT [Labster Guide](Labster Guide "wikilink")
+1.  REDIRECT [Labster Guide](/wiki/Labster_Guide "wikilink")
 

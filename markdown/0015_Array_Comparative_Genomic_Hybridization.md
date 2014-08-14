@@ -1,4 +1,4 @@
-![ The process of Array CGH](Array CGH.jpg " The process of Array CGH")
+![ The process of Array CGH](/wiki/Array CGH.jpg " The process of Array CGH")
 
 Array Comparative Genome Hybridization (aCGH) compares the patient’s
 genome against the reference genome and identifies difference between
@@ -69,7 +69,7 @@ perform all labeling steps in the dark to prevent signal loss from dye
 photo-bleaching.
 
 ![Left: Cy3 label Right: Cy5 label
-](Cy3 and Cy5.jpg "Left: Cy3 label Right: Cy5 label ")
+](/wiki/Cy3 and Cy5.jpg "Left: Cy3 label Right: Cy5 label ")
 
 The Cy3 and Cy5 molecule interact with DNA using universal linkage
 system (ULS) which uses a special platinum compound. The platinum
@@ -79,7 +79,7 @@ ULS complex. The second binding site link the complex to the purine of
 single stranded, double stranded, linear or supercoiled DNA, RNA or
 chromosome.
 
-[ ⇐ Cleft Lip and Palate](Cleft Lip and Palate "wikilink")/ [ Amniotic
-Culture ⇒](Amniotic Culture "wikilink")\
-[ ⇐ Theory Overview](Cytogenetics "wikilink")
+[ ⇐ Cleft Lip and Palate](/wiki/Cleft_Lip_and_Palate "wikilink")/ [ Amniotic
+Culture ⇒](/wiki/Amniotic_Culture "wikilink")\
+[ ⇐ Theory Overview](/wiki/Cytogenetics "wikilink")
 

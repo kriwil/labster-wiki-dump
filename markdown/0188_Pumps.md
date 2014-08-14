@@ -47,8 +47,8 @@ pump.]( reciprocating pump.png "fig:Figure 3. Reciprocating piston pump.")
     pump when the piston moves back and is pushed into the column when
     the piston moves forward.
 
-[⇐ Previous (Mobile phase reservoir)](Mobile phase reservoir "wikilink")
-/ [Next (Sample injector) ⇒](Sample injector "wikilink")
+[⇐ Previous (Mobile phase reservoir)](/wiki/Mobile_phase_reservoir "wikilink")
+/ [Next (Sample injector) ⇒](/wiki/Sample_injector "wikilink")
 
-[⇐ Theory overview](HPLC "wikilink")
+[⇐ Theory overview](/wiki/HPLC "wikilink")
 

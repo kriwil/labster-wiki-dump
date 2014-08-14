@@ -4,33 +4,33 @@ case!]( EnzymeKinetics Case.jpg "Welcome to the Enzyme Kinetics case!")
 Introduction
 ------------
 
--   [ADH enzyme kinetics](ADH enzyme kinetics "wikilink")
+-   [ADH enzyme kinetics](/wiki/ADH_enzyme_kinetics "wikilink")
 
 Case Theory
 -----------
 
--   [Enzyme](Enzyme "wikilink")
-    -   [ADH](ADH "wikilink")
-    -   [Active site](Active site "wikilink")
-    -   [Substrate](Substrate "wikilink")
-    -   [Co-factor](Co-factor "wikilink")
-    -   [Product](Product "wikilink")
+-   [Enzyme](/wiki/Enzyme "wikilink")
+    -   [ADH](/wiki/ADH "wikilink")
+    -   [Active site](/wiki/Active_site "wikilink")
+    -   [Substrate](/wiki/Substrate "wikilink")
+    -   [Co-factor](/wiki/Co-factor "wikilink")
+    -   [Product](/wiki/Product "wikilink")
 
--   [Enzyme kinetics](Enzyme kinetics "wikilink")
+-   [Enzyme kinetics](/wiki/Enzyme_kinetics "wikilink")
 
--   [Michaelis-Menten](Michaelis-Menten "wikilink")
-    -   [Reaction rate](Reaction rate "wikilink")
-    -   [K~m~](Km "wikilink")
-    -   [V~max~](Vmax "wikilink")
-    -   [k~cat~](Kcat "wikilink")
+-   [Michaelis-Menten](/wiki/Michaelis-Menten "wikilink")
+    -   [Reaction rate](/wiki/Reaction_rate "wikilink")
+    -   [K~m~](/wiki/Km "wikilink")
+    -   [V~max~](/wiki/Vmax "wikilink")
+    -   [k~cat~](/wiki/Kcat "wikilink")
 
--   [Inhibitors](Inhibitors "wikilink")
-    -   [Competitive inhibition](Competitive inhibition "wikilink")
+-   [Inhibitors](/wiki/Inhibitors "wikilink")
+    -   [Competitive inhibition](/wiki/Competitive_inhibition "wikilink")
     -   [Un-competitive
-        inhibition](Un-competitive inhibition "wikilink")
-    -   [Mixed/non-competitive inhibition](Mixed inhibition "wikilink")
+        inhibition](/wiki/Un-competitive_inhibition "wikilink")
+    -   [Mixed/non-competitive inhibition](/wiki/Mixed_inhibition "wikilink")
 
--   [Master mix](Master mix "wikilink")
+-   [Master mix](/wiki/Master_mix "wikilink")
 
--   [Spectrophotometer](Spectrophotometer "wikilink")
+-   [Spectrophotometer](/wiki/Spectrophotometer "wikilink")
 

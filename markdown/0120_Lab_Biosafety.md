@@ -164,6 +164,6 @@ other safety precautions to destroy any trace of hazardous material.
 There are only a few dozens BSL-4 labs around the world.\
 \
 
-[ ⇐ Moss Transformation](Moss Transformation "wikilink")\
-[ ⇐ Theory Overview](PlantLab "wikilink")
+[ ⇐ Moss Transformation](/wiki/Moss_Transformation "wikilink")\
+[ ⇐ Theory Overview](/wiki/PlantLab "wikilink")
 

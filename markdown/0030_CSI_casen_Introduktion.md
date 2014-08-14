@@ -18,6 +18,6 @@ professor ved hjælp af DNA-profiling!\
 Men først, lad os lære hvordan man lave DNA-profiling som en
 professionel forsker.
 
-[⇐ Forrige (Teori oversigt)](CSI Casen "wikilink") / [Næste (DNA
-profilering) ⇒](DNA profilering "wikilink")
+[⇐ Forrige (Teori oversigt)](/wiki/CSI_Casen "wikilink") / [Næste (DNA
+profilering) ⇒](/wiki/DNA_profilering "wikilink")
 

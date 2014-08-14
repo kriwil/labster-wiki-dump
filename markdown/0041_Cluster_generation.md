@@ -62,5 +62,5 @@ is ready to be sequenced!
 ![**Figure 2.** Cluster generation showing bridge PCR and
 amplification.]( ClusterGeneration.jpg "Figure 2. Cluster generation showing bridge PCR and amplification.")
 
-[⇐ Theory overview](NGS_Case "wikilink")
+[⇐ Theory overview](/wiki/NGS_Case "wikilink")
 

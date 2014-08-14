@@ -13,7 +13,7 @@ sites in the human genome, and differ in their number of repeats.
 repeats among individuals. Repeats can be dinucleotide, trinucleotide,
 and others. A set of primers placed on the flanking regions of a
 variable sequence will amplify fragments of different lengths depending
-on the number of repeats.|x350px](FIle: tandem.jpeg "wikilink")
+on the number of repeats.|x350px](/wiki/FIle:_tandem.jpeg "wikilink")
 
 ### Tandem Repeated Regions change because of replication errors
 
@@ -37,8 +37,8 @@ of possible sites make microsatellites incredibly useful as molecular
 markers for population genetics, parentage assignment studies, and
 forensic science.
 
-[← Previous (DNA)](DNA "wikilink") / [Next (DNA Replication)
-→](DNA Replication "wikilink")
+[← Previous (DNA)](/wiki/DNA "wikilink") / [Next (DNA Replication)
+→](/wiki/DNA_Replication "wikilink")
 
-[← Theory overview](CSI Case "wikilink")
+[← Theory overview](/wiki/CSI_Case "wikilink")
 

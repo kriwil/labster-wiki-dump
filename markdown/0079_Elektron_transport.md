@@ -4,7 +4,7 @@ bliver dannet af elektronbærere på den indre membran af mitokondrierne i
 gær. De to grundlæggende funktioner for elektrontransportkæden er:\
 
 ![Elektron transport
-kæde](Electron_transport dk.jpg "Elektron transport kæde")
+kæde](/wiki/Electron_transport dk.jpg "Elektron transport kæde")
 
 • Faciliteter overførslen af elektroner fra en primære doner til den
 terminale modtager. • At gemme energi der er blevet frigivet under
@@ -25,7 +25,7 @@ i stil med et batteri. H^+^ bevæger sig så tilbage igennem membranen via
 en speciel pore dannet af ATP syntase, som på bekostning af denne
 gradient danner ATP.
 
-[⇐ Previous (Krebscyklus )](Krebscyklus "wikilink") / [Next
-(Fermentering) ⇒](Fermentering "wikilink")\
- [⇐ Teori oversigt ](Fermenteringscase "wikilink")
+[⇐ Previous (Krebscyklus )](/wiki/Krebscyklus "wikilink") / [Next
+(Fermentering) ⇒](/wiki/Fermentering "wikilink")\
+ [⇐ Teori oversigt ](/wiki/Fermenteringscase "wikilink")
 

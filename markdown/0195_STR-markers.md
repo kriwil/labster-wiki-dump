@@ -13,8 +13,7 @@ individual STR-loci can be amplified by PCR and the sizes of the alleles
 in each individual can be estimated by gel electrophoresis. In this
 manner genotyping of the individual markers can be performed.
 
-[Previous (Genome scan) ←](Genome scan "wikilink") / [Next (PCR)
-→](PCR (Polymerase Chain Reaction)_AG "wikilink")
+[Previous (Genome scan) ←](/wiki/Genome_scan "wikilink") / [Next (PCR) →](/wiki/PCR_AG "wikilink")
 
-[← Theory overview](Animal Genetics "wikilink")
+[← Theory overview](/wiki/Animal_Genetics "wikilink")
 

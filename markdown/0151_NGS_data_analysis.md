@@ -66,7 +66,7 @@ categorizations such as transversions, trans-locations, and copy number
 variants.
 
 There are specific variations that are characteristic of [ancient DNA
-sample](ancient DNA sample "wikilink"), for example the C \> T at the 5'
+sample](/wiki/ancient_DNA_sample "wikilink"), for example the C \> T at the 5'
 end and G \> A at the 3' end. Using these characteristics, we can
 identify the ancient DNA and separate them from contaminating modern
 DNA.
@@ -76,7 +76,7 @@ analyze and try to understand the biological impact of these variations,
 for example, by performing SNP analysis. The difference in 1 nucleotide
 can result in differential gene expression that gives rise to a specific
 phenotype; you can read some of these SNP examples in [ancient Greenland
-SNP](ancient Greenland SNP "wikilink").
+SNP](/wiki/ancient_Greenland_SNP "wikilink").
 
-[⇐ Theory overview](NGS_Case "wikilink")
+[⇐ Theory overview](/wiki/NGS_Case "wikilink")
 

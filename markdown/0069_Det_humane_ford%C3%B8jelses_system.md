@@ -83,7 +83,7 @@ folder kaldet villi, på disse villi er der så yderligere folder kaldet
 mikrovilli. Denne struktur giver tarmen en betydelig større overfalde,
 hvilket giver kroppen en bedre mulighed for at absorbere de
 næringsstoffer der måtte være i
-maden.](Microvilli.jpg "fig:Figur 1: Tarmen består af en to-delt struktur. Først de "grove" folder kaldet villi, på disse villi er der så yderligere folder kaldet mikrovilli. Denne struktur giver tarmen en betydelig større overfalde, hvilket giver kroppen en bedre mulighed for at absorbere de næringsstoffer der måtte være i maden.")
+maden.](/wiki/Microvilli.jpg "fig:Figur 1: Tarmen består af en to-delt struktur. Først de "grove" folder kaldet villi, på disse villi er der så yderligere folder kaldet mikrovilli. Denne struktur giver tarmen en betydelig større overfalde, hvilket giver kroppen en bedre mulighed for at absorbere de næringsstoffer der måtte være i maden.")
 
 **Tyktarmen**\
 Efter tyndtarmen passerer resten af maden videre ind i tyktarmen. Her
@@ -113,7 +113,7 @@ ethanol til eddikesyre. Det er også leveren som er ansvarlig for
 dannelsen af urinstof ud fra aminosyre.
 
 [⇐Forrige (Blodsukker
-koncentration)](Blodsukker koncentration "wikilink") / [Næste
-(Næringsstoffer) ⇒](Næringsstoffer "wikilink")\
-[⇐ Teori oversigt ](Bio-Kemi "wikilink")
+koncentration)](/wiki/Blodsukker_koncentration "wikilink") / [Næste
+(Næringsstoffer) ⇒](/wiki/Næringsstoffer "wikilink")\
+[⇐ Teori oversigt ](/wiki/Bio-Kemi "wikilink")
 

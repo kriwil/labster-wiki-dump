@@ -21,5 +21,5 @@ Next Generation Sequencing case progression
 -   Data analysis
 -   Determine the ancient Greenland man physical features
 
-[\<-- Theory overview](NGS Case "wikilink")
+[\<-- Theory overview](/wiki/NGS_Case "wikilink")
 

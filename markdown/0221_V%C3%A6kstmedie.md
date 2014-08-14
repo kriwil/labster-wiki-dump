@@ -32,7 +32,7 @@ og i elektrontransport kæden.
 ### Fysiske betingelser
 
 ![Temperaturs effekt på mikrobiel
-vækst](Temperature effect dk.jpg "Temperaturs effekt på mikrobiel vækst")
+vækst](/wiki/Temperature effect dk.jpg "Temperaturs effekt på mikrobiel vækst")
 
 Vækst er defineret som en stigning i antallet af celler. Væksten for en
 bestemt mikroorganisme, er i stor stil påvirket af miljø som den skal
@@ -77,7 +77,7 @@ proteiner, være årsag til enzym nedbrydning og forhindre ion pumperne i
 membranen. Den optimale pH for de fleste svampe(inklusiv gær) er svagt
 surt.\
 
-[⇐ Previous (Sterilisering)](Sterilisering "wikilink") / [Næste (Celle
-metabolisme) ⇒](Celle metabolisme "wikilink")\
-[⇐ Teori oversigt ](Fermenteringscase "wikilink")
+[⇐ Previous (Sterilisering)](/wiki/Sterilisering "wikilink") / [Næste (Celle
+metabolisme) ⇒](/wiki/Celle_metabolisme "wikilink")\
+[⇐ Teori oversigt ](/wiki/Fermenteringscase "wikilink")
 

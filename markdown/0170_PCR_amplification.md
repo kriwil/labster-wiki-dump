@@ -13,7 +13,7 @@ various DNA tests.
 ![Figure 1. PCR consists of three steps: 1. Denaturation, 2. Annealing,
 and 3. Extension. The steps are repeated many times (often 30),
 producing billions of DNA copies of specific
-regions](Pcr_phases.png "Figure 1. PCR consists of three steps: 1. Denaturation, 2. Annealing, and 3. Extension. The steps are repeated many times (often 30), producing billions of DNA copies of specific regions")
+regions](/wiki/Pcr_phases.png "Figure 1. PCR consists of three steps: 1. Denaturation, 2. Annealing, and 3. Extension. The steps are repeated many times (often 30), producing billions of DNA copies of specific regions")
 
 PCR steps
 ---------
@@ -81,7 +81,7 @@ will show as mismatches in the alignment of NGS data, especially errors
 in early PCR rounds that will show up in multiple reads, falsely
 suggesting genetic variation in the sample.
 
-[⇐ Previous (Adapter ligation)](Adapter ligation "wikilink")
+[⇐ Previous (Adapter ligation)](/wiki/Adapter_ligation "wikilink")
 
-[⇐ Theory overview](NGS_Case "wikilink")
+[⇐ Theory overview](/wiki/NGS_Case "wikilink")
 

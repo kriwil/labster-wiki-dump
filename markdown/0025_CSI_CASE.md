@@ -1,2 +1,2 @@
-1.  REDIRECT [CSI Case](CSI Case "wikilink")
+1.  REDIRECT [CSI Case](/wiki/CSI_Case "wikilink")
 

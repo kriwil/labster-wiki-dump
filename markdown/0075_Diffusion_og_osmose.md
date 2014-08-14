@@ -68,5 +68,5 @@ skrumper og det kan vi registrere som smerte.
 
 ![]( osmose.jpg " osmose.jpg")
 
-[\<-- Teori oversigt](Bio-Kemi "wikilink")
+[\<-- Teori oversigt](/wiki/Bio-Kemi "wikilink")
 

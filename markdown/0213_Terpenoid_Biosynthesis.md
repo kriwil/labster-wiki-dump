@@ -1,5 +1,5 @@
 ![The biosyhthesis of
-terpene](terpene biosynthesis.jpg "The biosyhthesis of terpene")
+terpene](/wiki/terpene biosynthesis.jpg "The biosyhthesis of terpene")
 
 ### Biosynthetic pathway
 
@@ -38,7 +38,7 @@ color in tomatoes.\
 \
 \
  [ ⇐ Plant Secondary
-Metabolites](Plant Secondary Metabolites "wikilink")/[ Molecular
-Characterization ⇒ ](Molecular Characterization "wikilink")\
-[ ⇐ Theory Overview](PlantLab "wikilink")
+Metabolites](/wiki/Plant_Secondary_Metabolites "wikilink")/[ Molecular
+Characterization ⇒ ](/wiki/Molecular_Characterization "wikilink")\
+[ ⇐ Theory Overview](/wiki/PlantLab "wikilink")
 

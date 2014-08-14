@@ -1,6 +1,6 @@
 Ancient DNA is exciting to study because it can provide access to an
 evolutionary point from the past! As you can read on the previous
-section [DNA](DNA_NGS "wikilink") can be extracted from any cell.
+section [DNA](/wiki/DNA_NGS "wikilink") can be extracted from any cell.
 Ancient DNA refers to DNA that was extracted from ancient specimens,
 such as skeletal materials, mummified tissues, or other specimens that
 have not been preserved specifically for further DNA analysis. Ancient
@@ -77,7 +77,7 @@ You can read more about ancient DNA characteristic from this paper
 Willerslev and Alan
 Cooper](http://www.ncbi.nlm.nih.gov/pubmed/15875564 Ancient DNA by Eske Willerslev and Alan Cooper "wikilink").
 
-[ ⇐ Previous (DNA)](DNA_NGS "wikilink")
+[ ⇐ Previous (DNA)](/wiki/DNA_NGS "wikilink")
 
-[⇐ Theory overview](NGS_Case "wikilink")
+[⇐ Theory overview](/wiki/NGS_Case "wikilink")
 

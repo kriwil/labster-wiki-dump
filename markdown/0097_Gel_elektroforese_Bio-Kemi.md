@@ -31,6 +31,6 @@ er nogle af de klassiske ingredienser:\
     gøre hele prøven tungere, og gøre den mere tyktflydende.
 -   Vand: For at fortynde de overstående reagenser.
 
-[⇐ Forrige (Nukleotider)](Nukleotider_Bio-Kemi "wikilink")\
-[⇐ Teori oversigt ](Bio-Kemi "wikilink")
+[⇐ Forrige (Nukleotider)](/wiki/Nukleotider_Bio-Kemi "wikilink")\
+[⇐ Teori oversigt ](/wiki/Bio-Kemi "wikilink")
 

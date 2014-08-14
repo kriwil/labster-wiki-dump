@@ -74,7 +74,7 @@ constant turnover of RNA and gene expression is continuously adjusted.
 The instability of RNA molecules makes it necessary to reverse
 transcribe the RNA into DNA for sequencing.
 
-[ ⇐ Killer Assay ](Killer Assay "wikilink")/ [ Next cDNA
-⇒](cDNA "wikilink")\
-[ ⇐ Theory Overview ](PlantLab "wikilink")
+[ ⇐ Killer Assay ](/wiki/Killer_Assay "wikilink")/ [ Next cDNA
+⇒](/wiki/cDNA "wikilink")\
+[ ⇐ Theory Overview ](/wiki/PlantLab "wikilink")
 

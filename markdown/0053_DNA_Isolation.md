@@ -1,15 +1,15 @@
 DNA isolation from cells can be performed using the phenol-chloroform
 method. This method yields a genomic DNA that contains millions of
 genes. In order to isolate a specific gene of interest from genomic DNA,
-[PCR](PCR_MC "wikilink") using specific primers can be applied. If the
+[PCR](/wiki/PCR_MC "wikilink") using specific primers can be applied. If the
 gene of interest has been provided in a vector, specific [restriction
-enzyme](Restriction_enzyme "wikilink") can be used for the isolation.
+enzyme](/wiki/Restriction_enzyme "wikilink") can be used for the isolation.
 
 Phenol-Chloroform Extraction
 ----------------------------
 
 ![ Phenol-chloroform extraction method is used for genomic DNA
-isolation](phenol-chloroform.png "fig: Phenol-chloroform extraction method is used for genomic DNA isolation")
+isolation](/wiki/phenol-chloroform.png "fig: Phenol-chloroform extraction method is used for genomic DNA isolation")
 Nucleic acids from cells can be isolated using the phenol-chloroform
 method. Phenol-chloroform is a mixture of buffer-saturated phenol and
 chloroform in 1:1 ratio. The first step in the extraction is cell lysis
@@ -66,6 +66,6 @@ ratio 1.8-2.2 generally means that the nucleic acid sample is accepted
 as pure. For 260/230, a ratio of \<1.8 represents a significant presence
 of organic contaminants.
 
-[Next (Polymerase Chain Reaction) ⇒](PCR_MC "wikilink")\
-[⇐ Theory overview](Molecular Cloning "wikilink")
+[Next (Polymerase Chain Reaction) ⇒](/wiki/PCR_MC "wikilink")\
+[⇐ Theory overview](/wiki/Molecular_Cloning "wikilink")
 

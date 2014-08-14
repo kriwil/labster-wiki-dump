@@ -68,8 +68,8 @@ transfer it into a loop from where it is injected into the mobile phase.
 \
 \
 \
- [⇐ Previous (Pumps)](Pumps "wikilink") / [Next
-(Column)⇒](Column "wikilink")
+ [⇐ Previous (Pumps)](/wiki/Pumps "wikilink") / [Next
+(Column)⇒](/wiki/Column "wikilink")
 
-[⇐Theory overview](HPLC "wikilink")
+[⇐Theory overview](/wiki/HPLC "wikilink")
 

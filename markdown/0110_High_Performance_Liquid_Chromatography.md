@@ -10,7 +10,7 @@ Principles of HPLC
 ------------------
 
 [frame |500px| Figure 1. Components of an HPLC instrument (based on:
-<http://www.waters.com/waters/en_US/How-Does-High-Performance-Liquid-Chromatography-Work%3F/nav.htm?cid=10049055&locale=en_US>)](File: HPLC_components.jpg "wikilink")
+<http://www.waters.com/waters/en_US/How-Does-High-Performance-Liquid-Chromatography-Work%3F/nav.htm?cid=10049055&locale=en_US>)](/wiki/File:_HPLC_components.jpg "wikilink")
 
 As it is shown in Figure 1, this method uses a column which is filled
 with fine beads that form the **stationary phase** and a solvent, which
@@ -58,8 +58,8 @@ example in the food industry, forensic samples and also in pharmacy to
 separate and identify the active compounds and excipients present in
 drugs.
 
-[⇐ Previous (Chromatography)](Chromatography "wikilink") / [Next
-(Lipophilic interaction) ⇒](Lipophilic interaction "wikilink")
+[⇐ Previous (Chromatography)](/wiki/Chromatography "wikilink") / [Next
+(Lipophilic interaction) ⇒](/wiki/Lipophilic_interaction "wikilink")
 
-[⇐ Theory overview](HPLC "wikilink")
+[⇐ Theory overview](/wiki/HPLC "wikilink")
 

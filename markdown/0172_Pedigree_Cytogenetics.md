@@ -6,7 +6,7 @@ health status of immediate family members as well as their cause of
 death. The family history usually present with pedigree chart.\
 
 ![Symbols used in making a
-pedigree](pedigree cyto.jpg "Symbols used in making a pedigree")
+pedigree](/wiki/pedigree cyto.jpg "Symbols used in making a pedigree")
 
 The word ”pedigree” comes from the French term *pie de grue* or “crane’s
 foot”. A pedigree, commonly referred to as family tree, is a graphic
@@ -30,6 +30,6 @@ sips are attached to a horizontal sip ship line. Each generation is
 assigned a roman numeral (I, II, III, and others) and each individual of
 a generation is assigned an arabic numeral (1, 2, 3, and others).
 
-[ ⇐ Diagnosis](Diagnosis "wikilink")\
-[ ⇐ Theory Overview](Cytogenetics "wikilink")
+[ ⇐ Diagnosis](/wiki/Diagnosis "wikilink")\
+[ ⇐ Theory Overview](/wiki/Cytogenetics "wikilink")
 

@@ -11,7 +11,7 @@ these sticky ends to pair with another DNA, we need to modify them into
 DNA with blunt ends (see Figure 1). One of the steps in the NGS sample
 preparation is to repair these sticky ends and create DNA with blunt
 ends. This is important for the next step,
-[A-tailing](A-tailing "wikilink").
+[A-tailing](/wiki/A-tailing "wikilink").
 
 End-repair enzymes
 ------------------
@@ -44,8 +44,8 @@ overhangs.]( Endrepairs.jpg "Figure 2. The Polymerase adding nucleotides in the 
 \
 \
 \
- [⇐ Previous (Fragmentation)](Fragmentation "wikilink") / [Next
-(A-overhang)⇒](A-overhang "wikilink")
+ [⇐ Previous (Fragmentation)](/wiki/Fragmentation "wikilink") / [Next
+(A-overhang)⇒](/wiki/A-overhang "wikilink")
 
-[⇐ Theory overview](NGS_Case "wikilink")
+[⇐ Theory overview](/wiki/NGS_Case "wikilink")
 

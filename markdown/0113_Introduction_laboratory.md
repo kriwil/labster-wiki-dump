@@ -18,5 +18,5 @@ Introduction Laboratory case progression
 -   Module 3: blood typing
 -   End of the case
 
-[\<-- Theory overview](Intro Lab "wikilink")
+[\<-- Theory overview](/wiki/Intro_Lab "wikilink")
 

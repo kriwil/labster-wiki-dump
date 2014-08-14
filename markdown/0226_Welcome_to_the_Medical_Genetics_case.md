@@ -22,5 +22,5 @@ Medical Genetics case progression
 -   Module 4: Cancer genetics
 -   End of the case
 
-[⇐ Theory overview](Medical Genetics case "wikilink")
+[⇐ Theory overview](/wiki/Medical_Genetics_case "wikilink")
 

@@ -82,7 +82,7 @@ Reference
 1\. Knudson AG Jr., 1971, *Mutation and cancer: statistical study of
 retinoblastoma.* Proc Natl Acad Sci U S A. Apr;68(4):820-3.
 
-[Next (Breast cancer) ⇒](Breast cancer "wikilink")
+[Next (Breast cancer) ⇒](/wiki/Breast_cancer "wikilink")
 
-[⇐ Theory overview](Medical Genetics case "wikilink")
+[⇐ Theory overview](/wiki/Medical_Genetics_case "wikilink")
 

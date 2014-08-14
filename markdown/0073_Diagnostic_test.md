@@ -7,5 +7,5 @@ deletion, the mutated DNA region is amplified using PCR. The length of
 the product can then be visualized by gel electrophoresis revealing a
 shorter or longer product as compared to the wild type.
 
-[\<-- Theory Overview](Animal Genetics "wikilink")
+[\<-- Theory Overview](/wiki/Animal_Genetics "wikilink")
 

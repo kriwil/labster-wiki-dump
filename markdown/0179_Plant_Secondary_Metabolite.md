@@ -1,5 +1,5 @@
 ![Plant secondary metabolite
-biosynthesis](Plant secondary metabolite biosynthesis.jpg "fig:Plant secondary metabolite biosynthesis")
+biosynthesis](/wiki/Plant secondary metabolite biosynthesis.jpg "fig:Plant secondary metabolite biosynthesis")
 Beside primary metabolites, which are essential for plant growth, in
 addition plants also produce various secondary metabolites which are
 important for the plants to adjust to their environment. Primary
@@ -17,7 +17,7 @@ materials, flavors, coloring, poisons and medicinal drugs.\
 
 ![*Artemisinin annua* produce an anti-malarial sesquiterpene lactone,
 known as,
-artemisinin](artemisinin annua.jpg "Artemisinin annua produce an anti-malarial sesquiterpene lactone, known as, artemisinin")
+artemisinin](/wiki/artemisinin annua.jpg "Artemisinin annua produce an anti-malarial sesquiterpene lactone, known as, artemisinin")
 
 ### Terpenes and Terpenoids
 
@@ -55,7 +55,7 @@ medicinal properties. Alkaloids acts as defence molecules against
 herbivores, especially mammals. Cyanogenic glycosides are known for
 their capabilities to release volatile poisonous hydrogen cyanide (HCN).
 
-[ ⇐ Plant Taxonomy](Plant Taxonomy "wikilink")/ [ Terpenoid
-⇒](Terpenoid "wikilink")\
-[ ⇐ Theory Overview](PlantLab "wikilink")
+[ ⇐ Plant Taxonomy](/wiki/Plant_Taxonomy "wikilink")/ [ Terpenoid
+⇒](/wiki/Terpenoid "wikilink")\
+[ ⇐ Theory Overview](/wiki/PlantLab "wikilink")
 

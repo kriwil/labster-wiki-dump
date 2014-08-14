@@ -1,2 +1,2 @@
-`#REDIRECT `[`Life_Science_Learning_Wiki:Copyrights`](Life_Science_Learning_Wiki:Copyrights "wikilink")
+`#REDIRECT `[`Life_Science_Learning_Wiki:Copyrights`](/wiki/Life_Science_Learning_Wiki:Copyrights "wikilink")
 

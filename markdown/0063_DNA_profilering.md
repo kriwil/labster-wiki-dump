@@ -2,7 +2,7 @@
 profilen fra bevis A matcher den mistænkte nr
 to!]( suspectgel dk.jpg "fig:En gel kørt med det opsamlede bevismateriale imod 3 mistænkte. DNA profilen fra bevis A matcher den mistænkte nr to!")
 ![Alle mennesker har en unik DNA profil, ligesom man har et unikt
-fingreaftryk](DNA Fingerprinting.jpeg "fig:Alle mennesker har en unik DNA profil, ligesom man har et unikt fingreaftryk")
+fingreaftryk](/wiki/DNA Fingerprinting.jpeg "fig:Alle mennesker har en unik DNA profil, ligesom man har et unikt fingreaftryk")
 
 ### Unikke DNA profiler
 
@@ -33,7 +33,7 @@ uskyldig person havde det samme antal gentageler som mordere, være alt
 for stor! Derfor bruger man mindst 13 primer sæts, når man laver en
 DNA-profil over de mistænkte.
 
-[Next (DNA) ⇒](DNA_DK "wikilink")
+[Next (DNA) ⇒](/wiki/DNA_DK "wikilink")
 
-[⇐ Teori oversigt ](CSI_Casen "wikilink")
+[⇐ Teori oversigt ](/wiki/CSI_Casen "wikilink")
 

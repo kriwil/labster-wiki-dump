@@ -13,7 +13,7 @@ various DNA tests.
 ![Figure 1. PCR consists of three steps: 1. Denaturation, 2. Annealing,
 and 3. Extension. The steps are repeated many times (often 30),
 producing billions of DNA copies of specific
-regions](Pcr_phases.png "Figure 1. PCR consists of three steps: 1. Denaturation, 2. Annealing, and 3. Extension. The steps are repeated many times (often 30), producing billions of DNA copies of specific regions")
+regions](/wiki/Pcr_phases.png "Figure 1. PCR consists of three steps: 1. Denaturation, 2. Annealing, and 3. Extension. The steps are repeated many times (often 30), producing billions of DNA copies of specific regions")
 
 PCR steps
 ---------
@@ -80,7 +80,7 @@ it is necessary to add restriction site at both ends of the PCR product.
 These restriction site addition can be done using a pair of primers with
 specific restriction site added at 5' end. Each primer contains a
 restriction site at 5' end and a hybridization site at 3' end. Consult
-the [restriction site table](Restriction_enzyme "wikilink") to choose
+the [restriction site table](/wiki/Restriction_enzyme "wikilink") to choose
 the correct restriction site. The chosen restriction site must meet
 these requirement:\
 1. Restriction enzymes that do not cut within RAD52 gene.\
@@ -100,7 +100,7 @@ satisfied the good primer requirements).\
 2. Reverse complement the chosen sequence.\
 3. Add restriction sites sequence at 5' end.\
 
-[⇐ Previous (DNA Isolation)](DNA_Isolation "wikilink") / [Next (Gel
-Electrophoresis) ⇒](Gel_Electrophoresis_MC "wikilink")\
-[⇐ Theory Overview](Molecular Cloning "wikilink")
+[⇐ Previous (DNA Isolation)](/wiki/DNA_Isolation "wikilink") / [Next (Gel
+Electrophoresis) ⇒](/wiki/Gel_Electrophoresis_MC "wikilink")\
+[⇐ Theory Overview](/wiki/Molecular_Cloning "wikilink")
 

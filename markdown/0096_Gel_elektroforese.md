@@ -31,7 +31,7 @@ er nogle af de klassiske ingredienser:\
     gøre hele prøven tungere, og gøre den mere tyktflydende.
 -   Vand: For at fortynde de overstående reagenser.
 
-[⇐ Forrige (Nukleotider)](Nukleotider "wikilink") / [ Næste
-(DNA-markøre) ⇒](DNA-markøre "wikilink")\
-[⇐ Teori oversigt ](CSI_Casen "wikilink")
+[⇐ Forrige (Nukleotider)](/wiki/Nukleotider "wikilink") / [ Næste
+(DNA-markøre) ⇒](/wiki/DNA-markøre "wikilink")\
+[⇐ Teori oversigt ](/wiki/CSI_Casen "wikilink")
 

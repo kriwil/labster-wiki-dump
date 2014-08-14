@@ -55,14 +55,14 @@ allowing the next cycle of nucleotide addition to proceed.
 Once the DNA is extracted, it needs to be processed in preparation for
 sequencing. The different sample preparation steps are outlined below:
 
--   [Fragmentation](Fragmentation "wikilink")
--   [End-repair](End-repair "wikilink")
--   [A-tailing](A-tailing "wikilink")
--   [Adapter ligation](Adapter ligation "wikilink")
--   [PCR amplification](PCR amplification "wikilink")
+-   [Fragmentation](/wiki/Fragmentation "wikilink")
+-   [End-repair](/wiki/End-repair "wikilink")
+-   [A-tailing](/wiki/A-tailing "wikilink")
+-   [Adapter ligation](/wiki/Adapter_ligation "wikilink")
+-   [PCR amplification](/wiki/PCR_amplification "wikilink")
 
-Followed by [Cluster generation](Cluster generation "wikilink") and the
-actual [Sequencing process](Sequencing process "wikilink").
+Followed by [Cluster generation](/wiki/Cluster_generation "wikilink") and the
+actual [Sequencing process](/wiki/Sequencing_process "wikilink").
 
 ![**Figure 2.** Workflow of Next Generation Sequencing using Illumina
 platform.]( IlluminaNGSflow.png "fig:Figure 2. Workflow of Next Generation Sequencing using Illumina platform.")
@@ -106,7 +106,7 @@ other) and wash the beads using 80% ethanol. After several rounds of
 washing, we can elute the DNA molecules from the magnetic beads and
 transfer them to a new tube.
 
-[Next (Fragmentation) ⇒](Fragmentation "wikilink")
+[Next (Fragmentation) ⇒](/wiki/Fragmentation "wikilink")
 
-[⇐ Theory overview](NGS_Case "wikilink")
+[⇐ Theory overview](/wiki/NGS_Case "wikilink")
 

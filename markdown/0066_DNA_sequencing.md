@@ -2,7 +2,7 @@
 nucleotides.** Fragments of all different lengths are produced, each
 terminated with a coloured stop nucleotide. When the fragments are size
 separated in the gel, the order of colours will indicate the sequence.
-](Sangersequencing.gif "Sequencing is performed with one primer and two types of nucleotides. Fragments of all different lengths are produced, each terminated with a coloured stop nucleotide. When the fragments are size separated in the gel, the order of colours will indicate the sequence. ")
+](/wiki/Sangersequencing.gif "Sequencing is performed with one primer and two types of nucleotides. Fragments of all different lengths are produced, each terminated with a coloured stop nucleotide. When the fragments are size separated in the gel, the order of colours will indicate the sequence. ")
 
 Sequencing is a technique used for "reading" the order of bases in a DNA
 fragment. Small DNA fragments, whole genes, or even genomes can be
@@ -22,8 +22,8 @@ sequencing is for example, to predict the protein sequence of a gene, to
 compare species on a sequence level (genes or genome), or to search for
 a mutation.
 
-[← Previous (Gene expression)](Gene expression "wikilink") / [ → Next
-(Mutations)](Mutations "wikilink")
+[← Previous (Gene expression)](/wiki/Gene_expression "wikilink") / [ → Next
+(Mutations)](/wiki/Mutations "wikilink")
 
-[← Theory Overview](Animal Genetics "wikilink")
+[← Theory Overview](/wiki/Animal_Genetics "wikilink")
 

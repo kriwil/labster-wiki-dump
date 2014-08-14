@@ -3,7 +3,7 @@ state to another. A transition state exists between the substrate and
 product. This state has a higher energy level than both the substrate
 and product. A catalyst will lower this energy level, so that the
 transition energy is reached more easily, and this results in a faster
-reaction.](ActivationEnergy.png "A reaction from a substrate to product is a transition from 1 energy state to another. A transition state exists between the substrate and product. This state has a higher energy level than both the substrate and product. A catalyst will lower this energy level, so that the transition energy is reached more easily, and this results in a faster reaction.")
+reaction.](/wiki/ActivationEnergy.png "A reaction from a substrate to product is a transition from 1 energy state to another. A transition state exists between the substrate and product. This state has a higher energy level than both the substrate and product. A catalyst will lower this energy level, so that the transition energy is reached more easily, and this results in a faster reaction.")
 
 Enzymes are proteins that act as catalysts of specific reactions. They
 act by lowering the activation energy, thereby making the reaction
@@ -49,7 +49,7 @@ Company. ISBN 978-0-7167-7108-1.
 Matter, and Change: A molecular approach to physical chemistry*. Oxford
 University Press. ISBN 978-0-19-920606-3.
 
-[Next (ADH) ⇒](ADH "wikilink")
+[Next (ADH) ⇒](/wiki/ADH "wikilink")
 
-[⇐ Theory overview](Enzyme Kinetics "wikilink")
+[⇐ Theory overview](/wiki/Enzyme_Kinetics "wikilink")
 

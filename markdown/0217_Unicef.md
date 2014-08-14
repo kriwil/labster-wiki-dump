@@ -1,3 +1,3 @@
 1.  REDIRECT [UNICEF Pre-workshop
-    material](UNICEF Pre-workshop material "wikilink")
+    material](/wiki/UNICEF_Pre-workshop_material "wikilink")
 

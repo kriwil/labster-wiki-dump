@@ -29,7 +29,7 @@ used for growth, some carbon is diverted from respiration to ethanol
 production.
 
 ![ Aerobic and anaerobic
-respiration](anerobic and aerobic respiration.png " Aerobic and anaerobic respiration")
+respiration](/wiki/anerobic and aerobic respiration.png " Aerobic and anaerobic respiration")
 
 ### Substrate-level phosphorylation
 
@@ -74,8 +74,8 @@ Oxidation is held using O~2~ as a terminal electron acceptor.
 
   : Table 1. Aerobic respiration and Fermentation
 
-[⇐ Previous (Culture Media)](Culture Media "wikilink") /[Next
-(Glycolysis) ⇒](Glycolysis "wikilink")
+[⇐ Previous (Culture Media)](/wiki/Culture_Media "wikilink") /[Next
+(Glycolysis) ⇒](/wiki/Glycolysis "wikilink")
 
-[⇐ Theory overview](Fermentation_Case "wikilink")
+[⇐ Theory overview](/wiki/Fermentation_Case "wikilink")
 

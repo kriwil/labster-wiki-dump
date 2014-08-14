@@ -5,7 +5,7 @@ diet and housing) must be examined and excluded. The next step is then
 to collect family and phenotype data for a pedigree to get an overview
 of the inheritance pattern.
 
-[Next (Pedigree) →](Pedigree "wikilink")
+[Next (Pedigree) →](/wiki/Pedigree "wikilink")
 
-[← Theory overview](Animal Genetics "wikilink")
+[← Theory overview](/wiki/Animal_Genetics "wikilink")
 

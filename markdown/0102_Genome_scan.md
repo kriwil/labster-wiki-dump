@@ -7,7 +7,7 @@ In a genome scan you genotype DNA markers covering the entire genome and
 perform linkage analysis to identify DNA markers that co-segregate with
 the inherited trait.
 
-[Next (STR-markers) →](STR-markers "wikilink")
+[Next (STR-markers) →](/wiki/STR-markers "wikilink")
 
-[← Theory overview](Animal Genetics "wikilink")
+[← Theory overview](/wiki/Animal_Genetics "wikilink")
 

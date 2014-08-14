@@ -37,7 +37,7 @@ It has a pleomorphic appearance and has no maternal cell equivalent.
     predominate the older culture.
 
 [ ⇐ Array Comparative Genomic
-Hybridization](Array Comparative Genomic Hybridization "wikilink")/ [
-Karyotyping ⇒](Karyotyping "wikilink")\
-[ ⇐ Theory Overview](Cytogenetics "wikilink")
+Hybridization](/wiki/Array_Comparative_Genomic_Hybridization "wikilink")/ [
+Karyotyping ⇒](/wiki/Karyotyping "wikilink")\
+[ ⇐ Theory Overview](/wiki/Cytogenetics "wikilink")
 

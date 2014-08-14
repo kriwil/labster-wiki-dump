@@ -28,7 +28,7 @@ phase. The RNA is recovered by adding isopropanol, which precipitates
 polar molecules like RNAs and salts. The salts can be washed away with
 75% ethanol to obtain pure RNA.
 
-[ ⇐ cDNA](CDNA "wikilink")/ [ Next Generation Sequencing
-⇒](NGS_Plant "wikilink")\
-[⇐ Theory overview](PlantLab "wikilink")
+[ ⇐ cDNA](/wiki/CDNA "wikilink")/ [ Next Generation Sequencing
+⇒](/wiki/NGS_Plant "wikilink")\
+[⇐ Theory overview](/wiki/PlantLab "wikilink")
 

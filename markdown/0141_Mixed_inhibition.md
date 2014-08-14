@@ -77,8 +77,8 @@ Company. ISBN 978-0-7167-7108-1.
 Matter, and Change: A molecular approach to physical chemistry*. Oxford
 University Press. ISBN 978-0-19-920606-3.
 
-[⇐ Theory overview](Enzyme Kinetics "wikilink")
+[⇐ Theory overview](/wiki/Enzyme_Kinetics "wikilink")
 
 [⇐Previous (Uncompetitive
-inhibition)](Un-competitive inhibition "wikilink")
+inhibition)](/wiki/Un-competitive_inhibition "wikilink")
 

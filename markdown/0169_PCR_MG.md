@@ -13,7 +13,7 @@ various DNA tests.
 ![Figure 1. PCR consists of three steps: 1. Denaturation, 2. Annealing,
 and 3. Extension. The steps are repeated many times (often 30),
 producing billions of DNA copies of specific
-regions](Pcr_phases.png "Figure 1. PCR consists of three steps: 1. Denaturation, 2. Annealing, and 3. Extension. The steps are repeated many times (often 30), producing billions of DNA copies of specific regions")
+regions](/wiki/Pcr_phases.png "Figure 1. PCR consists of three steps: 1. Denaturation, 2. Annealing, and 3. Extension. The steps are repeated many times (often 30), producing billions of DNA copies of specific regions")
 
 PCR steps
 ---------
@@ -72,8 +72,8 @@ different container, spray the table with RNase free to eliminate
 contaminating RNA, tie your hair, do not cough or sneeze around the PCR
 workbench, and others).
 
-[⇐ Previous (Genetic testing)](Genetic testing "wikilink") / [Next (Gel
-electrophoresis) ⇒](Gel electrophoresis_MG "wikilink")
+[⇐ Previous (Genetic testing)](/wiki/Genetic_testing "wikilink") / [Next (Gel
+electrophoresis) ⇒](/wiki/Gel_electrophoresis_MG "wikilink")
 
-[⇐ Theory Overview](Medical Genetics case "wikilink")
+[⇐ Theory Overview](/wiki/Medical_Genetics_case "wikilink")
 

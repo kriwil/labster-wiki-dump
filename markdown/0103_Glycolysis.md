@@ -16,9 +16,9 @@ and two molecule of NADH.
 ![ Glycolisis consists of multiple steps where six-carbon molecules are
 broken down into two three-carbon molecules, and generate two ATP
 molecules, two pyruvic acids, and two molecules of
-NADH.](glycolysis.jpg " Glycolisis consists of multiple steps where six-carbon molecules are broken down into two three-carbon molecules, and generate two ATP molecules, two pyruvic acids, and two molecules of NADH.")
+NADH.](/wiki/glycolysis.jpg " Glycolisis consists of multiple steps where six-carbon molecules are broken down into two three-carbon molecules, and generate two ATP molecules, two pyruvic acids, and two molecules of NADH.")
 
-[⇐ Previous (Cell Metabolism)](Cell_Metabolism "wikilink") / [Next
-(Krebs Cycle) ⇒](Krebs Cycle "wikilink")\
-[⇐ Theory overview](Fermentation_Case "wikilink")
+[⇐ Previous (Cell Metabolism)](/wiki/Cell_Metabolism "wikilink") / [Next
+(Krebs Cycle) ⇒](/wiki/Krebs_Cycle "wikilink")\
+[⇐ Theory overview](/wiki/Fermentation_Case "wikilink")
 

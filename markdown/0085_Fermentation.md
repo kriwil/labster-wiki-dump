@@ -23,7 +23,7 @@ environment when the fermentation process takes place (e.g. oxygen is
 pumped into the bioreactor where bioethanol fermentation takes place).
 
 ![Alcoholic
-fermentation](Alcohol fermentation.jpg "Alcoholic fermentation")
+fermentation](/wiki/Alcohol fermentation.jpg "Alcoholic fermentation")
 
 ### Alcohol fermentation
 
@@ -40,7 +40,7 @@ glycolysis. One of the microorganism that can perform alcohol
 fermentation is yeast such as *Saccharomyces cerevisiae*.
 
 ![Lactic acid
-fermentation](Lactic acid fermentation.jpg "Lactic acid fermentation")
+fermentation](/wiki/Lactic acid fermentation.jpg "Lactic acid fermentation")
 
 ### Lactic Acid fermentation
 
@@ -52,7 +52,7 @@ yogurt (*Lactobacillus acidophilus*, Streptococcus thermophilus'', and
 *Lactobacillus bulgaricus*), and other fermented dairy products.
 
 [⇐ Previous (Electron Transport
-Chain)](Electron Transport Chain "wikilink") / [Next (Microbe
-Identification) ⇒](Microbe_Identification "wikilink")\
- [⇐ Theory overview](Fermentation_Case "wikilink")
+Chain)](/wiki/Electron_Transport_Chain "wikilink") / [Next (Microbe
+Identification) ⇒](/wiki/Microbe_Identification "wikilink")\
+ [⇐ Theory overview](/wiki/Fermentation_Case "wikilink")
 

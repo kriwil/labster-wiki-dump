@@ -37,10 +37,10 @@ glykolyse proces. En af de organismer der kan udfører alkohol
 fermentering er gær cellen *Saccharomyces cerevisiae*.
 
 ![Alcoholic
-fermentation](Alcohol_fermentation dk.jpg "Alcoholic fermentation")
+fermentation](/wiki/Alcohol_fermentation dk.jpg "Alcoholic fermentation")
 
 ![Lactic acid
-fermentation](Lactic_acid_fermentation dk.jpg "Lactic acid fermentation")
+fermentation](/wiki/Lactic_acid_fermentation dk.jpg "Lactic acid fermentation")
 
 ### Mælkesyre fermentering
 
@@ -55,7 +55,7 @@ Denne type fermentering bliver brugt til bl.a. produktionen af ost
 *Streptococcus thermophile*s og *Lactobacillus bulgaricus*) og andre
 fermenterede mælkeprodukter.
 
-[⇐ Forrige (Elektron transport)](Elektron transport "wikilink") / [Næste
-(Mikrobiel identificering) ⇒](Mikrobiel identificering "wikilink")\
- [⇐ Teori oversigt ](Fermenteringscase "wikilink")
+[⇐ Forrige (Elektron transport)](/wiki/Elektron_transport "wikilink") / [Næste
+(Mikrobiel identificering) ⇒](/wiki/Mikrobiel_identificering "wikilink")\
+ [⇐ Teori oversigt ](/wiki/Fermenteringscase "wikilink")
 

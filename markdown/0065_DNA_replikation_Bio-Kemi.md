@@ -9,8 +9,6 @@ mest kendte er DNA-polymerase. Det er DNA-polymerases opgave at lave den
 nye streng ved at sætte nukleotider på den originale DNA streng i den
 tilsvarende rækkefølge.
 
-[⇐ Forrige (DNA))](DNA_Bio-Kemi "wikilink") / [ Næste (PCR (Polymerase
-chain reaction))
-⇒](PCR (Polymerase chain reaction)_Bio-Kemi "wikilink")\
-[⇐ Teori oversigt ](Bio-Kemi "wikilink")
+[⇐ Forrige (DNA))](/wiki/DNA_Bio-Kemi "wikilink") / [ Næste (PCR (Polymerase chain reaction))⇒](/wiki/PCR_Bio-Kemi "wikilink")\
+[⇐ Teori oversigt ](/wiki/Bio-Kemi "wikilink")
 

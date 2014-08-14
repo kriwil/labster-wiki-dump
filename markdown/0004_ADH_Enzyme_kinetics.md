@@ -21,5 +21,5 @@ Enzyme Kinetics case progression
 -   Module 5: Enzyme inhibition
 -   End of case
 
-[\<-- Theory overview](Enzyme Kinetics "wikilink")
+[\<-- Theory overview](/wiki/Enzyme_Kinetics "wikilink")
 

@@ -23,22 +23,22 @@ Introduktion
 ------------
 
 [Velkommen til
-fermenteringscasen](Velkommen til fermenteringscasen "wikilink")
+fermenteringscasen](/wiki/Velkommen_til_fermenteringscasen "wikilink")
 
 Case teori
 ----------
 
--   [Bioreaktoren](Bioreaktoren "wikilink")
-    -   [Sterilisering](Sterilisering "wikilink")
--   [Vækstmedie](Vækstmedie "wikilink")
--   [Celle metabolisme](Celle metabolisme "wikilink")
-    -   [Glykolysen](Glykolysen "wikilink")
-    -   [Krebscyklus](Krebscyklus "wikilink")
-    -   [Elektron transport](Elektron transport "wikilink")
-    -   [Fermentering](Fermentering "wikilink")
--   [Mikrobiel identificering](Mikrobiel identificering "wikilink")
--   [Mikrobiel vækst](Mikrobiel vækst "wikilink")
--   [Excel guide](Excel guide "wikilink")
+-   [Bioreaktoren](/wiki/Bioreaktoren "wikilink")
+    -   [Sterilisering](/wiki/Sterilisering "wikilink")
+-   [Vækstmedie](/wiki/Vækstmedie "wikilink")
+-   [Celle metabolisme](/wiki/Celle_metabolisme "wikilink")
+    -   [Glykolysen](/wiki/Glykolysen "wikilink")
+    -   [Krebscyklus](/wiki/Krebscyklus "wikilink")
+    -   [Elektron transport](/wiki/Elektron_transport "wikilink")
+    -   [Fermentering](/wiki/Fermentering "wikilink")
+-   [Mikrobiel identificering](/wiki/Mikrobiel_identificering "wikilink")
+-   [Mikrobiel vækst](/wiki/Mikrobiel_vækst "wikilink")
+-   [Excel guide](/wiki/Excel_guide "wikilink")
 
 Reference
 ---------

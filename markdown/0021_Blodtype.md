@@ -148,5 +148,5 @@ er der gået noget galt, og testen bør gentages med et nyt Eldon-kort.
 
 ![]( blodtype.jpg " blodtype.jpg")
 
-[\<-- Teori oversigt](Bio-Kemi "wikilink")
+[\<-- Teori oversigt](/wiki/Bio-Kemi "wikilink")
 

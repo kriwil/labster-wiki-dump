@@ -7,25 +7,25 @@ pump, injector and column
 oven.]( HPLC machine.jpg "fig:A typical HPLC machine showing the mobile phase reservoir, detector, pump, injector and column oven.")
 The main components of the HPLC are listed below:
 
--   **[Mobile phase reservoir](Mobile phase reservoir "wikilink")** →
+-   **[Mobile phase reservoir](/wiki/Mobile_phase_reservoir "wikilink")** →
     This is where the mobile phase is contained. The mobile phase is
     normally stored in glass bottles.
--   **[Pumps](Pumps "wikilink")** → The function of the pump is to
+-   **[Pumps](/wiki/Pumps "wikilink")** → The function of the pump is to
     create high pressure and create a flow of mobile phase in the
     system.
--   **[Sample injector](Sample injector "wikilink")** → This is where
+-   **[Sample injector](/wiki/Sample_injector "wikilink")** → This is where
     the sample in introduced in the system. The sample needs to be in
     liquid form (solution).
--   **[Column](Column "wikilink")** → This is where the sample
+-   **[Column](/wiki/Column "wikilink")** → This is where the sample
     separation takes place. The column is filled with beads that is
     referred to as stationary phase.
--   **[Oven regulator](Oven regulator "wikilink")** → This is where the
+-   **[Oven regulator](/wiki/Oven_regulator "wikilink")** → This is where the
     column is kept and the temperature can be controlled.
--   **[Detector](Detector "wikilink")** → This is where the separated
+-   **[Detector](/wiki/Detector "wikilink")** → This is where the separated
     analytes are identified and quantified.
 -   **Data acquisition** → Typically a computer is used where the data
     collected in the detector is processed, the data outcome can be
-    presented as [Chromatogram](Chromatogram "wikilink").
+    presented as [Chromatogram](/wiki/Chromatogram "wikilink").
 
 Starting the HPLC Machine
 -------------------------
@@ -102,8 +102,8 @@ curve.
 \
 \
  [⇐ Previous (Lipophilic
-interaction)](Lipophilic_interaction "wikilink") /[Next (Mobile phase
-reservoir)⇒](Mobile phase reservoir "wikilink")
+interaction)](/wiki/Lipophilic_interaction "wikilink") /[Next (Mobile phase
+reservoir)⇒](/wiki/Mobile_phase_reservoir "wikilink")
 
-[⇐ Theory overview](HPLC "wikilink")
+[⇐ Theory overview](/wiki/HPLC "wikilink")
 

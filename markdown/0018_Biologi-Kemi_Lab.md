@@ -19,8 +19,8 @@ Lab.]( Title.jpg "fig:Velkomen til Biologi-Kemi Lab.")\
 \
 \
 [Velkommen til Biologi-Kemi
-Lab](Velkommen til Biologi-Kemi Lab "wikilink")
+Lab](/wiki/Velkommen_til_Biologi-Kemi_Lab "wikilink")
 
--   [Diffusion og osmose](Diffusion og osmose "wikilink")
--   [Blodtype](Blodtype "wikilink")
+-   [Diffusion og osmose](/wiki/Diffusion_og_osmose "wikilink")
+-   [Blodtype](/wiki/Blodtype "wikilink")
 
