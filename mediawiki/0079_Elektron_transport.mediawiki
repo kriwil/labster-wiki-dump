@@ -1,0 +1,22 @@
+Elektrontransport er en membran medieret proces, der fører til overførslen af elektroner fra et substrat til O2. Elektrontransportkæden bliver dannet af elektronbærere på den indre membran af mitokondrierne i gær. De to grundlæggende funktioner for elektrontransportkæden er:<br>
+
+
+
+[[File:Electron_transport dk.jpg|thumb|right|400px|Elektron transport kæde]]
+
+
+•	Faciliteter overførslen af elektroner fra en primære doner til den terminale modtager.
+•	At gemme energi der er blevet frigivet under elektrontransporten til ATP syntesen.<br>
+
+
+
+Utallige oxidative-reduktive enzymer så som NADH dehydrogenase, flavoprotein, jern-svovl proteiner og cytochromer er del af elektrontransport. Ligeledes er der også ikke proteiner, kaldet guinoner involveret i elektron transporten.<br>
+
+
+
+I elektrontransport processen bliver hydrogen ionet (H<sup>+</sup>), som stammer enten NADH, FADH eller et opdelt H<sub>2</sub>O molekyle, trukket ud på ydersiden af membranen. Overførslen af H<sup>+</sup> til ydersiden af membranen medfører en ophobning af OH<sup>-</sup> på indersiden af membranen. Denne opdeling af H<sup>+</sup>og OH- medfører en forskel i pH og ladning imellem de to sider. Denne pH og ladnings gradient kaldes en protonmotorisk kraft, og får membranen ladet i stil med et batteri. H<sup>+</sup> bevæger sig så tilbage igennem membranen via en speciel pore dannet af ATP syntase, som på bekostning af denne gradient danner ATP.
+
+
+[[Krebscyklus |&lArr; Previous (Krebscyklus )]] / [[Fermentering|Next (Fermentering) &rArr;]] <br>
+
+[[Fermenteringscase |&lArr; Teori oversigt ]]

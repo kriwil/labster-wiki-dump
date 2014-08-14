@@ -1,0 +1,185 @@
+== Acids and bases ==
+[[File:Examples_of_acids_and_bases.png|frame|Examples of strong and weak acids and bases]]
+According to Brønsted-Lowry definition, an acid (HA) is a species that donates a proton in aqueous solution, whereas a base (B) is the one that accepts a proton. When an acid donates a proton, a water molecule catches it forming hydronium ions (H<sub>3</sub>O<sup>+</sup>). In contrast, when protons are subtracted from the water molecules, hydroxide ions (OH<sup>-</sup>) are formed instead. 
+
+
+* '''Strong and weak acids'''
+Strong acids are those that are totally dissociated in water whereas weak acids are those that are partially dissociated in water. 
+
+[[File:Acids.png‎]]
+
+
+* '''Strong and weak bases'''
+Strong bases are those that are totally dissociated in aqueous solution whereas weak bases are those that are partially protonated in aqueous solution. 
+
+[[File:Bases.png‎]]
+
+
+As you probably noticed, the double arrow shows that the reaction goes in both directions until equilibrium is reached. At that point, the forward reaction occurs at the same rate as the reverse reaction. For strong acid and bases, that reverse reaction is almost inexistent and that is why it is said that strong acids and bases are totally dissociated in water and then you use one-directional arrows.
+It is important to notice that acids and bases, specially strong ones, are corrosive and may corrode metals and burn human skin.
+
+
+== ICE table ==
+
+ICE stands for "Initial, Change, Equilibrium", which constitute the three steps that occur when dissolving an acid (or a base) in water. Using these tables, it is easier to know what is happening.
+
+{|border="1" cellpadding="2" 
+! width="60" |
+! width="60" | HA 
+! width="60" | H<sub>3</sub>O<sup>+</sup>
+! width="60" | A<SUP>-</SUP>
+|-
+! I
+! C<sub>a</sub>
+! 0
+! 0
+|-
+! C
+! –x
+! +x
+! +x
+|-
+! E
+! C<sub>a</sub>– x
+! x
+! x
+|}
+
+In this table, C<sub>a</sub> stands for the initial concentration of the acid and x is the amount that reacts (negative if it disappears and positive if it is formed). This amount can be calculated from the acid dissociation constant (K<sub>a</sub>) by isolating x after substituting the concentrations for those obtained in the equilibrium (E-row in the table). 
+
+[[File:ICE_acids.png‎]]
+
+
+Similar ICE table and calculations are done when working with bases but then you need to write OH<SUP>-</SUP> instead of H<SUB>3</SUB>O<SUP>+</SUP> and use the base dissociation constant (K<sub>b</sub>), instead of K<sub>a</sub>.
+
+{|border="1" cellpadding="2" 
+! width="60" |
+! width="60" | B
+! width="60" | OH<SUP>-</SUP>
+! width="60" | BH<SUP>+</SUP>
+|-
+! I
+! C<sub>b</sub>
+! 0
+! 0
+|-
+! C
+! –x
+! +x
+! +x
+|-
+! E
+! C<sub>b</sub> – x
+! x
+! x
+|}
+
+[[File:ICE_bases.png]]
+
+Notice that x can be approximated to C<sub>a</sub> (or C<sub>b</sub>) when it is a strong acid (or a strong base) since they are totally dissociated (or protonated) in each case.
+
+== pH and pOH ==
+[[Image:Universal_indicator_paper.jpg‎|frame|A roll of universal indicator paper]]
+The concentration of H<SUB>3</SUB>O<SUP>+</SUP> and OH<SUP>-</SUP> in solution, which corresponds to x in the ICE table, is used to calculate pH and pOH, respectively. These numbers are related to each other and give an idea of the acidity or basicity of the solution. Normally, it is more common to work with pH values. 
+
+[[File:PH.png]]
+
+Once you have done this calculation, you can say that the solution is acidic if pH < 7, whereas pH > 7 indicates that the solution is basic.
+
+
+== pH indicators ==
+[[Image:PH_color_transitions.png|frame|First and second transitions of thymol blue solution: acidic, neutral and alkaline from left to right (1); Color of methyl red solution at different acid-base conditions: acidic, neutral and alkaline from left to right (2). Bromothymol blue indicator in acidic, neutral and alkaline solutions, from left to right (3)]]
+There are several ways of measuring the approximate pH by mixing the solution with different chemicals that change colors when the solution is acid or basic. Some are mentioned in table below but can be combined as it is done in universal indicator paper of pH. A more accurate way of measuring pH is using pH-meter.
+
+{|border="1" cellpadding="2" 
+! width="160" | '''Indicator'''
+! width="160" | '''Color at lower pH'''
+! width="160" | '''Transition pH range'''
+! width="160" | '''Color at higher pH'''
+|- 
+! '''Thymol blue  <br>(first transition)'''
+! Red 
+! 1.2 – 2.8
+! Yellow
+|-
+! '''Methyl red'''
+! Red
+! 4.4 – 6.2
+! Yellow 
+|-
+! '''Bromothymol blue <br>(second transition)'''
+! Yellow
+! 6.0 – 7.6
+! Blue
+|-
+! '''Thymol blue'''
+! Yellow
+! 8.0 – 9.6
+! Blue
+|-
+! '''Phenolphthalein''' 
+! Colorless
+! 8.3 – 10.0
+! Fuchsia
+|}
+
+
+== Buffers ==
+Those solutions where pH does not vary significantly when adding small amounts of an acid or a base are called buffers. The way of calculating the pH of a buffer is using the Henderson–Hasselbalch equation: 
+
+[[Image:Henderson–Hasselbalch_equation_1.png‎]]
+
+In case you have pK<sub>b</sub>, then you first need to calculate pK<sub>a</sub> with the following relationship:  pK<sub>a</sub> + pK<sub>b</sub> = 14.
+
+
+There is also a variation of the equation where you obtain pOH using pK<sub>b</sub>: 
+
+[[Image:Henderson–Hasselbalch_equation_2.png‎]]
+
+In that case, you would need to use the relationship between pH and pOH to calculate pH: pH + pOH = 14.
+
+
+You can prepare this type of solutions in different ways normally mixing an acid and its conjugated base or vice versa but you can also follow one of the two following procedures:
+
+* '''Adding a solution of strong acid of concentration [Strong acid]<sub>initial</sub> to a solution of weak base of concentration [B]<sub>initial</sub>'''. In this case:
+
+[[File:Strong_acid_+_weak_base.png]]
+
+* '''Adding a solution of strong base of concentration [Strong base]<sub>initial</sub> to a solution of weak acid of concentration [HA]<sub>initial</sub>'''. In this case:
+
+[[File:Strong_base_+_weak_acid.png‎]]
+
+
+== pH in living systems ==
+
+Some biological fluids such as blood, act as buffer solutions. In the case of blood, pH is 7.365 (slightly basic) and it is kept between 7.35 and 7.45 to be able to undergo all physiological reactions.
+
+In the case of the gastric fluids, pH is highly acidic so that it is possible to digest proteins. The acidity is due to its composition: high concentration of hydrochloric acid (HCl) and potassium chloride (KCl) and sodium chloride (NaCl). Cells in the stomach produce mucus to form a barrier that prevents damages in the organ. 
+
+{|border="1" cellpadding="2" 
+! width="160" | '''Fluid'''
+! width="160" | '''pH'''
+|- 
+! Gastric acid 
+! 1
+|-
+! Urine
+! 6.0
+|-
+! Cerebrospinal fluid (CSF)
+! 7.5
+|-
+! Blood 	
+
+! 7.35 – 7.45
+|-
+! Pancreas secretions 
+! 8.1
+|}	
+
+
+
+
+[[Safety in the lab|<-- Previous (Safety in the lab)]] / [[Diffusion and osmosis|Next (Diffusion and osmosis) -->]]
+
+[[Intro Lab|<-- Theory overview]]

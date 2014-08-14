@@ -1,0 +1,16 @@
+[[File: cDNA synthesis.jpg|thumbnail|right|350px|Traditional method of cDNA synthesis]] 
+Complementary DNA (cDNA) is DNA that is synthesized from messenger RNA molecules. cDNA synthesis is catalyzed by an enzyme called reverse transcriptase, which uses RNA as a template for DNA synthesis. Reverse transcriptase was initially found and isolated from a retrovirus. These viruses contain an RNA genome; therefore the viruses need to produce a cDNA copy of its genome to be compatible with the host cell's molecular machinery. <br>
+There are numerous approaches to synthesize cDNA; in this case, we will use the traditional approach to synthesize cDNA.
+
+
+
+Traditional cDNA synthesis:
+* An oligo(T) fragment is used as a primer in order to bind to the 3’ poly(A)tail of each RNA.
+* Reverse transcriptase uses RNA as template to synthesize cDNA strands. 
+* The resulting RNA- cDNA hybrid is treated with alkali or RNase to hydrolyze the RNA.
+* The stranded DNA folds back on itself and forms a loop at the 3’ end. The resulting double stranded portion of the loop acts as a primer for the DNA polymerase, which synthesizes the complementary DNA strand.
+* A S1 nuclease will cut the loop, resulting in double-stranded DNA.
+
+<br><br><br>
+[[Gene Discovery| &lArr; Gene Discovery ]]/ [[RNA_extraction| RNA Extraction &rArr;]] <br>
+[[PlantLab| &lArr; Theory Overview ]]

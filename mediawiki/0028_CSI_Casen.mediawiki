@@ -1,0 +1,20 @@
+[[File: CSI Case.jpg|x300px|frame|left|link=CSI CASE|'''Velkommen til CSI Casen!''']]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+Her har vi samlet alt det nødvendige materiale, for at forbedre læringsprocessen. Det tager ca 15-20 minutter at læse det hele, og hvis du har nogle kommentarer eller feedback må du meget gerne sende det til tamara @labster.com
+
+
+===Introduktion===
+* [[CSI casen Introduktion| At løse en mordsag ved hjælp af bioteknologi]]
+
+===Case teori===
+*[[DNA profilering]]
+**[[DNA DK]]
+**[[Tandem repeated regions]]
+*[[DNA replikation]]
+*[[PCR (Polymerase chain reaction)]]
+**[[Primere]]
+**[[DNA polymerase]]
+**[[Nukleotider]]
+*[[Gel elektroforese]]
+**[[DNA-markøre]]

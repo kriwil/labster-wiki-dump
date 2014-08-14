@@ -1,0 +1,84 @@
+[[File: MMcurve.jpg|550px|thumb|Fig.1. Michaelis-Menten equation fitted to a plot of initial rates against substrate concentration. When the substrate concentration equals K<sub>m</sub>, the reaction rate is ½*V<sub>max</sub>.]]
+
+The Michaelis constant, K<sub>m</sub>, is a parameter in the [[Michaelis-Menten|Michaelis-Menten equation]]. K<sub>m</sub> is equal to the substrate concentration where the corresponding reaction rate is ½ &bull; V<sub>max</sub> (Fig.1). An enzyme with a low K<sub>m</sub> therefore achieves its [[vmax|half-maximal velocity]] at a low substrate concentration, while an enzyme with a high K<sub>m</sub> needs high substrate concentrations to achieve this velocity. It has been experimentally shown, that K<sub>m</sub> of an enzyme is usually close to the cellular concentration of its substrate. For an enzymatic reaction involving 2 steps, where the second step is rate limiting, K<sub>m</sub> is approximately equal to the dissociation constant of the ES complex. In this case, a low K<sub>m</sub> implies a high affinity for the substrate; however this interpretation of K<sub>m</sub> is only valid for a few enzymes [1].
+
+
+==The Lineweaver-Burk equation==
+Several methods for determining Km exist. The most direct method is to plot V<sub>0</sub> against [S] and use curve fitting software to fit the Michaelis-Menten equation directly. However, certain transformations allow determination via linear regression, and these transformations are also useful when analyzing enzyme inhibition. Several transformations are possible; however, a simple one is obtained by taking the reciprocal on both sides of the Michaelis-Menten equation. This leads to the following expression, called the Lineweaver-Burk equation:
+
+
+[[File: Lineweaver-Burk.png|270px]]
+
+
+This equation shows, that a plot of 1/V<sub>0</sub> against 1/[S] should give a plot that can be fitted by a straight line with the y-intercept 1/V<sub>max</sub> and slope K<sub>m</sub>/V<sub>max</sub>. Thus, K<sub>m</sub> can be obtained using linear regression. Fig. 2. shows an illustration of how to interpret the slope and intersects on a Lineweaver-Burk plot. [1]
+
+[[File: LineweaverBurkPlot.jpg|frame|left|x400px|Fig.2. An illustration of the Lineweaver-Burk equation fitted to a double-reciprocal transformation of an enzyme kinetic dataset.]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==Other transformations==
+Notable, the Lineweaver-Burk transformation is not the only option. For example, a plot of [S]/V<sub>0</sub> against [S] (a Hanes–Woolf plot) will also result in a straight line [2]. However, in this case, we will use the Lineweaver-Burk transformation:
+
+
+
+==References==
+
+1. Lehninger, Albert L.; Nelson, David L.; Cox, Michael M. (2008). ''Principles of Biochemistry'' (5th ed.). New York, NY: W.H. Freeman and Company. ISBN 978-0-7167-7108-1.
+
+2. Atkins, G.L. and Nimmo, I.A. (1975) A comparison of seven methods for fitting the Michaelis-Menten equation. ''Biochem. J.'' '''149''', 775-777.
+
+
+[[Reaction rate|&lArr; Previous (Reaction rate)]] / [[Vmax|Next (V<sub>max</sub>)]]
+
+[[Enzyme Kinetics|&lArr; Theory overview]]

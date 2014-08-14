@@ -1,0 +1,61 @@
+[[File: EnzymeKinetics Case.jpg|frame|left|x300px|Welcome to the Enzyme Kinetics case!]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==Introduction==
+*[[ADH enzyme kinetics]]
+
+==Case Theory==
+*[[Enzyme]]
+**[[ADH]]
+**[[Active site]]
+**[[Substrate]]
+**[[Co-factor]]
+**[[Product]]
+
+*[[Enzyme kinetics]]
+
+*[[Michaelis-Menten]]
+**[[Reaction rate]]
+**[[Km|K<sub>m</sub>]]
+**[[Vmax|V<sub>max</sub>]]
+**[[Kcat|k<sub>cat</sub>]]
+
+*[[Inhibitors]]
+**[[Competitive inhibition]]
+**[[Un-competitive inhibition]]
+**[[Mixed inhibition|Mixed/non-competitive inhibition]]
+
+*[[Master mix]]
+
+*[[Spectrophotometer]]

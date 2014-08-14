@@ -1,0 +1,66 @@
+Some important parameters in chromatography are explained in this section. They are useful to interpret the chromatogram which is a representation of the processed signal strength vs. time.
+
+
+== Resolution (R) ==
+When two peaks appear in the chromatogram, it is useful to calculate the resolution of the two peaks (R), which gives an idea of how good the separation of the two analytes is. It should normally be higher than 1.5 for good quantification.
+
+R can be measured by comparing the retention time to the peak width as shown on the first equation or by using other parameters (theoretical plate number, selectivity and capacity factor) as shown on the second equation.
+
+[[File: Resolution1.png]]
+[[File: Resolution2.png]]
+
+Where R is the resolution, t<sub>R</sub> is the retention time, w is the peak width, N is the theoretical plate number, α is the selectivity and ''k''' is the capacity factor.
+
+From the first equation, B is the species with the longer retention time, and t<sub>R</sub> and W are the retention time and elution peak width respectively. 
+
+
+
+== Retention factor/Capacity factor (k') ==
+The retention factor (also known as capacity factor) is a measure of how retained an analyte is. It is calculated using the retention time (t<sub>R</sub>) and the hold-up time (t<sub>M</sub>). The hold-up time is the time needed for the sample to reach the detector after the injection. Therefore, it measures the time that non-retained compounds need to reach the detector.  The expression can also be written as a function of the relative retention time (t’<sub>R</sub>). This is the time that the analyte needs to reach the column after the non-retained compounds.
+
+[[File: Retentionfactor.png]]
+
+If the distribution constant is independent of sample component concentration, then the retention factor (k') is also equal to the ratio of the amounts of a sample component in the stationary and mobile phases respectively, at equilibrium: 
+
+[[File: capacityfactor.png|400px]]
+
+
+
+== Retention time (t<sub>R</sub>) ==
+The retention time (t<sub>R</sub>) is the time that each analyte needs to go from the injector to the detector. It is normally calculated from the injection moment (t=0) until the maximum of the peak, when most of the molecules reach the detector (t=t<sub>R</sub>) indicated by the highest point of the peak.
+
+This retention time is dependent on the affinity between the analyte and the mobile and stationary phase. The more the analyte interacts with the stationary phase, the longer the retention time is. In contrast, the more the analyte interacts with the mobile phase, it will be eluted fast and hence the retention time will be short. 
+
+
+== Sensitivity ==
+The strength of the signal of each analyte is proportional to the concentration. The lower the concentration, the lower the signal. Therefore, it is important to know what is the lowest concentration of the analyte to get a signal that can be distinguished from the baseline. If the concentration in an unknown sample is lower than this limit, we cannot detect it even though it is present in the sample.
+
+
+== Selectivity (α) ==
+Selectivity is a measure of relative difference in retention. It is measured by comparing the different in retention factors (k'). The selectivity value needs to be larger than 1 in order for separation to take place. 
+
+[[File: Selectivity.png]]
+
+
+== Theoretical plate number (N) ==
+The column efficiency can be measured as theoretical plate number (N). This is a measure of relative peak broadening (or peak width) for an analyte in separation. The theoretical plate number is measured by comparing the retention time (t<sub>R</sub>) and the peak width (w). There are 2 formulas that one can used to measure the theoretical plate number, depending if you know the peak width (w) or half of the peak width (w<sub>1/2</sub>).
+
+[[File: N1.png]]
+[[File: N2.png]]
+
+
+Higher plate number gives sharper and narrower bands leading to better detection and better peak capacity to resolve complex samples. The theoretical plate number increases when using a smaller bead size. Using a smaller bead size also has its benefits, such as improving the resolution as well as decreasing the run time. However when using a smaller bead size, higher pressure is reached.
+
+
+== Interprepation of the Data ==
+When you inject a sample with several analytes, you will have several peaks in the chromatogram. If not, it means that the separation of the molecules was not good enough. In that case, you have to change some parameters (mobile phase, stationary phase, temperature, flow...) to get the desired separation. 
+
+If the separation is good (the resolution is higher than 1.5) you can identify which peak corresponds to each molecule. For that purpose, you have to think what your stationary phase is made of (polar or non polar?) and see if your analytes are more or less polar. 
+
+
+
+
+
+[[Detector|&lArr; Previously (Detector)]]\ [[Chromatogram| Next (Chromatogram) &rArr;]]
+
+[[HPLC|&lArr; Theory overview]]

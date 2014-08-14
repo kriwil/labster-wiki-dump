@@ -1,0 +1,31 @@
+Welcome to the fermentation case!
+
+
+In this case, you will learn about the fermentation technique. You will start a fermentation batch, check for contaminants, calculate the specific growth rate and yield coefficients, optimize the growth condition, set up the stoichiometric equation and calculate the carbon balance.
+
+
+You will be able to find all the related theory to complete the case from this Wiki page.
+
+
+Good luck! 
+
+
+
+== Fermentation case progression ==
+* Introductory (bioethanol plant)
+* Mission 1: Preparing yeast inoculum
+* Mission 2: Checking for contaminants
+* Mission 3: The first batch of fermentation
+* Mission 4: Optimizing growth rate
+* Mission 5: Anaerobic fermentation
+* End of the case
+
+==Fermentation (High School) progression ==
+* Introductory (bioethanol plant)
+* Mission 1: Inoculum preparation
+* Mission 2: Yeast growth phase qualitative assessment
+* Mission 3: Yeast growth phase quantitaive assessment
+* End of the case
+
+
+[[Fermentation_Case|&lArr; Theory overview]]

@@ -1,0 +1,56 @@
+[[File: Cofactor.jpg|frame|x350px|A figure illustrating the role of a co-factor. This co-factor binds the enzyme and contributes to the reaction, and leaves the enzyme with the product in a changed state. This could, for example, be a changed oxidation state, as is the case for NAD<sup>+</sup>, which then needs to be restored elsewhere before the co-factor can assist in another reaction.]]
+
+Some enzymes require "helper-molecules" for catalysis to take place. These helper-molecules are called cofactors. Cofactors are non-protein molecules that bind to the enzyme and contribute to reactions in a number of different ways. Co-factors can either be inorganic ions, such as the Zn<sup>2+</sup> ions required by [[ADH]], or they can be more complex organic or metalloorganic molecules, which are then called co-enzymes. If a co-factor is bound tightly (sometimes covalently) to the enzyme, it is termed a prosthetic group [1].
+ 
+
+==Co-factor for alcohol dehydrogenase==
+
+The enzyme ADH from this case requires the co-enzyme Nicotinamide Adenine Dinucleotide (NAD<sup>+</sup>) in order to function. This co-enzyme takes up a hydride ion (H<sup>-</sup>) from the ethanol, leading to the formation of an acetaldehyde. NAD<sup>+</sup> is reduced to NADH and thereby works as an electron acceptor. Most co-enzymes are derived from vitamins, and NAD<sup>+</sup> is derived from the vitamin niacin. Without NAD<sup>+</sup>, ADH would not function. The chemical structure of NAD<sup>+</sup> and the manner in which reduction takes place is shown in Fig. 1 [1].
+
+[[File: Nadnadh.jpg|frame|left|x350px|Fig. 1. The chemical structure of NAD<sup>+</sup> and the manner in which it is reduced to NADH by the addition of 2 electrons and a proton.]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==References==
+
+1. Lehninger, Albert L.; Nelson, David L.; Cox, Michael M. (2008). ''Principles of Biochemistry'' (5th ed.). New York, NY: W.H. Freeman and Company. ISBN 978-0-7167-7108-1.
+
+
+[[Substrate|&lArr;Previous (Substrate)]] / [[Product|Next (Product) &rArr;]]
+
+[[Enzyme Kinetics|&lArr;Theory overview]]

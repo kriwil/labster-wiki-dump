@@ -1,0 +1,88 @@
+
+Labster is a virtual laboratory where you can perform advanced biotechnology experiments on your computer. Below is a quick guide of the most important elements.
+
+
+===Registration===
+You can either register by using a registration link (that is shared by your teacher) or by clicking on the link sent through your email. Please check on your spam folder if your teacher has sent you the invitation email and you have not received it. 
+
+Fill in the required information: name, email address and password. Please note that your email address will be used as the username to login. You can always change your password after logging in to your dashboard.
+
+The registration page looks like this:
+
+[[File: RegistrationPage.png|frame|left|x400px|Registration page]]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+===Student dashboard===
+This is how your student dashboard looks like:
+
+[[File: Dashboard.png|frame|left|x500px|Student dashboard]]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+All the virtual labs you have access to are shown on the left menu. You can select the virtual lab you would like access to simply by clicking on it, for example now we are looking at the dashboard for the Demo Lab. In this window, you are able to see your progress including your scores, all the quiz questions that you have answered and also the five highest scoring students in your course.
+ 
+Click on the green “Play” button in order to start the virtual labs. If you have accessed it previously, there will be another button “Continue” that you can select. By selecting the “Continue” button, you will re-start at the latest saving checkpoint from your previous play.
+
+
+===Technical requirements===
+*'''Operating system compatibility'''
+Labster virtual labs are accessible from both Mac and PC. Please note that cur- rently we do not support iPad, tablets or mobile phones. You also need internet access in order to access the virtual labs. We recommend using Mozilla Firefox and Google Chrome web browser. Please make sure to update your internet browser to the latest version. 
+
+*'''Unity plugin'''
+After clicking on the “Play” button, a new tab will open with a specific web address to the virtual lab. You need to install Unity web player (which is a plugin needed to operate the virtual lab). There will be a pop-up asking you to install Unity web player if you do not have it yet. See the screenshot below:
+
+[[File: Unity.png|frame|left|x300px|Unity plugin]]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+Follow the instruction for installing the Unity web player. Normally it takes around 10 seconds to install it. Once installed, it will run in the background; you will not see an icon of Unity on your desktop and the virtual lab will automatically load.
+
+It may take a while to load the virtual lab, this depends on your internet and your computer speed. Please be patient, the page will eventually load.
+
+*'''Troubleshooting'''
+If you still cannot load the virtual laboratory on your internet browser, try by re-starting the computer.
+
+If suddenly there is an error while accessing the virtual laboratory (for example: the workbenches are showing in the wrong places) try to clear the cache on your inter- net browser. Cache is a temporary memory in your browser to load the data faster. This will not interfere with your computer’s memory. You can clear the cache memory by opening the preference/setting menu on your internet browser --> privacy --> clear browsing data.
+￼
+Or see the screenshot below:
+[[File: Cache.png|frame|left|x300px|Clear cache]]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+*'''Support'''
+If at any point, you need some help, support is always nearby. Simply click on the orange “Feedback & Support” button on the right of the virtual lab, and you can submit your inquiry to our support team. We try to answer all incoming queries as soon as possible. You are also welcome to contact us via the hotline, +45 6143 7244, that is open between 08.30-17.00 Central European Time.
+
+[[File: Support.png|frame|left|x400px|Feedback & Support icon]]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+===Features of the virtual lab===
+You can interact with the objects in the virtual lab by clicking on them (for exam- ple: to pick up an object; a pipette or to open/close a machine). You can also hover your mouse on top of an object in order to read the description.
+
+[[File: Vlab.png|frame|left|x400px|Features of the virtual lab]]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+*'''Notes:'''
+Click here to open the note block feature where you can write down some notes/ observations throughout the experiments.
+
+*'''Help:'''
+Click here to submit a feedback and support ticket. Write a description of the prob- lem, attach a screenshot and our support team will attend to your inquiry as soon as possible.
+
+*'''Instruction:'''
+The lab assistant will give you instructions through out the experiments. You can hide this conversation bubble by clicking on the bubble once. You can bring back the conversation bubble by clicking on the lab assistant’s avatar.
+
+*'''Media:'''
+Click here to watch the animations that you have previously seen (for example: the intro scene or the 3D animations).
+
+*'''Checklist:'''
+Click here to see the major steps that you need to accomplish in order to complete this virtual lab exercise.
+
+*'''Progress:'''
+Your progress is shown on this green bubble bar. Please note that your progress is saved after each check point (written on the checklist). That means you can log out, come back and continue from the last check point instead of starting all the way from the beginning.
+
+*'''Score:'''
+Your score is displayed here. Remember that you only get a perfect result (10 points for each question) when you answer it correctly on the first try.
+
+*'''Sound:'''
+Click here to have the sound on or to mute it. Currently we only have sound on some of the intro scenes and some of the instruments in the lab.
+
+*'''Wiki:'''
+We have written a special wiki page containing essential theories needed to complete this virtual lab exercise. You can access the wiki page by clicking on the “View Theory” button as shown here:
+
+[[File: Wiki.png|frame|left|x400px|Wiki]]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

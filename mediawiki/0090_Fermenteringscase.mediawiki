@@ -1,0 +1,24 @@
+[[File: Wiki_Fermentation dk.jpg|frame|left|x300px|Velkommen til fermenteringscasen!]]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+==Introduktion==
+[[Velkommen til fermenteringscasen]]
+
+==Case teori==
+*[[Bioreaktoren]]
+**[[Sterilisering]]
+*[[Vækstmedie]]
+*[[Celle metabolisme]]
+**[[Glykolysen]]
+**[[Krebscyklus]]
+**[[Elektron transport]]
+**[[Fermentering]]
+*[[Mikrobiel identificering]]
+*[[Mikrobiel vækst]]
+*[[Excel guide]]
+
+== Reference ==
+*Black, Jacquelyn. (2012). ''Microbiology Principles and Explorations-8th ed'', Wiley.
+*Madigan, Michael [''et al.'']. (2012). '' Brock Biology of Microorganism-13th ed'', Pearson. 
+*Panikov, Nicolai. (1995). ''Microbial Growth Kinetics'', Springer.
+*Stanbury, P.F. (2003).'' Principle of Fermentation Technology-2nd ed'', Elsevier Science Ltd.

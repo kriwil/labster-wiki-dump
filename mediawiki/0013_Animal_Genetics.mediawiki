@@ -1,0 +1,25 @@
+[[File:AnimalGenetics Case.jpg|frame|left|x300px|Welcome to Animal Genetics case!]]
+
+<br style="clear: both" />
+
+Here we have gathered all the relevant theory material to boost your learning.
+==Introduction==
+*[[Animal Genetics introduction | Developing a diagnostic test for Double-Muscular Cattle]]
+
+==Case Theory==
+
+*[[Hereditary traits]]
+**[[Pedigree]]
+**[[Mode of inheritance]]
+*[[DNA_AG|DNA]]
+
+*[[Genome scan]]
+**[[STR-markers]]
+**[[PCR (Polymerase Chain Reaction)_AG|PCR (Polymerase Chain Reaction)]]
+**[[Gel Electrophoresis_AG|Gel Electrophoresis]]
+**[[Linkage analysis]]
+**[[Gene expression]]
+**[[DNA sequencing]]
+**[[Mutations]]
+
+*[[DNA test]]

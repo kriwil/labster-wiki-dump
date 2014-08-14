@@ -1,0 +1,15 @@
+[[File:terpene biosynthesis.jpg|thumbnail|left|500px|The biosyhthesis of terpene]]
+===Biosynthetic pathway===
+
+Terpenoids are enzymatically synthesized from acetyl-CoA and pyruvate, two basic building blocks of many cellular molecules. Two complex bio-synthetic pathways convert these molecules into isopentenyl pyrophosphate (IPP) and dimethylallyl pyrophosphate (DMAPP). Through the formation of geranylgeranyl pyrophosphate (GGPP), these two molecules (IPP and DMAPP) are then used as the basic building blocks for all of the different terpene backbones. GGPP is also a basic building block of chlorophyll, therefore it is abundant in every plant species. Terpene synthases are the primary enzymes responsible for catalyzing the formation of hemiterpenes (C5), monoterpenes (C10), sesquiterpenes (C15), and diterpenes (C20). Volatile terpenes are usually the direct product of the terpene synthase without additional oxidation, dehydrogenation, acylation or other reactions.<br>
+Cytochrome P450 catalyzes the oxidation of organic molecules such as terpenes. The monooxygenease reaction catalyzed by P450 inserts one oxygen into the aliphatic position of an organic substrate.<br>
+
+
+===Terpenoid Evolution===
+Plant hemiterpene, monoterpene, sesquiterpene and diterpenes synthase are evolutionarily related to each other and are structurally distinct from triterpene or tetraterpene synthases. 
+
+Plant terpenoids have diverse functions in membrane structure (sterols), photosynthesis (carotenoids), redox chemistry (quinones) and growth regulators (gibberellins, abscisic acids, brassinosteroids). Many terpenoids are economically valuable flavoring agents, perfumes, insecticides, antimicrobial agents and raw materials for vitamins and drugs. Terpenoids contribute to the scent of eucalyptus, the flavors of cinnamon, cloves and ginger, the yellow color in sunflowers and the red color in tomatoes. 
+<br><br><br><br>
+
+[[Plant Secondary Metabolites| &lArr; Plant Secondary Metabolites]]/[[Molecular Characterization| Molecular Characterization &rArr; ]] <br>
+[[PlantLab| &lArr; Theory Overview]]

@@ -1,0 +1,21 @@
+[[File: NGS_Case.jpg|x300px|frame|left|Welcome to the NGS case!]]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+== Introduction ==
+
+* [[Next Generation Sequencing case: the ancient Greenlandic man]]
+
+== Case theory ==
+
+* [[DNA_NGS | DNA]]
+** [[Ancient DNA sample]]
+* [[Next Generation Sequencing]]
+** [[Fragmentation]]
+** [[End-repair]]
+** [[A-overhang]]
+** [[Adapter ligation]]
+** [[PCR amplification]]
+* [[Cluster generation]]
+* [[Sequencing process]]
+* [[NGS data analysis]]
+* [[Ancient Greenland SNP]]

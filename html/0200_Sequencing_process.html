@@ -1,0 +1,49 @@
+<html><head></head><body><div lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright"><div class="thumbinner" style="width:502px;"><a href="/index.php/File:Sbs.jpg" class="image"><img alt="" src="/images/Sbs.jpg" width="500" height="251" class="thumbimage"/></a>  <div class="thumbcaption"><b>Figure 1.</b> Sequencing by synthesis. After the polymerase has attached to the primer, nucleotides labeled with fluorophore will be added at the 3' end of the primer. The nucleotides are modified with a 3' capped that allows only 1 nucleotide addition at a time. The fluorescence signal emitted by the fluorophore is detected and the 3' capped is cleaved allowing the next sequencing cycle to begin.</div></div></div>
+<p>Now that we have a flow cell filled with a lot of DNA, we are ready to begin the sequencing process. There are several different ways of performing Next Generation Sequencing depending on the platform that they are using. As written previously, in this case we are using Illumina platform <i>sequencing by synthesis</i>. This implies that the sequencing data is obtained by synthesizing each base pair. Let us go through the process in detail.
+</p><p><br/>
+</p>
+<ul><li> <b>Polymerase attachment</b>
+</li></ul>
+<p>Once we have the cluster of clonal DNA attaching on the flow cell, sequencing reagents are then pumped into the flow cell. They enter from 1 side of the flow cell and exit on the other side. T4 DNA polymerase are flushed in and attach to the short DNA molecule bound to the flow cell (acting as the sequencing primer).
+</p><p><br/>
+</p>
+<ul><li> <b>Nucleotides tagged with fluorophore</b>
+</li></ul>
+<p>All the 4 nucleotides are tagged with specific fluorophore. As you can see in Figure 1, Thymine is tagged with a <span style="color:#32CD32">green</span> fluorophore, Cytosine with a <span style="color:#40E0D0">blue</span> fluorophore, Guanine with a <span style="color:#FF0000">red</span> fluorophore, and Adenine with an <span style="color:#FF8C00">orange</span> fluorophore. These nucleotides are also modified; they have a 3' capped that allows only addition of 1 nucleotide at a time. Therfore, after 1 nucleotide has been added to the 3' end of the primer, no more nucleotides can attach. The remaining nucleotides that are freely floating are then washed away from the system. 
+</p><p><br/>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:252px;"><a href="/index.php/File:Sequenceimage.png" class="image"><img alt="" src="/images/thumb/Sequenceimage.png/250px-Sequenceimage.png" width="250" height="250" class="thumbimage"/></a>  <div class="thumbcaption"><b>Figure 2.</b> An overlay image, each color dot represents a clonally amplified DNA cluster. The color codes for the 4 different nucleotides, Thymine, Cytosine, Guanine, and Adenine.</div></div></div>
+<ul><li> <b>Detection</b>
+</li></ul>
+<p>Because of all the nucleotides are individually labeled with a specific fluorophore, we can identify the nucleotide by observing at the fluorescence signal that they emit. For example, in Figure 1, we can observe that 1 nucleotide tagged with a <span style="color:#32CD32">green</span> fluorophore is added at the 3' end of the primer. By a chemical reaction,the <span style="color:#32CD32">green</span> fluorescence is emitted and can be recorded by taking a picture. Because we know that Thymine is tagged with the green fluorophore, we can identify the base as Thymine. Four pictures are taken at the end of each cycle, recording each of the possible colors. After taking all 4 pictures, the system will overlay all 4 images; therefore we can easily identify the base identity of each cluster (see Figure 2).
+</p><p><br/>
+</p>
+<ul><li> <b>Cleavage and remove</b>
+</li></ul>
+<p>After the picture has been taken the 3' capped of the nucleotide is cleaved so that the next sequencing cycle can begin. The cleaved 3' capped is then removed from the system. This marks the end of a sequencing cycle and the new cycle can begin by flushing new rounds of nucleotides and repeating the steps again. 
+</p><p><br/><br/><br/><br/><br/><br/><br/>
+</p>
+<h2> <span class="mw-headline" id="Single-_vs._paired-end_sequencing">Single- vs. paired-end sequencing</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:420px;"><a href="/index.php/File:PESeq.jpg" class="image"><img alt="" src="/images/PESeq.jpg" width="418" height="309" class="thumbimage"/></a>  <div class="thumbcaption"><b>Figure 3.</b> Paired-end sequencing implies that the sequencing is performed from both directions. The DNA needs to be flipped by running another round of cluster generation.</div></div></div>
+<ul><li> <b>Single-end sequencing</b>
+</li></ul>
+<p>As the name suggests, single-end sequencing is when the sequencing process is performed only from a single direction. As we have discussed earlier in <a href="/index.php/Cluster_generation" title="Cluster generation">Cluster generation</a> after bridge PCR amplification, we have 2 types of DNA molecules that are complementary to each other, and we washed away 1 of them. We then sequence the remaining DNA that have the same direction. If we only sequence these DNA (all having the same direction), it is called by single-end sequencing. 
+</p><p><br/>
+</p>
+<ul><li> <b>Paired-end sequencing</b>
+</li></ul>
+<p>In paired-end sequencing, the DNA is being sequenced from both directions (see Figure 3). The process is identical to the single-end sequencing, but after the end of the sequencing process, we continue by running another round of cluster generation and removing the strands with the direction that we have sequenced previously (the DNA having <span style="color:#1E90FF">blue adapters</span>). Therefore, we are left with only DNA having <span style="color:#DA70D6">purple adapters</span>. This DNA has the complementary sequence of the first DNA. 
+</p><p>When using paired-end sequencing, we can detect structural variants in the genome with higher confidence because we have higher sequence coverage and increased specificity when aligning back to the genome compared with single-end sequencing, which involves only 1 end of the DNA fragment. When sequencing long DNA fragments, it is preferred to use paired-end sequencing. It is also better to use paired-end sequencing when we wants to study deletion, mutations, or chromosomal rearrangements. 
+</p><p><br/>
+</p><p><a href="/index.php/NGS_Case" title="NGS Case">&#8656; Theory overview</a>
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 11/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key labster_com_db-Learn_:pcache:idhash:3834-0!*!0!*!*!2!* and timestamp 20140814080751 -->
+</div>				</body></html>
