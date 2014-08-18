@@ -45,7 +45,7 @@ several rate constants. [2]
 Initial reaction rate
 ---------------------
 
-![Fig. 1. Progress curve of a general enzymatic reaction.  ](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Progress curve.png "fig:Fig. 1. Progress curve of a general enzymatic reaction. ")
+![Fig. 1. Progress curve of a general enzymatic reaction.  ](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Progress_curve.png "fig:Fig. 1. Progress curve of a general enzymatic reaction. ")
 During the course of the reaction, [S] decreases and [P] increases. This
 results in an overall decrease in the reaction rate, as illustrated in
 Fig. 1. To measure the reaction rate of an enzymatic reaction

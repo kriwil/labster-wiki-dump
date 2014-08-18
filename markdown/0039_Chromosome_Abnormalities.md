@@ -2,7 +2,7 @@ Chromosomal abnormality reflects an alteration of chromosome number or
 structure. These alteration can been seen under the light microscope.
 Chromosome abnormalities can be inherited from a parent (such as a
 translocation) or be "de novo" (new to the individual).\
-![Structural chromosome abnormalities](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Chromosome mutation.jpg "fig:Structural chromosome abnormalities")
+![Structural chromosome abnormalities](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Chromosome_mutation.jpg "fig:Structural chromosome abnormalities")
 
 Chromosome abnormalities often associate with a syndrome. A syndrome
 involves more organs or features – a complex of symptoms. A syndrome can
@@ -27,10 +27,10 @@ chromosome.
 Structural abnormalities
 ------------------------
 
-![Paracentric inversion](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Paracentric inversion.jpg "fig:Paracentric inversion")
-![Pericentric inversion](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Pericentric inversion.jpg "fig:Pericentric inversion")
-![Reciprocal translocation](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Reciprocal translocation.jpg "fig:Reciprocal translocation")
-![Robertsonian translocation](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Robertsonian translocation.jpg "fig:Robertsonian translocation")
+![Paracentric inversion](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Paracentric_inversion.jpg "fig:Paracentric inversion")
+![Pericentric inversion](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Pericentric_inversion.jpg "fig:Pericentric inversion")
+![Reciprocal translocation](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Reciprocal_translocation.jpg "fig:Reciprocal translocation")
+![Robertsonian translocation](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Robertsonian_translocation.jpg "fig:Robertsonian translocation")
 
 Several form of structural abnormalities are:\
 \***Deletion**: A part of the chromosome is missing or deleted.

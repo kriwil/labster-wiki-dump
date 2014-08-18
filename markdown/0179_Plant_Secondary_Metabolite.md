@@ -1,4 +1,4 @@
-![Plant secondary metabolite biosynthesis](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Plant secondary metabolite biosynthesis.jpg "fig:Plant secondary metabolite biosynthesis")
+![Plant secondary metabolite biosynthesis](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Plant_secondary_metabolite_biosynthesis.jpg "fig:Plant secondary metabolite biosynthesis")
 Beside primary metabolites, which are essential for plant growth, in
 addition plants also produce various secondary metabolites which are
 important for the plants to adjust to their environment. Primary

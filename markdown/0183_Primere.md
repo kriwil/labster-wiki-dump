@@ -1,4 +1,4 @@
-![DNApolymerase kræver en primer for at kunne påbegynde kopieringen af DNA. En primer er en kort nukleotidsekvens (18-25 bp) som binder sig til den komplementære single-stranded DNA streng.|center](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Polymerase dk.jpg "DNApolymerase kræver en primer for at kunne påbegynde kopieringen af DNA. En primer er en kort nukleotidsekvens (18-25 bp) som binder sig til den komplementære single-stranded DNA streng.|center")
+![DNApolymerase kræver en primer for at kunne påbegynde kopieringen af DNA. En primer er en kort nukleotidsekvens (18-25 bp) som binder sig til den komplementære single-stranded DNA streng.|center](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Polymerase_dk.jpg "DNApolymerase kræver en primer for at kunne påbegynde kopieringen af DNA. En primer er en kort nukleotidsekvens (18-25 bp) som binder sig til den komplementære single-stranded DNA streng.|center")
 
 Primers er korte DNA fragmenter, der bruges til at starte PCR reaktionen
 ved at diagere DNA-polymerasen hen til det sted der skal kopieres.
@@ -63,7 +63,7 @@ programmet klare resten.
 
 ### Længden af PCR productet er bestemt af primerne
 
-![Længden af et PCR produkt bliver bestemt ud fra placering af primerne. I den her figur følger vi en enkelt streng og observere hvordan den bliver, korter og kortere indtil den ønskede længde er opnået.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Pcrlength dk.jpg "Længden af et PCR produkt bliver bestemt ud fra placering af primerne. I den her figur følger vi en enkelt streng og observere hvordan den bliver, korter og kortere indtil den ønskede længde er opnået.")
+![Længden af et PCR produkt bliver bestemt ud fra placering af primerne. I den her figur følger vi en enkelt streng og observere hvordan den bliver, korter og kortere indtil den ønskede længde er opnået.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Pcrlength_dk.jpg "Længden af et PCR produkt bliver bestemt ud fra placering af primerne. I den her figur følger vi en enkelt streng og observere hvordan den bliver, korter og kortere indtil den ønskede længde er opnået.")
 
 I en PCR reaktion er primerne valgt således at de ind grænser det område
 man ønsker kopieret. Dermed kommer de også til at bestemme længden af

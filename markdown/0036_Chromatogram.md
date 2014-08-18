@@ -60,7 +60,7 @@ shown in the Figure 2.
 
 ![**Figure 2.** Calibration curve showing the relation between peak area
 to the
-concentration.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Calibration curve.png "Figure 2. Calibration curve showing the relation between peak area to the concentration.")
+concentration.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Calibration_curve.png "Figure 2. Calibration curve showing the relation between peak area to the concentration.")
 
 [⇐ Previous (Data analysis)](/wiki/Data_analysis "wikilink")
 

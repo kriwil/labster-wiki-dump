@@ -1,4 +1,4 @@
-![Welcome to the Medical Genetics case](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Wiki FrontImage.jpg "fig:Welcome to the Medical Genetics case")\
+![Welcome to the Medical Genetics case](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Wiki_FrontImage.jpg "fig:Welcome to the Medical Genetics case")\
 \
 \
 \

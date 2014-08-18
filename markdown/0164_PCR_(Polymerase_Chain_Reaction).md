@@ -10,7 +10,7 @@ anneal to specific regions on each side of the DNA region of interest
 used, for instance, in genotyping of markers, before sequencing, or in
 various DNA tests.
 
-![Figure 1. PCR consists of three steps: 1. Denaturation, 2. Annealing, and 3. Extension. The steps are repeated many times (often 30), producing billions of DNA copies of specific regions.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Pcr phases.png "Figure 1. PCR consists of three steps: 1. Denaturation, 2. Annealing, and 3. Extension. The steps are repeated many times (often 30), producing billions of DNA copies of specific regions.")
+![Figure 1. PCR consists of three steps: 1. Denaturation, 2. Annealing, and 3. Extension. The steps are repeated many times (often 30), producing billions of DNA copies of specific regions.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Pcr_phases.png "Figure 1. PCR consists of three steps: 1. Denaturation, 2. Annealing, and 3. Extension. The steps are repeated many times (often 30), producing billions of DNA copies of specific regions.")
 
 ### PCR steps
 

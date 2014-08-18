@@ -6,9 +6,9 @@ kriminel efterforskning, miljø studier og klargøring af starter kulture
 til vinproduktion. Identifikationen af en ukendt mikroorganisme kan ske
 via forskellige metoder:
 
-![ Colony morphology identification. Each microorganism has a distinct characteristic when grown on certain media agar in Petri dish.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Colony morphology.jpg " Colony morphology identification. Each microorganism has a distinct characteristic when grown on certain media agar in Petri dish.")
+![ Colony morphology identification. Each microorganism has a distinct characteristic when grown on certain media agar in Petri dish.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Colony_morphology.jpg " Colony morphology identification. Each microorganism has a distinct characteristic when grown on certain media agar in Petri dish.")
 
-![Bacteria shape can be identified under the microscope.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Bacteria shape.png "Bacteria shape can be identified under the microscope.")
+![Bacteria shape can be identified under the microscope.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Bacteria_shape.png "Bacteria shape can be identified under the microscope.")
 
 ### Morfologisk identifikation
 

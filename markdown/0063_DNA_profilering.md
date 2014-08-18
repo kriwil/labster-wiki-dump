@@ -1,5 +1,5 @@
 ![En gel kørt med det opsamlede bevismateriale imod 3 mistænkte. DNA profilen fra bevis A matcher den mistænkte nr to!](https://s3-us-west-2.amazonaws.com/labster/wiki/media/suspectgel dk.jpg "fig:En gel kørt med det opsamlede bevismateriale imod 3 mistænkte. DNA profilen fra bevis A matcher den mistænkte nr to!")
-![Alle mennesker har en unik DNA profil, ligesom man har et unikt fingreaftryk](https://s3-us-west-2.amazonaws.com/labster/wiki/media/DNA Fingerprinting.jpeg "fig:Alle mennesker har en unik DNA profil, ligesom man har et unikt fingreaftryk")
+![Alle mennesker har en unik DNA profil, ligesom man har et unikt fingreaftryk](https://s3-us-west-2.amazonaws.com/labster/wiki/media/DNA_Fingerprinting.jpeg "fig:Alle mennesker har en unik DNA profil, ligesom man har et unikt fingreaftryk")
 
 ### Unikke DNA profiler
 

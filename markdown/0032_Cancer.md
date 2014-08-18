@@ -1,4 +1,4 @@
-![Figure 1. An illustration showing how primary cancer invades through the blood vessel producing secondary cancer (or metastasis). This image was provided by Jane Hurd and released by the National Cancer Institute.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Metastasis illustration.jpg "fig:Figure 1. An illustration showing how primary cancer invades through the blood vessel producing secondary cancer (or metastasis).
+![Figure 1. An illustration showing how primary cancer invades through the blood vessel producing secondary cancer (or metastasis). This image was provided by Jane Hurd and released by the National Cancer Institute.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Metastasis_illustration.jpg "fig:Figure 1. An illustration showing how primary cancer invades through the blood vessel producing secondary cancer (or metastasis).
 
 This image was provided by Jane Hurd and released by the National Cancer Institute.")
 Cancer is a term used to describe a group of diseases involving

@@ -1,5 +1,5 @@
-![ *Saccharomyces cerevisiae*](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Saccharomyces cerevisiae.jpg "fig: Saccharomyces cerevisiae")
-![*Lactobacillus acidophilus*](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Lactobacillus acidophilus.jpg "fig:Lactobacillus acidophilus")
+![ *Saccharomyces cerevisiae*](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Saccharomyces_cerevisiae.jpg "fig: Saccharomyces cerevisiae")
+![*Lactobacillus acidophilus*](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Lactobacillus_acidophilus.jpg "fig:Lactobacillus acidophilus")
 
 Fernentering er en anaerobisk katabolisme, hvor et organisk stof fungere
 som både elektron donor og acceptor. Fermentering bliver brugt som en

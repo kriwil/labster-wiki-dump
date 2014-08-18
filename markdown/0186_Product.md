@@ -6,7 +6,7 @@ ethanol into acetaldehyde by removing 2 H^+^ ions and 2 electrons. The
 chemical structure of acetaldehyde can be seen in the figures to the
 right.
 
-![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/ADH reaction.png " ADH reaction.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/ADH_reaction.png " ADH reaction.png")
 
 Most people think that ethanol is the only compound responsible for the
 feeling of being drunk; however, it has been indicated that many effects
@@ -15,7 +15,7 @@ acetaldehyde, the product of the enzymatic reaction catalyzed by ADH
 [1]. The accumulation of acetaldehyde is also the cause of the symptoms
 of the [ADH|Asian glow syndrome].
 
-![The chemical formula of acetaldehyde.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Acetaldehyde formula.png "The chemical formula of acetaldehyde.")
+![The chemical formula of acetaldehyde.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Acetaldehyde_formula.png "The chemical formula of acetaldehyde.")
 
 References
 ----------

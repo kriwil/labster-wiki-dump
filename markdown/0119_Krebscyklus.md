@@ -1,4 +1,4 @@
-![ Citronsyre cyklussen starter med to-carbon molekylet acetyl-CoA, og vil igennem den fulde cyklus danne tre CO~2~ molekyler, fire NADH og en FADH~2~.  ](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Krebs cycle dk.jpg " Citronsyre cyklussen starter med to-carbon molekylet acetyl-CoA, og vil igennem den fulde cyklus danne tre CO2 molekyler, fire NADH og en FADH2. ")
+![ Citronsyre cyklussen starter med to-carbon molekylet acetyl-CoA, og vil igennem den fulde cyklus danne tre CO~2~ molekyler, fire NADH og en FADH~2~.  ](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Krebs_cycle_dk.jpg " Citronsyre cyklussen starter med to-carbon molekylet acetyl-CoA, og vil igennem den fulde cyklus danne tre CO2 molekyler, fire NADH og en FADH2. ")
 
 Pyruvaten produceret under glykolysen bliver brugt i citronsyre
 cyklussen, også kaldt krebs cyklus. Pyruvaten bliver omdannet til CO2 og

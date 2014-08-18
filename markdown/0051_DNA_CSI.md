@@ -18,9 +18,9 @@ sampling is impossible or too risky (children, animals, forensics),
 smaller amounts of DNA can also be extracted from a mouth swap (contains
 epithelial cells) or a few hairs with bulp.
 
-![DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'-\>3' direction and the other in the 3'-\>5' direction](https://s3-us-west-2.amazonaws.com/labster/wiki/media/DNA helix copy.jpg "DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'->3' direction and the other in the 3'->5' direction")
+![DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'-\>3' direction and the other in the 3'-\>5' direction](https://s3-us-west-2.amazonaws.com/labster/wiki/media/DNA_helix_copy.jpg "DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'->3' direction and the other in the 3'->5' direction")
 
 [\<-- Theory overview](/wiki/Animal_Genetics "wikilink")
 
-![DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'-\>3' direction and the other in the 3'-\>5' direction](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Dna chemical.png "DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'->3' direction and the other in the 3'->5' direction")
+![DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'-\>3' direction and the other in the 3'-\>5' direction](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Dna_chemical.png "DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'->3' direction and the other in the 3'->5' direction")
 

@@ -1,4 +1,4 @@
-![A closed oven where the column can be stored in a temperature-controlled environment.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Oven regulator.png "A closed oven where the column can be stored in a temperature-controlled environment.")
+![A closed oven where the column can be stored in a temperature-controlled environment.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Oven_regulator.png "A closed oven where the column can be stored in a temperature-controlled environment.")
 
 Temperature is an important factor when separating compounds using HPLC.
 The column can be placed inside a closed oven where the temperature can

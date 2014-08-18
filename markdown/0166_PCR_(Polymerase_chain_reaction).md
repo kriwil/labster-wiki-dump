@@ -7,7 +7,7 @@ sekvenser som man ønsker ud fra ens DNA prøve. Denne specificitet er
 opnået vedhjælp af primers, som er designet til at binde præcist til den
 region man gerne vil have flere kopier af. Disse ting gør PCR til et
 værdigfuldt værktøj indenfor flere molekylære tests.\
- ![PCR består af tre trin: 1. Denaturation(opdeling) 2.  Annealing(binding) og 3. Extension(forlængelse). Disse tre trin gentages for det meste 30 gange, hvilket giver millioner af kopier af den ønskede region.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/PCR dk.jpg "fig:PCR består af tre trin: 1. Denaturation(opdeling) 2. Annealing(binding) og 3. Extension(forlængelse). Disse tre trin gentages for det meste 30 gange, hvilket giver millioner af kopier af den ønskede region.")
+ ![PCR består af tre trin: 1. Denaturation(opdeling) 2.  Annealing(binding) og 3. Extension(forlængelse). Disse tre trin gentages for det meste 30 gange, hvilket giver millioner af kopier af den ønskede region.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/PCR_dk.jpg "fig:PCR består af tre trin: 1. Denaturation(opdeling) 2. Annealing(binding) og 3. Extension(forlængelse). Disse tre trin gentages for det meste 30 gange, hvilket giver millioner af kopier af den ønskede region.")
 
 ### Trinene i en PCR
 

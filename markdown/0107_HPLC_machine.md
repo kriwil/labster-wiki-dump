@@ -2,7 +2,7 @@ A typical HPLC machine consists of several important components. These
 components have their specific functions and they need each other in
 order for us to run a successful HPLC experiment.
 
-![A typical HPLC machine showing the mobile phase reservoir, detector, pump, injector and column oven.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/HPLC machine.jpg "fig:A typical HPLC machine showing the mobile phase reservoir, detector, pump, injector and column oven.")
+![A typical HPLC machine showing the mobile phase reservoir, detector, pump, injector and column oven.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/HPLC_machine.jpg "fig:A typical HPLC machine showing the mobile phase reservoir, detector, pump, injector and column oven.")
 
 The main components of the HPLC are listed below:
 

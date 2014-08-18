@@ -75,7 +75,7 @@ The cells must be grown on selective media in order to choose only the
 successfully transformed cells with the resistance marker. This is
 because cell transformation only occurs at low frequencies.
 
-![Moss bioreactor](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Moss bioreactor.jpg "Moss bioreactor")
+![Moss bioreactor](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Moss_bioreactor.jpg "Moss bioreactor")
 
 ### Moss bioreactor
 

@@ -31,7 +31,7 @@ og i elektrontransport kæden.
 
 ### Fysiske betingelser
 
-![Temperaturs effekt på mikrobiel vækst](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Temperature effect dk.jpg "Temperaturs effekt på mikrobiel vækst")
+![Temperaturs effekt på mikrobiel vækst](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Temperature_effect_dk.jpg "Temperaturs effekt på mikrobiel vækst")
 
 Vækst er defineret som en stigning i antallet af celler. Væksten for en
 bestemt mikroorganisme, er i stor stil påvirket af miljø som den skal

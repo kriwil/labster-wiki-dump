@@ -71,7 +71,7 @@ starterkulturen, V2 er den endelige volumen i fermentoren og C2 er den
 ønskede koncentration i fermentoren.
 
 ![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Volumen.jpg "fig:Volumen.jpg")\
- ![En forurenet petriskål. Forskellige arter af svampe er vokset i denne petriskål.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Contaminated culture.jpg "fig:En forurenet petriskål. Forskellige arter af svampe er vokset i denne petriskål.")
+ ![En forurenet petriskål. Forskellige arter af svampe er vokset i denne petriskål.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Contaminated_culture.jpg "fig:En forurenet petriskål. Forskellige arter af svampe er vokset i denne petriskål.")
 
 Den kultur som bruges som starterkultur for en fermentering skal opfylde
 følgende kriterier:

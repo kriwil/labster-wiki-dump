@@ -1,4 +1,4 @@
-![Gene structure](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Gene structure.png "fig:Gene structure")
+![Gene structure](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Gene_structure.png "fig:Gene structure")
 
 Plants
 produce numerous secondary metabolites that hold tremendous potential

@@ -41,7 +41,7 @@ sequences that do not code for any specific proteins. Humans have a high
 percentage of noncoding DNA in the genome; in fact, almost 98% of our
 genome consists of noncoding DNA!
 
-![Figure 2. DNA is organized in a double-helix form. It is said to be antiparallel because one strand runs in the 5′→3′ direction and the other runs in the 3′→5′ direction](https://s3-us-west-2.amazonaws.com/labster/wiki/media/DNA helix copy.jpg "Figure 2. DNA is organized in a double-helix form. It is said to be antiparallel because one strand runs in the 5′→3′ direction and the other runs in the 3′→5′ direction")
+![Figure 2. DNA is organized in a double-helix form. It is said to be antiparallel because one strand runs in the 5′→3′ direction and the other runs in the 3′→5′ direction](https://s3-us-west-2.amazonaws.com/labster/wiki/media/DNA_helix_copy.jpg "Figure 2. DNA is organized in a double-helix form. It is said to be antiparallel because one strand runs in the 5′→3′ direction and the other runs in the 3′→5′ direction")
 
 **DNA extraction** DNA can be extracted from any cell. First, we need to
 disrupt the cell (also known as cell lysis). This can be achieved using
@@ -57,5 +57,5 @@ for example, using column separation.
 
 [\<-- Theory overview](/wiki/Animal_Genetics "wikilink")
 
-![DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'-\>3' direction and the other in the 3'-\>5' direction](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Dna chemical.png "DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'->3' direction and the other in the 3'->5' direction")
+![DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'-\>3' direction and the other in the 3'-\>5' direction](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Dna_chemical.png "DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'->3' direction and the other in the 3'->5' direction")
 

@@ -1,4 +1,4 @@
-![SYBR Green chemical structure](https://s3-us-west-2.amazonaws.com/labster/wiki/media/SYBR green.png "fig:SYBR Green chemical structure")
+![SYBR Green chemical structure](https://s3-us-west-2.amazonaws.com/labster/wiki/media/SYBR_green.png "fig:SYBR Green chemical structure")
 ![Enhanced fluorescence can be measured by the presence of nucleic acids, which are linearly correlated to the level of parasitemia.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/killer assay graph.jpg "fig:Enhanced fluorescence can be measured by the presence of nucleic acids, which are linearly correlated to the level of parasitemia.")
 An in vitro model system must be established to assess the potency of
 potential drugs. Malaria parasites infect red blood cells, which do not

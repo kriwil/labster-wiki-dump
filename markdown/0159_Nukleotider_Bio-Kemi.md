@@ -1,4 +1,4 @@
-![Nucleotider er opbygget af et sukker molekyle bundet til en base og en organisk fosfat. I DNA er nuklotiderne repræsenteret af A, T, C, G. I RNA bliver Thymin (T) erstattet af Uracil (U)](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Nucleotides dk.jpg "Nucleotider er opbygget af et sukker molekyle bundet til en base og en organisk fosfat. I DNA er nuklotiderne repræsenteret af A, T, C, G. I RNA bliver Thymin (T) erstattet af Uracil (U)")
+![Nucleotider er opbygget af et sukker molekyle bundet til en base og en organisk fosfat. I DNA er nuklotiderne repræsenteret af A, T, C, G. I RNA bliver Thymin (T) erstattet af Uracil (U)](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Nucleotides_dk.jpg "Nucleotider er opbygget af et sukker molekyle bundet til en base og en organisk fosfat. I DNA er nuklotiderne repræsenteret af A, T, C, G. I RNA bliver Thymin (T) erstattet af Uracil (U)")
 
 Kernen af DNA er opbygget af nukleotider, De er opbygget af et sukker
 molekyle (deoxyribose i DNA og ribose i RNA), en fosfat gruppe og en

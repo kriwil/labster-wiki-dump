@@ -77,7 +77,7 @@ ng of insert
 Plasmid vector
 --------------
 
-![ Expression vector contains multiple cloning sites, a selectable marker, an origin of replication, an operator and a strong promoter.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Expression vector.jpg "fig: Expression vector contains multiple cloning sites, a selectable marker, an origin of replication, an operator and a strong promoter.")
+![ Expression vector contains multiple cloning sites, a selectable marker, an origin of replication, an operator and a strong promoter.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Expression_vector.jpg "fig: Expression vector contains multiple cloning sites, a selectable marker, an origin of replication, an operator and a strong promoter.")
 
 Plasmid are extra-chromosomal molecules of DNA, mostly double-stranded,
 covalently closed, and circular molecule. It varies in size from 1 kb to

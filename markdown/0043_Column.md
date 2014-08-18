@@ -1,4 +1,4 @@
-![This image illustrate the beads that are densely packed inside a column, as shown by the first circular inlet. When we zoom in to the individual beads, as shown by the second circular inlet, you can see the material coating the beads surface.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Column packing.png "This image illustrate the beads that are densely packed inside a column, as shown by the first circular inlet. When we zoom in to the individual beads, as shown by the second circular inlet, you can see the material coating the beads surface.")
+![This image illustrate the beads that are densely packed inside a column, as shown by the first circular inlet. When we zoom in to the individual beads, as shown by the second circular inlet, you can see the material coating the beads surface.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Column_packing.png "This image illustrate the beads that are densely packed inside a column, as shown by the first circular inlet. When we zoom in to the individual beads, as shown by the second circular inlet, you can see the material coating the beads surface.")
 
 The column is a fundamental part of the HPLC system since it is where
 the separation of the analytes takes place. The column is packed with
@@ -27,7 +27,7 @@ stay longer there, leaving the column later than polar compounds.\
 Types of interactions
 ---------------------
 
-![There are 4 types of interactions: non polar interactions, polar interactions, ionic interactions and interactions based on the molecular size.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Types of interactions.png "There are 4 types of interactions: non polar interactions, polar interactions, ionic interactions and interactions based on the molecular size.")
+![There are 4 types of interactions: non polar interactions, polar interactions, ionic interactions and interactions based on the molecular size.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Types_of_interactions.png "There are 4 types of interactions: non polar interactions, polar interactions, ionic interactions and interactions based on the molecular size.")
 
 The beads in columns are normally based on silica or a polymer.
 Different chains can be attached to the structure, giving different

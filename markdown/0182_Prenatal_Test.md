@@ -24,7 +24,7 @@ of professional services, including information is very important.
 Ultrasound Examination
 ----------------------
 
-![Ultrasound examination result Left:Baby with cleft lip Right:Baby without cleft lip](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Cleft usg1.jpg "Ultrasound examination result Left:Baby with cleft lip Right:Baby without cleft lip")
+![Ultrasound examination result Left:Baby with cleft lip Right:Baby without cleft lip](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Cleft_usg1.jpg "Ultrasound examination result Left:Baby with cleft lip Right:Baby without cleft lip")
 
 Ultrasound is the use of high frequency sound waves to make an image.
 Ultrasound is part of prenatal diagnostic test that are used to see if

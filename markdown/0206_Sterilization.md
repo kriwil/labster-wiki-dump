@@ -71,7 +71,7 @@ inoculum, C~1~ is the concentration in the inoculum, V~2~ is the final
 volume in the fermenter and C~2~ is the concentration wanted in the
 fermenter.\
 ![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Volumen.jpg "fig:Volumen.jpg")\
- ![A contaminated petri dish. Various species of fungi has grown in this petri dish.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Contaminated culture.jpg "fig:A contaminated petri dish. Various species of fungi has grown in this petri dish.")
+ ![A contaminated petri dish. Various species of fungi has grown in this petri dish.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Contaminated_culture.jpg "fig:A contaminated petri dish. Various species of fungi has grown in this petri dish.")
 
 Culture used to inoculate (inoculum) for fermentation meet the following
 criteria:

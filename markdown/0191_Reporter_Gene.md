@@ -6,7 +6,7 @@ certain gene.
 Green Fluorescent Protein
 -------------------------
 
-![Green fluorescent protein reaction](https://s3-us-west-2.amazonaws.com/labster/wiki/media/GFP photoactivate.jpg "fig:Green fluorescent protein reaction")
+![Green fluorescent protein reaction](https://s3-us-west-2.amazonaws.com/labster/wiki/media/GFP_photoactivate.jpg "fig:Green fluorescent protein reaction")
 In this case, the green fluorescent protein (GFP) from jelly fish
 *(Aequorea victoria)* was used as a reporter gene because it emits
 bright green light (λ = 509 nm) when excited with UV or blue light (λ

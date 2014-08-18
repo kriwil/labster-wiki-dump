@@ -14,7 +14,7 @@ fase og dødsfasen. I nogle arter, så som Saccharomyces cerevisiae, kan
 der opstå to eksponentielle faser med forskellige væksthastigheder,
 dette er grundet et skift i de metaboliske pathways.
 
-![En klassisk vækst kurve for gær, med glukose som substart](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Growth phase dk.jpg "En klassisk vækst kurve for gær, med glukose som substart")
+![En klassisk vækst kurve for gær, med glukose som substart](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Growth_phase_dk.jpg "En klassisk vækst kurve for gær, med glukose som substart")
 
 ### Lagfasen
 

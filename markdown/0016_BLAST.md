@@ -9,7 +9,7 @@ helps researchers efficiently compare a query oligonucleotide or protein
 sequence to large databases. Genes that share the highest homology with
 the input sequence are identified, and thereby, the biological function
 of the query gene is deduced. ![BLAST
-result](https://s3-us-west-2.amazonaws.com/labster/wiki/media/BLAST result.png "fig:BLAST result") BLAST uses statistics to
+result](https://s3-us-west-2.amazonaws.com/labster/wiki/media/BLAST_result.png "fig:BLAST result") BLAST uses statistics to
 sort the sequence database and thus, identify the best matches. The user
 receives the following output: Max score, Total Score, Query Coverage,
 E-value, and Maximum Identity. The E-value or expected value represents

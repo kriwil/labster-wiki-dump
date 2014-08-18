@@ -1,4 +1,4 @@
-![**Figure 1.** Mobile phase reservoir consisting of several glass bottle with special caps.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/MP reservoir.png "Figure 1. Mobile phase reservoir consisting of several glass bottle with special caps.")
+![**Figure 1.** Mobile phase reservoir consisting of several glass bottle with special caps.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/MP_reservoir.png "Figure 1. Mobile phase reservoir consisting of several glass bottle with special caps.")
 
 The separation of the analytes takes place due to differences in the
 interactions with the stationary and mobile phase. The analystes also

@@ -7,7 +7,7 @@ divided into 3 steps:
 
 -   **Primary analysis**
 
-![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/IlluminaData.jpg)
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/IlluminaData.jpg
 
 Primary analysis includes all the steps required to call or identify
 each base. Besides identifying the bases, the sequencing machine will

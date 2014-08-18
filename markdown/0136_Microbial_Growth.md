@@ -13,7 +13,7 @@ classified into four phases: the lag phase, log/exponential phase,
 stationary phase, and death phase. In some species, such as
 *Saccharomyces cerevisiae*, the exponential phase can occur twice with
 slightly different growth rates due to a switch in metabolic pathways.\
-![Typical growth curve of yeast with glucose substrate](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Growth phase1.jpg "fig:Typical growth curve of yeast with glucose substrate")
+![Typical growth curve of yeast with glucose substrate](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Growth_phase1.jpg "fig:Typical growth curve of yeast with glucose substrate")
 
 ### Lag Phase
 

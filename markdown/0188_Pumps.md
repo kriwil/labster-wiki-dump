@@ -12,7 +12,7 @@ Types of pumps
 Three common types of pumps are constant pressure pumps, syringe type
 pumps and reciprocating piston pumps.
 
-![**Figure 1.** Constant pressure pump.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Constant pressure pump.png "fig:Figure 1. Constant pressure pump.")
+![**Figure 1.** Constant pressure pump.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Constant_pressure_pump.png "fig:Figure 1. Constant pressure pump.")
 
 -   **Constant Pressure Pumps:** As the name suggests, they provide
     constant flow rate in the column thanks to a constant pressure. They

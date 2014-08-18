@@ -1,4 +1,4 @@
-![DNA polymerasen syntitisere en ny DNA streng i 5´-\>3' retning. Den nye streng er komplementær til template strengen og antiparallel.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/PCR-process dk.jpg "DNA polymerasen syntitisere en ny DNA streng i 5´->3' retning. Den nye streng er komplementær til template strengen og antiparallel.")
+![DNA polymerasen syntitisere en ny DNA streng i 5´-\>3' retning. Den nye streng er komplementær til template strengen og antiparallel.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/PCR-process_dk.jpg "DNA polymerasen syntitisere en ny DNA streng i 5´->3' retning. Den nye streng er komplementær til template strengen og antiparallel.")
 
 DNA polymerase er det enzym som er ansvarlig for kopieringen af den nye
 DNA-streng ud fra template strengen. For at DNA polymerasen har et sted
