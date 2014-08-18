@@ -1,5 +1,4 @@
-![Welcome to the Enzyme Kinetics
-case!]( EnzymeKinetics Case.jpg "Welcome to the Enzyme Kinetics case!")
+![Welcome to the Enzyme Kinetics case!]( EnzymeKinetics Case.jpg "Welcome to the Enzyme Kinetics case!")
 
 Introduction
 ------------

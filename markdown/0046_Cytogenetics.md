@@ -1,5 +1,4 @@
-![Welcome to the Cytogenetics
-lab!]( cytogenetic title image.jpg "fig:Welcome to the Cytogenetics lab!")\
+![Welcome to the Cytogenetics lab!]( cytogenetic title image.jpg "fig:Welcome to the Cytogenetics lab!")\
 \
 \
 \

@@ -17,16 +17,14 @@ convict the murderer?
 
 Go to case site by clicking the image below!
 
-![This is a closed crime scene - Labster Specialists
-only!]( CrimeScene.jpeg "This is a closed crime scene - Labster Specialists only!")
+![This is a closed crime scene - Labster Specialists only!]( CrimeScene.jpeg "This is a closed crime scene - Labster Specialists only!")
 
 Animal genetics: Double-Muscular Cows
 =====================================
 
 Go to case site: [Animal Genetics](/wiki/Animal_Genetics "wikilink")
 
-![Do you eat meat from Double-Muscular
-Cows?](/wiki/Double_muscled_cow_1.jpg‎ "Do you eat meat from Double-Muscular Cows?")
+![Do you eat meat from Double-Muscular Cows?](/wiki/Double_muscled_cow_1.jpg‎ "Do you eat meat from Double-Muscular Cows?")
 
 Enzyme Kinetics
 ===============

@@ -13,8 +13,7 @@ classified into four phases: the lag phase, log/exponential phase,
 stationary phase, and death phase. In some species, such as
 *Saccharomyces cerevisiae*, the exponential phase can occur twice with
 slightly different growth rates due to a switch in metabolic pathways.\
-![Typical growth curve of yeast with glucose
-substrate](/wiki/Growth phase1.jpg "fig:Typical growth curve of yeast with glucose substrate")
+![Typical growth curve of yeast with glucose substrate](/wiki/Growth phase1.jpg "fig:Typical growth curve of yeast with glucose substrate")
 
 ### Lag Phase
 
@@ -25,9 +24,7 @@ minimum time in the lag phase.
 
 ### Exponential phase
 
-![ The logarithm plot of microbial growth. Specific growth rate can be
-determined from the
-slope.](/wiki/logarithm plot.png "fig: The logarithm plot of microbial growth. Specific growth rate can be determined from the slope.")
+![ The logarithm plot of microbial growth. Specific growth rate can be determined from the slope.](/wiki/logarithm plot.png "fig: The logarithm plot of microbial growth. Specific growth rate can be determined from the slope.")
 Cells grow at a constant and maximum rate, which can be described by
 this equation:\
 ![100 px|](/wiki/Diff_equation.jpg "fig:100 px|")\

@@ -1,5 +1,4 @@
-![Welcome to the Introductory
-Lab.]( Intro_lab_scene.jpg "fig:Welcome to the Introductory Lab.")\
+![Welcome to the Introductory Lab.]( Intro_lab_scene.jpg "fig:Welcome to the Introductory Lab.")\
 \
 \
 \

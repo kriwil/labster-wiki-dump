@@ -21,9 +21,7 @@ the larger the *K* value is.
 London dispersion force
 -----------------------
 
-![London Dispersion force is a weak interaction that occurs between non
-polar
-molecules.]( London Dispension Force.jpg "London Dispersion force is a weak interaction that occurs between non polar molecules.")
+![London Dispersion force is a weak interaction that occurs between non polar molecules.]( London Dispension Force.jpg "London Dispersion force is a weak interaction that occurs between non polar molecules.")
 
 There are different types of interactions occurring between the side
 chains of the beads of the column and the analytes in the sample. One of

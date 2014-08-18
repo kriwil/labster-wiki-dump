@@ -4,10 +4,7 @@ bliver brugt af mikroorganismen, som producere det ønskede biokemiske
 produkt, som derefter kan opsamles. Ordet fermentor kan også bruges om
 en bioreaktor, begge dækker dog over det samme.\
 
-![Bioreaktoren består af de følgende dele: 1. pH sensorer, temperatur
-sensorer, 3. luft in og outflow, 4. Vand/damp in og outflow, 5. Medie
-inflow, 6. Omrærer, 7. Inokuleringsområde
-](/wiki/Bioreactor dk.jpg "Bioreaktoren består af de følgende dele: 1. pH sensorer, temperatur sensorer, 3. luft in og outflow, 4. Vand/damp in og outflow, 5. Medie inflow, 6. Omrærer, 7. Inokuleringsområde ")
+![Bioreaktoren består af de følgende dele: 1. pH sensorer, temperatur sensorer, 3. luft in og outflow, 4. Vand/damp in og outflow, 5. Medie inflow, 6. Omrærer, 7. Inokuleringsområde ](/wiki/Bioreactor dk.jpg "Bioreaktoren består af de følgende dele: 1. pH sensorer, temperatur sensorer, 3. luft in og outflow, 4. Vand/damp in og outflow, 5. Medie inflow, 6. Omrærer, 7. Inokuleringsområde ")
 
 Nøglen til at have en effektiv bioreaktor, er at bevare kontrollen over
 den mikrobielle vækst samt metabolit produktionen i reaktoren. For at

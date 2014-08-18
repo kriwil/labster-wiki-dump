@@ -1,5 +1,4 @@
-![Malaria parasite, *Plasmodium* inside human
-cell]( Malaria.jpg "Malaria parasite, Plasmodium inside human cell")
+![Malaria parasite, *Plasmodium* inside human cell]( Malaria.jpg "Malaria parasite, Plasmodium inside human cell")
 
 ### Malaria parasite
 

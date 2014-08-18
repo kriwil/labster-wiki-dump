@@ -1,6 +1,5 @@
-![Den klassiske madpyramide, som illustrere det anbefaldede indtag
-imellem forskellige typer
-mad.](/wiki/Foodpyramide.jpg "fig:Den klassiske madpyramide, som illustrere det anbefaldede indtag imellem forskellige typer mad.")
+![Den klassiske madpyramide, som illustrere det anbefaldede indtag imellem forskellige typer mad.](/wiki/Foodpyramide.jpg "fig:Den klassiske madpyramide, som illustrere det anbefaldede indtag imellem forskellige typer mad.")
+
 Alle levende organismer har behov for energi, uanset deres størrelse og
 kompleksitet. Planter er i stand til at udnytte solens energi sammen med
 vand og CO2 til at lave fotosyntese og på den måde omdanne solens energi

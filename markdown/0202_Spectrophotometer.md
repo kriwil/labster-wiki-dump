@@ -32,10 +32,7 @@ A spectrophotometer consists of the following (Fig. 1):
 
 -   a detector
 
-![Fig. 1. Light emitted from the source passes through the slit, letting
-only 1 specific wavelength through. This light will through the sample
-placed in a cuvette and will be measured by the
-detector.](/wiki/Spectrophotometer.png "Fig. 1. Light emitted from the source passes through the slit, letting only 1 specific wavelength through. This light will through the sample placed in a cuvette and will be measured by the detector.")
+![Fig. 1. Light emitted from the source passes through the slit, letting only 1 specific wavelength through. This light will through the sample placed in a cuvette and will be measured by the detector.](/wiki/Spectrophotometer.png "Fig. 1. Light emitted from the source passes through the slit, letting only 1 specific wavelength through. This light will through the sample placed in a cuvette and will be measured by the detector.")
 
 In this case, we will measure concentrations of NADH. NADH has an
 absorption maximum at 340 nm; therefore, the spectrophotometer is set to

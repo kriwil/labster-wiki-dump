@@ -1,5 +1,4 @@
-![ Extraction of DNA, RNA and
-protein.]( Trizol.png "fig: Extraction of DNA, RNA and protein.") In
+![ Extraction of DNA, RNA and protein.]( Trizol.png "fig: Extraction of DNA, RNA and protein.") In
 order to retrieve the RNA molecules from plant cells, the cell walls
 must be cracked and plasma membranes lysed. Every organism encodes for
 RNAses, an enzyme family that degrades RNA molecules. It is important to
@@ -28,7 +27,5 @@ phase. The RNA is recovered by adding isopropanol, which precipitates
 polar molecules like RNAs and salts. The salts can be washed away with
 75% ethanol to obtain pure RNA.
 
-[ ⇐ cDNA](/wiki/CDNA "wikilink")/ [ Next Generation Sequencing
-⇒](/wiki/NGS_Plant "wikilink")\
-[⇐ Theory overview](/wiki/PlantLab "wikilink")
+[ ⇐ cDNA](/wiki/CDNA "wikilink")/ [ Next Generation Sequencing ⇒](/wiki/NGS_Plant "wikilink")\ [⇐ Theory overview](/wiki/PlantLab "wikilink")
 

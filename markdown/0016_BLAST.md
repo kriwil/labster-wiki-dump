@@ -1,7 +1,7 @@
-![BLAST sequence input window. Access BLAST from
-<http://blast.ncbi.nlm.nih.gov/Blast.cgi>]( NucleotideBlast.png "fig:BLAST sequence input window. Access BLAST from http://blast.ncbi.nlm.nih.gov/Blast.cgi")
-![Color-coded alignment
-score]( BlastScores.png "fig:Color-coded alignment score") BLAST is the
+![BLAST sequence input window. Access BLAST from <http://blast.ncbi.nlm.nih.gov/Blast.cgi>]( NucleotideBlast.png "fig:BLAST sequence input window. Access BLAST from http://blast.ncbi.nlm.nih.gov/Blast.cgi")
+![Color-coded alignment score]( BlastScores.png "fig:Color-coded alignment score")
+
+BLAST is the
 abbreviation for Basic Local Alignment Search Tool. It can be accessed
 via the NCBI (National Center for Biotechnological Information) website.
 BLAST is one of the most widely used bioinformatics tools because it

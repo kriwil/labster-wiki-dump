@@ -3,14 +3,7 @@ strand.
 
 ### First Generation Sequencing
 
-![**Figure 1.** Chain-termination method. The labeled DNA molecules are
-separated according to their size. Each of the molecule has a modified
-nucleotide (ddNTP) that is labeled with a fluorescence dye. The
-different fluorescence color indicates a specific base,i.e.,
-<span style="color:#00ff00">A</span>,
-<span style="color:#ffd700">G</span>,
-<span style="color:#ff0000">T</span> or
-<span style="color:#0000ff">C</span>.]( Sangersequencing.png "Figure 1. Chain-termination method. The labeled DNA molecules are separated according to their size. Each of the molecule has a modified nucleotide (ddNTP) that is labeled with a fluorescence dye. The different fluorescence color indicates a specific base,i.e., A, G, T or C.")
+![**Figure 1.** Chain-termination method. The labeled DNA molecules are separated according to their size. Each of the molecule has a modified nucleotide (ddNTP) that is labeled with a fluorescence dye. The different fluorescence color indicates a specific base,i.e., <span style="color:#00ff00">A</span>, <span style="color:#ffd700">G</span>, <span style="color:#ff0000">T</span> or <span style="color:#0000ff">C</span>.]( Sangersequencing.png "Figure 1. Chain-termination method. The labeled DNA molecules are separated according to their size. Each of the molecule has a modified nucleotide (ddNTP) that is labeled with a fluorescence dye. The different fluorescence color indicates a specific base,i.e., A, G, T or C.")
 
 The first generation sequencing refers to the *chain-termination method*
 that was developed by Fredrick Sanger and co-workers in 1977 (see Figure

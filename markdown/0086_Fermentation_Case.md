@@ -1,5 +1,4 @@
-![Welcome to the Fermentation
-case!]( Wiki_Fermentation.jpg "fig:Welcome to the Fermentation case!")\
+![Welcome to the Fermentation case!]( Wiki_Fermentation.jpg "fig:Welcome to the Fermentation case!")\
 \
 \
 \

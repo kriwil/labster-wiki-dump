@@ -4,14 +4,7 @@ strand.
 First Generation Sequencing
 ---------------------------
 
-![**Figure 1.** Chain-termination method. The labelled DNA molecules are
-separated according their size. Each molecule has a modified nucleotide
-(ddNTP) that is labeled with a fluorescence dye. The different
-fluorescence color indicates a specific base:
-<span style="color:#00ff00">A</span>,
-<span style="color:#ffd700">G</span>,
-<span style="color:#ff0000">T</span> or
-<span style="color:#0000ff">C</span>.]( Sangersequencing.png "Figure 1. Chain-termination method. The labelled DNA molecules are separated according their size. Each molecule has a modified nucleotide (ddNTP) that is labeled with a fluorescence dye. The different fluorescence color indicates a specific base: A, G, T or C.")
+![**Figure 1.** Chain-termination method. The labelled DNA molecules are separated according their size. Each molecule has a modified nucleotide (ddNTP) that is labeled with a fluorescence dye. The different fluorescence color indicates a specific base: <span style="color:#00ff00">A</span>, <span style="color:#ffd700">G</span>, <span style="color:#ff0000">T</span> or <span style="color:#0000ff">C</span>.]( Sangersequencing.png "Figure 1. Chain-termination method. The labelled DNA molecules are separated according their size. Each molecule has a modified nucleotide (ddNTP) that is labeled with a fluorescence dye. The different fluorescence color indicates a specific base: A, G, T or C.")
 
 First-generation sequencing refers to the chain-termination method that
 was developed by Fredrick Sanger and co-workers in 1977 (Figure 1). The
@@ -53,8 +46,7 @@ the elongation stops and a picture is taken. Following this, the blocker
 sitting on the 3' terminal is then chemically removed from DNA, allowing
 the next cycle of nucleotide addition to proceed.
 
-![**Figure 2.** Workflow of next-generation sequencing using Illumina
-platform.]( Illumina.jpg "fig:Figure 2. Workflow of next-generation sequencing using Illumina platform.")\
+![**Figure 2.** Workflow of next-generation sequencing using Illumina platform.]( Illumina.jpg "fig:Figure 2. Workflow of next-generation sequencing using Illumina platform.")\
 \
 \
 \

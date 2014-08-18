@@ -1,6 +1,4 @@
-![**Figure 1.** Flow cell showing high density of short DNA strand
-attached to the
-surface.]( FlowCell.jpg "Figure 1. Flow cell showing high density of short DNA strand attached to the surface.")
+![**Figure 1.** Flow cell showing high density of short DNA strand attached to the surface.]( FlowCell.jpg "Figure 1. Flow cell showing high density of short DNA strand attached to the surface.")
 
 After completing the NGS sample preparation, the DNA needs to be
 anchored to a plate surface where it will again be amplified and then
@@ -59,8 +57,7 @@ generation step, we can expect having approximately 200 millions of
 clonally amplified DNA cluster in 1 flow cell. This is a lot of DNA that
 is ready to be sequenced!
 
-![**Figure 2.** Cluster generation showing bridge PCR and
-amplification.]( ClusterGeneration.jpg "Figure 2. Cluster generation showing bridge PCR and amplification.")
+![**Figure 2.** Cluster generation showing bridge PCR and amplification.]( ClusterGeneration.jpg "Figure 2. Cluster generation showing bridge PCR and amplification.")
 
 [⇐ Theory overview](/wiki/NGS_Case "wikilink")
 

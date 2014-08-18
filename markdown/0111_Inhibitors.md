@@ -36,7 +36,9 @@ the Michaelis-Menten equation (for a detailed derivation, see [2]), the
 following equation for mixed inhibition can be obtained:
 
 ![]( mixed inhibition equation.png "fig: mixed inhibition equation.png")
-where ![]( inhibition alpha.png "fig: inhibition alpha.png") and
+where
+![]( inhibition alpha.png "fig: inhibition alpha.png")
+and
 ![]( inhibition alpha'.png "fig: inhibition alpha'.png")
 
 Just like the Michealis-Menten equation, this equation can be rearranged

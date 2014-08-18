@@ -11,11 +11,7 @@ can be visualized. A “DNA ladder” containing a mixture of DNA fragments
 of known sizes is also loaded on the gel. The sizes of the DNA samples
 can then be estimated by comparing with the DNA ladder (Figure 1).
 
-![Figure 1. Fragments of different length from a PCR reaction are run on
-a gel. The fragments will move at a speed and a distance relative to
-their size: smaller DNA molecules will move down the gel faster and
-further than longer DNA
-molecules.](/wiki/Gelelektroforese.jpg "Figure 1. Fragments of different length from a PCR reaction are run on a gel. The fragments will move at a speed and a distance relative to their size: smaller DNA molecules will move down the gel faster and further than longer DNA molecules.")
+![Figure 1. Fragments of different length from a PCR reaction are run on a gel. The fragments will move at a speed and a distance relative to their size: smaller DNA molecules will move down the gel faster and further than longer DNA molecules.](/wiki/Gelelektroforese.jpg "Figure 1. Fragments of different length from a PCR reaction are run on a gel. The fragments will move at a speed and a distance relative to their size: smaller DNA molecules will move down the gel faster and further than longer DNA molecules.")
 
 By mixing the PCR product with loading buffer, we can visualize how far
 the PCR product has traveled during gel electrophoresis. Loading buffer

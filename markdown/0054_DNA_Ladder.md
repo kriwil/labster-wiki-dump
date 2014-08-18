@@ -1,9 +1,4 @@
-![A gel is run with a DNA ladder in one of the well. The different
-visible bands relate to known fragment lengths, as can be observed to
-the right of the gel image, where fragment lengths are given in base
-pairs. The number to the far right gives the concentration of the
-particular
-fragment.]( Dnaladder.jpeg "A gel is run with a DNA ladder in one of the well. The different visible bands relate to known fragment lengths, as can be observed to the right of the gel image, where fragment lengths are given in base pairs. The number to the far right gives the concentration of the particular fragment.")
+![A gel is run with a DNA ladder in one of the well. The different visible bands relate to known fragment lengths, as can be observed to the right of the gel image, where fragment lengths are given in base pairs. The number to the far right gives the concentration of the particular fragment.]( Dnaladder.jpeg "A gel is run with a DNA ladder in one of the well. The different visible bands relate to known fragment lengths, as can be observed to the right of the gel image, where fragment lengths are given in base pairs. The number to the far right gives the concentration of the particular fragment.")
 
 A DNA Ladder is a mix of DNA fragments with known lengths. It is used as
 a scale for determining the lengths of unknown DNA fragments. The size

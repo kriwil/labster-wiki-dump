@@ -10,8 +10,9 @@ Types of pumps
 --------------
 
 Three common types of pumps are constant pressure pumps, syringe type
-pumps and reciprocating piston pumps. ![**Figure 1.** Constant pressure
-pump.]( Constant pressure pump.png "fig:Figure 1. Constant pressure pump.")
+pumps and reciprocating piston pumps.
+
+![**Figure 1.** Constant pressure pump.]( Constant pressure pump.png "fig:Figure 1. Constant pressure pump.")
 
 -   **Constant Pressure Pumps:** As the name suggests, they provide
     constant flow rate in the column thanks to a constant pressure. They
@@ -26,8 +27,8 @@ pump.]( Constant pressure pump.png "fig:Figure 1. Constant pressure pump.")
 \
 \
 \
- ![**Figure 2.** Syringe
-pump.]( syringe pump.png "fig:Figure 2. Syringe pump.")
+
+ ![**Figure 2.** Syringe pump.]( syringe pump.png "fig:Figure 2. Syringe pump.")
 
 -   **Syringe Type Pumps:** They use a motorized syringe to get a
     constant solvent delivery. Changing the voltage of the motor,
@@ -39,8 +40,7 @@ pump.]( syringe pump.png "fig:Figure 2. Syringe pump.")
 \
 \
 \
- ![**Figure 3.** Reciprocating piston
-pump.]( reciprocating pump.png "fig:Figure 3. Reciprocating piston pump.")
+ ![**Figure 3.** Reciprocating piston pump.]( reciprocating pump.png "fig:Figure 3. Reciprocating piston pump.")
 
 -   **Reciprocating Piston Pumps:** They consist of a hydraulic chamber
     were a reciprocating piston is placed. This way, solvent gets in the

@@ -1,5 +1,4 @@
-![Velkommen til
-fermenteringscasen!]( Wiki_Fermentation dk.jpg "fig:Velkommen til fermenteringscasen!")\
+![Velkommen til fermenteringscasen!]( Wiki_Fermentation dk.jpg "fig:Velkommen til fermenteringscasen!")\
 \
 \
 \

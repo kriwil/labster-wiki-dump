@@ -8,8 +8,7 @@ enzyme](/wiki/Restriction_enzyme "wikilink") can be used for the isolation.
 Phenol-Chloroform Extraction
 ----------------------------
 
-![ Phenol-chloroform extraction method is used for genomic DNA
-isolation](/wiki/phenol-chloroform.png "fig: Phenol-chloroform extraction method is used for genomic DNA isolation")
+![ Phenol-chloroform extraction method is used for genomic DNA isolation](/wiki/phenol-chloroform.png "fig: Phenol-chloroform extraction method is used for genomic DNA isolation")
 Nucleic acids from cells can be isolated using the phenol-chloroform
 method. Phenol-chloroform is a mixture of buffer-saturated phenol and
 chloroform in 1:1 ratio. The first step in the extraction is cell lysis

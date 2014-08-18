@@ -80,7 +80,8 @@ kurven for en blodsukker måling. Man kan på den måde undersøge, beskrive
 og sammenligne den tilgængelige mængde energi i forskellige typer mad.
 Man kan på den nedestående graf se forskellige på to typer mad, et
 hurtigt levningsmiddel med en høj GI, og et langsomt levningsmiddel med
-en lav GI. ![](/wiki/GI_New.jpg "fig:GI_New.jpg")
+en lav GI.
+![](/wiki/GI_New.jpg "fig:GI_New.jpg")
 
 [⇐Forrige (Det humane
 fordøjelsessystem)](/wiki/Det_humane_fordøjelses_system "wikilink") / [Næste

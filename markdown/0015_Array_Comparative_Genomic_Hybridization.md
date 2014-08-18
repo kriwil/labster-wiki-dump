@@ -68,8 +68,7 @@ the dark as much as possible. Therefore it is highly recommended to
 perform all labeling steps in the dark to prevent signal loss from dye
 photo-bleaching.
 
-![Left: Cy3 label Right: Cy5 label
-](/wiki/Cy3 and Cy5.jpg "Left: Cy3 label Right: Cy5 label ")
+![Left: Cy3 label Right: Cy5 label ](/wiki/Cy3 and Cy5.jpg "Left: Cy3 label Right: Cy5 label ")
 
 The Cy3 and Cy5 molecule interact with DNA using universal linkage
 system (ULS) which uses a special platinum compound. The platinum

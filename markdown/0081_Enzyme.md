@@ -1,9 +1,4 @@
-![A reaction from a substrate to product is a transition from 1 energy
-state to another. A transition state exists between the substrate and
-product. This state has a higher energy level than both the substrate
-and product. A catalyst will lower this energy level, so that the
-transition energy is reached more easily, and this results in a faster
-reaction.](/wiki/ActivationEnergy.png "A reaction from a substrate to product is a transition from 1 energy state to another. A transition state exists between the substrate and product. This state has a higher energy level than both the substrate and product. A catalyst will lower this energy level, so that the transition energy is reached more easily, and this results in a faster reaction.")
+![A reaction from a substrate to product is a transition from 1 energy state to another. A transition state exists between the substrate and product. This state has a higher energy level than both the substrate and product. A catalyst will lower this energy level, so that the transition energy is reached more easily, and this results in a faster reaction.](/wiki/ActivationEnergy.png "A reaction from a substrate to product is a transition from 1 energy state to another. A transition state exists between the substrate and product. This state has a higher energy level than both the substrate and product. A catalyst will lower this energy level, so that the transition energy is reached more easily, and this results in a faster reaction.")
 
 Enzymes are proteins that act as catalysts of specific reactions. They
 act by lowering the activation energy, thereby making the reaction

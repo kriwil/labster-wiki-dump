@@ -1,6 +1,4 @@
-![**Figure 1.** Mobile phase reservoir consisting of several glass
-bottle with special
-caps.]( MP reservoir.png "Figure 1. Mobile phase reservoir consisting of several glass bottle with special caps.")
+![**Figure 1.** Mobile phase reservoir consisting of several glass bottle with special caps.]( MP reservoir.png "Figure 1. Mobile phase reservoir consisting of several glass bottle with special caps.")
 
 The separation of the analytes takes place due to differences in the
 interactions with the stationary and mobile phase. The analystes also
@@ -19,9 +17,7 @@ placed in these holes connecting the mobile phase reservoir to the
 column. The mobile phase will travel through these tubes (see Figure 2),
 into the column and then out to the waste reservoir.
 
-![**Figure 2.** Filter and tubing used to connect the mobile phase
-reservoir to the HPLC
-machine.]( Filter_and_tubing.png "Figure 2. Filter and tubing used to connect the mobile phase reservoir to the HPLC machine.")
+![**Figure 2.** Filter and tubing used to connect the mobile phase reservoir to the HPLC machine.]( Filter_and_tubing.png "Figure 2. Filter and tubing used to connect the mobile phase reservoir to the HPLC machine.")
 
 Techniques:
 -----------
@@ -51,8 +47,7 @@ Similar to the stationary phase, mobile phase polarity is also a scale
 (see Figure 3). Water is an example of a polar mobile phase and on the
 opposite end is Hexane which is a non polar mobile phase.
 
-![**Figure 3.** Mobile phase polarity
-scale.]( MobilePolarity.jpg "Figure 3. Mobile phase polarity scale.")
+![**Figure 3.** Mobile phase polarity scale.]( MobilePolarity.jpg "Figure 3. Mobile phase polarity scale.")
 
   -----------------------------------
   Solvent        Polariy index (P')

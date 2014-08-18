@@ -1,10 +1,7 @@
 Hereditary
 ----------
 
-![Figure 1. Humans have 23 pairs of chromosome, 22 pairs of autosomes,
-and one pair of sex chromosome. Because there both X and Y are present,
-this individual is a
-male.]( 23chromosomes.gif "fig:Figure 1. Humans have 23 pairs of chromosome, 22 pairs of autosomes, and one pair of sex chromosome. Because there both X and Y are present, this individual is a male.")
+![Figure 1. Humans have 23 pairs of chromosome, 22 pairs of autosomes, and one pair of sex chromosome. Because there both X and Y are present, this individual is a male.]( 23chromosomes.gif "fig:Figure 1. Humans have 23 pairs of chromosome, 22 pairs of autosomes, and one pair of sex chromosome. Because there both X and Y are present, this individual is a male.")
 As humans, we have two copies of chromosomes containing many genes. We
 inherit one set of chromosomes from our father and one set from our
 mother. In total, there are 46 chromosomes in each of our cells: 23 from

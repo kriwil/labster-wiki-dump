@@ -12,8 +12,7 @@ because they are already partially degraded into approximately 50 bp.
 Another example is cDNA generated from miRNA (micro RNA), which is also
 very short.
 
-![The long double strand DNA is fragmented into smaller
-sizes.]( Fragmentation.png "The long double strand DNA is fragmented into smaller sizes.")
+![The long double strand DNA is fragmented into smaller sizes.]( Fragmentation.png "The long double strand DNA is fragmented into smaller sizes.")
 
 There are 2 ways to fragment the DNA
 ------------------------------------

@@ -143,8 +143,9 @@ clear the cache on your inter- net browser. Cache is a temporary memory
 in your browser to load the data faster. This will not interfere with
 your computer’s memory. You can clear the cache memory by opening the
 preference/setting menu on your internet browser --\> privacy --\> clear
-browsing data. ￼ Or see the screenshot below: ![Clear
-cache]( Cache.png "fig:Clear cache")\
+browsing data. ￼ Or see the screenshot below:
+
+![Clear cache]( Cache.png "fig:Clear cache")\
 \
 \
 \
@@ -205,8 +206,7 @@ You can interact with the objects in the virtual lab by clicking on them
 machine). You can also hover your mouse on top of an object in order to
 read the description.
 
-![Features of the virtual
-lab]( Vlab.png "fig:Features of the virtual lab")\
+![Features of the virtual lab]( Vlab.png "fig:Features of the virtual lab")\
 \
 \
 \

@@ -8,9 +8,7 @@ later named as *BRCA1*.
 Linkage analysis
 ----------------
 
-![Figure 1. Homologous recombination during meiosis giving rise to new
-genetic
-variations.]( HR.png "fig:Figure 1. Homologous recombination during meiosis giving rise to new genetic variations.")
+![Figure 1. Homologous recombination during meiosis giving rise to new genetic variations.]( HR.png "fig:Figure 1. Homologous recombination during meiosis giving rise to new genetic variations.")
 Genes that are located in proximity with each other tend to be inherited
 together during meiosis. During meiosis, the two sister chromatids are
 separated and crossing over can occur, resulting in homologous

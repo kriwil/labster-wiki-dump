@@ -15,10 +15,7 @@ er tilstede. Glykolysen består af fire vigtige trin:\
 Slut produktet for glykolysen er to ATP molekyler, to pyruvatsyre og to
 molekyler NADH
 
-![ glykolysen består af flere trin, hvor seks-carbon molekyler bliver
-nedbrudt til to tre-carbon molekyler hvor der samtidligt bliver
-produceret to molekyler ATP, to pyruvatsyre og to molekyler
-NADH.](/wiki/glycolysis.jpg " glykolysen består af flere trin, hvor seks-carbon molekyler bliver nedbrudt til to tre-carbon molekyler hvor der samtidligt bliver produceret to molekyler ATP, to pyruvatsyre og to molekyler NADH.")
+![ glykolysen består af flere trin, hvor seks-carbon molekyler bliver nedbrudt til to tre-carbon molekyler hvor der samtidligt bliver produceret to molekyler ATP, to pyruvatsyre og to molekyler NADH.](/wiki/glycolysis.jpg " glykolysen består af flere trin, hvor seks-carbon molekyler bliver nedbrudt til to tre-carbon molekyler hvor der samtidligt bliver produceret to molekyler ATP, to pyruvatsyre og to molekyler NADH.")
 
 [⇐ Forrige (Celle metabolisme)](/wiki/Celle_metabolisme "wikilink") / [Næste
 (Krebscyklus) ⇒](/wiki/Krebscyklus "wikilink")\

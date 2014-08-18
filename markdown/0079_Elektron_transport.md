@@ -3,8 +3,7 @@ overførslen af elektroner fra et substrat til O2. Elektrontransportkæden
 bliver dannet af elektronbærere på den indre membran af mitokondrierne i
 gær. De to grundlæggende funktioner for elektrontransportkæden er:\
 
-![Elektron transport
-kæde](/wiki/Electron_transport dk.jpg "Elektron transport kæde")
+![Elektron transport kæde](/wiki/Electron_transport dk.jpg "Elektron transport kæde")
 
 • Faciliteter overførslen af elektroner fra en primære doner til den
 terminale modtager. • At gemme energi der er blevet frigivet under

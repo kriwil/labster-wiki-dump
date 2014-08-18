@@ -45,8 +45,7 @@ several rate constants. [2]
 Initial reaction rate
 ---------------------
 
-![Fig. 1. Progress curve of a general enzymatic reaction.
-]( Progress curve.png "fig:Fig. 1. Progress curve of a general enzymatic reaction. ")
+![Fig. 1. Progress curve of a general enzymatic reaction.  ]( Progress curve.png "fig:Fig. 1. Progress curve of a general enzymatic reaction. ")
 During the course of the reaction, [S] decreases and [P] increases. This
 results in an overall decrease in the reaction rate, as illustrated in
 Fig. 1. To measure the reaction rate of an enzymatic reaction
@@ -70,8 +69,7 @@ University Press. ISBN 978-0-19-920606-3.
 *Principles of Biochemistry* (5th ed.). New York, NY: W.H. Freeman and
 Company. ISBN 978-0-7167-7108-1.
 
-[⇐Previous (Michaelis-Menten)](/wiki/Michaelis-Menten "wikilink") / [Next
-(K~m~) ⇒](/wiki/Km "wikilink")
+[⇐Previous (Michaelis-Menten)](/wiki/Michaelis-Menten "wikilink") / [Next (K~m~) ⇒](/wiki/Km "wikilink")
 
 [⇐ Theory overview](/wiki/Enzyme_Kinetics "wikilink")
 

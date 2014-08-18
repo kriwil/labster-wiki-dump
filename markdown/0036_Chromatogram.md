@@ -1,5 +1,4 @@
-![**Figure 1.** An example of
-chromatogram.]( Chromatogram.png "Figure 1. An example of chromatogram.")
+![**Figure 1.** An example of chromatogram.]( Chromatogram.png "Figure 1. An example of chromatogram.")
 
 The chromatogram (see Figure 1) is the representation of the signal
 strength acquired by the detector vs. time. Before the analyte reaches

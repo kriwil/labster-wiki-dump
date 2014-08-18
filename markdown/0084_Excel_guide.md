@@ -46,20 +46,16 @@ burde nu have noget der ligner det på picture 10.
 
 Du er en sand mester i Excel! Godt arbjde!\
 
-![ Picture 1](/wiki/7_excelguide.jpg "fig: Picture 1") ![ Picture
-2](/wiki/8_excelguide.jpg "fig: Picture 2")
-
-![ Picture 3](/wiki/9_excelguide.jpg "fig: Picture 3") ![ Picture
-4](/wiki/10_excelguide.jpg "fig: Picture 4")
-
-![ Picture 5](/wiki/11_excelguide.jpg "fig: Picture 5") ![ Picture
-6](/wiki/12_excelguide.jpg "fig: Picture 6")
-
-![ Picture 7](/wiki/13_excelguide.jpg "fig: Picture 7") ![ Picture
-8](/wiki/14_excelguide.jpg "fig: Picture 8")
-
-![ Picture 9](/wiki/15_excelguide.jpg "fig: Picture 9") ![ Picture
-10](/wiki/16_excelguide.jpg "fig: Picture 10")\
+![ Picture 1](/wiki/7_excelguide.jpg "fig: Picture 1")
+![ Picture 2](/wiki/8_excelguide.jpg "fig: Picture 2")
+![ Picture 3](/wiki/9_excelguide.jpg "fig: Picture 3")
+![ Picture 4](/wiki/10_excelguide.jpg "fig: Picture 4")
+![ Picture 5](/wiki/11_excelguide.jpg "fig: Picture 5")
+![ Picture 6](/wiki/12_excelguide.jpg "fig: Picture 6")
+![ Picture 7](/wiki/13_excelguide.jpg "fig: Picture 7")
+![ Picture 8](/wiki/14_excelguide.jpg "fig: Picture 8")
+![ Picture 9](/wiki/15_excelguide.jpg "fig: Picture 9")
+![ Picture 10](/wiki/16_excelguide.jpg "fig: Picture 10")\
 \
 \
 \

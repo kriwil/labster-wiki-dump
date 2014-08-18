@@ -2,8 +2,9 @@ Electron transport is a membrane-mediated process leading to the
 transfer of electrons from the substrate to O~2~. Electron transport
 chain is formed by a carrier compound embedded in the inner membrane of
 mitochondria of yeast. Two basic functions of electron transport chain
-are as follows: ![Electron transport
-chain](/wiki/electron transport.jpg "fig:Electron transport chain")
+are as follows:
+
+![Electron transport chain](/wiki/electron transport.jpg "fig:Electron transport chain")
 
 -   Facilitating the transfer of electrons from the primary donor to
     terminal acceptor

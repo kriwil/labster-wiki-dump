@@ -1,5 +1,4 @@
-![Welcome to the Medical Genetics
-case]( Wiki FrontImage.jpg "fig:Welcome to the Medical Genetics case")\
+![Welcome to the Medical Genetics case]( Wiki FrontImage.jpg "fig:Welcome to the Medical Genetics case")\
 \
 \
 \

@@ -1,5 +1,5 @@
-![Phylogenetic tree of terpenoid synthase (Bohlmann, 1998.
-<doi:10.1073/pnas.95.8.4126>)](/wiki/phylogenetic tree.gif "fig:Phylogenetic tree of terpenoid synthase (Bohlmann, 1998. doi:10.1073/pnas.95.8.4126)")
+![Phylogenetic tree of terpenoid synthase (Bohlmann, 1998.  <doi:10.1073/pnas.95.8.4126>)](/wiki/phylogenetic tree.gif "fig:Phylogenetic tree of terpenoid synthase (Bohlmann, 1998. doi:10.1073/pnas.95.8.4126)")
+
 Phylogenetics is the study of evolutionary relationship between
 biological entities. It can be used to determine the eevolutionary
 distance of two DNA sequences as well as for whole organisms.
@@ -32,7 +32,5 @@ usually responsible for similar functions. By including proteins with
 known functions into the phylogenetic analysis one can derive the role
 of other enzymes with a high degree of homology.
 
-[⇐ BLAST](/wiki/BLAST "wikilink")/ [ Moss Transformation
-⇒](/wiki/Moss_Transformation "wikilink")\
-[ ⇐ Theory Overview](/wiki/PlantLab "wikilink")
+[⇐ BLAST](/wiki/BLAST "wikilink")/ [ Moss Transformation ⇒](/wiki/Moss_Transformation "wikilink")\ [ ⇐ Theory Overview](/wiki/PlantLab "wikilink")
 

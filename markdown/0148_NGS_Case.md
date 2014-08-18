@@ -1,5 +1,4 @@
-![Welcome to the NGS
-case!]( NGS_Case.jpg "fig:Welcome to the NGS case!")\
+![Welcome to the NGS case!]( NGS_Case.jpg "fig:Welcome to the NGS case!")\
 \
 \
 \

@@ -1,6 +1,4 @@
-![DNA is made up of [Nucleotides](/wiki/Nucleotides "wikilink") abbreviated A,
-T, C and G. They pair A-T and
-G-C)](/wiki/DNA helix bases.png "DNA is made up of Nucleotides abbreviated A, T, C and G. They pair A-T and G-C)")
+![DNA is made up of [Nucleotides](/wiki/Nucleotides "wikilink") abbreviated A, T, C and G. They pair A-T and G-C)](/wiki/DNA helix bases.png "DNA is made up of Nucleotides abbreviated A, T, C and G. They pair A-T and G-C)")
 
 DNA is the hereditary material of all living organisms, including
 humans. DNA stores information through a code made up of four chemical
@@ -20,15 +18,9 @@ sampling is impossible or too risky (children, animals, forensics),
 smaller amounts of DNA can also be extracted from a mouth swap (contains
 epithelial cells) or a few hairs with bulp.
 
-![DNA is organized in a double-helix form. It is said to be
-antiparallel, because one strand runs in the 5'-\>3' direction and the
-other in the 3'-\>5'
-direction](/wiki/DNA helix copy.jpg "DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'->3' direction and the other in the 3'->5' direction")
+![DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'-\>3' direction and the other in the 3'-\>5' direction](/wiki/DNA helix copy.jpg "DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'->3' direction and the other in the 3'->5' direction")
 
 [\<-- Theory overview](/wiki/Animal_Genetics "wikilink")
 
-![DNA is organized in a double-helix form. It is said to be
-antiparallel, because one strand runs in the 5'-\>3' direction and the
-other in the 3'-\>5'
-direction](/wiki/Dna chemical.png "DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'->3' direction and the other in the 3'->5' direction")
+![DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'-\>3' direction and the other in the 3'-\>5' direction](/wiki/Dna chemical.png "DNA is organized in a double-helix form. It is said to be antiparallel, because one strand runs in the 5'->3' direction and the other in the 3'->5' direction")
 

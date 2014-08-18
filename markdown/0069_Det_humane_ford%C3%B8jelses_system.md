@@ -78,12 +78,7 @@ stil med et ryatæppe, på alle disse villi er der flere lignede folder
 kalder mikrovilli. Denne struktur, samt at tyndtarmen er så godt pakket
 sammen gør den kan have en længde på op til 6 meter og et areal på op
 mod 300m2!\
- ![Figur 1: Tarmen består af en to-delt struktur. Først de "grove"
-folder kaldet villi, på disse villi er der så yderligere folder kaldet
-mikrovilli. Denne struktur giver tarmen en betydelig større overfalde,
-hvilket giver kroppen en bedre mulighed for at absorbere de
-næringsstoffer der måtte være i
-maden.](/wiki/Microvilli.jpg "fig:Figur 1: Tarmen består af en to-delt struktur. Først de "grove" folder kaldet villi, på disse villi er der så yderligere folder kaldet mikrovilli. Denne struktur giver tarmen en betydelig større overfalde, hvilket giver kroppen en bedre mulighed for at absorbere de næringsstoffer der måtte være i maden.")
+ ![Figur 1: Tarmen består af en to-delt struktur. Først de "grove" folder kaldet villi, på disse villi er der så yderligere folder kaldet mikrovilli. Denne struktur giver tarmen en betydelig større overfalde, hvilket giver kroppen en bedre mulighed for at absorbere de næringsstoffer der måtte være i maden.](/wiki/Microvilli.jpg "fig:Figur 1: Tarmen består af en to-delt struktur. Først de "grove" folder kaldet villi, på disse villi er der så yderligere folder kaldet mikrovilli. Denne struktur giver tarmen en betydelig større overfalde, hvilket giver kroppen en bedre mulighed for at absorbere de næringsstoffer der måtte være i maden.")
 
 **Tyktarmen**\
 Efter tyndtarmen passerer resten af maden videre ind i tyktarmen. Her

@@ -2,9 +2,8 @@ A typical HPLC machine consists of several important components. These
 components have their specific functions and they need each other in
 order for us to run a successful HPLC experiment.
 
-![A typical HPLC machine showing the mobile phase reservoir, detector,
-pump, injector and column
-oven.]( HPLC machine.jpg "fig:A typical HPLC machine showing the mobile phase reservoir, detector, pump, injector and column oven.")
+![A typical HPLC machine showing the mobile phase reservoir, detector, pump, injector and column oven.]( HPLC machine.jpg "fig:A typical HPLC machine showing the mobile phase reservoir, detector, pump, injector and column oven.")
+
 The main components of the HPLC are listed below:
 
 -   **[Mobile phase reservoir](/wiki/Mobile_phase_reservoir "wikilink")** →
@@ -68,9 +67,8 @@ make sure that there is no remaining old mobile phase left.\
 
 -   **Calibration curve:**\
 
-![Calibration curve showing the sample concentrations in x axis and the
-area under the curve in y
-axis.]( CalibrationCurve.png "fig:Calibration curve showing the sample concentrations in x axis and the area under the curve in y axis.")
+![Calibration curve showing the sample concentrations in x axis and the area under the curve in y axis.]( CalibrationCurve.png "fig:Calibration curve showing the sample concentrations in x axis and the area under the curve in y axis.")
+
 In order to be able to determine the concentration of the analytes in
 the sample, a calibration curve is needed. This is done by measuring
 several solutions with known concentrations and inject them into the

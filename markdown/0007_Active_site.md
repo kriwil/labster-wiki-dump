@@ -1,6 +1,4 @@
-![Fig. 1. Surface model of alcohol dehydrogenase showing the active site
-(blue) for NAD^+^ (red) binding. Generated with PyMOL from PDB entry
-1HSZ]( act_site_NAD+.png "fig:Fig. 1. Surface model of alcohol dehydrogenase showing the active site (blue) for NAD+ (red) binding. Generated with PyMOL from PDB entry 1HSZ")
+![Fig. 1. Surface model of alcohol dehydrogenase showing the active site (blue) for NAD^+^ (red) binding. Generated with PyMOL from PDB entry 1HSZ]( act_site_NAD+.png "fig:Fig. 1. Surface model of alcohol dehydrogenase showing the active site (blue) for NAD+ (red) binding. Generated with PyMOL from PDB entry 1HSZ")
 The area where substrates and co-factors binds to the enzyme is called
 the active site. This is where the catalysis takes place. An active site
 often appears like a pocket, and consists of several amino acids which

@@ -1,7 +1,4 @@
-![Nucleotides are built up of a sugar molecule bound to a base and
-organic phosphate. The bases present in DNA nucleotides are A, T, C, and
-G. The base Uracil (U) is present in RNA in place of Thymine
-(T).](/wiki/NucleotidesNew.jpeg "Nucleotides are built up of a sugar molecule bound to a base and organic phosphate. The bases present in DNA nucleotides are A, T, C, and G. The base Uracil (U) is present in RNA in place of Thymine (T).")
+![Nucleotides are built up of a sugar molecule bound to a base and organic phosphate. The bases present in DNA nucleotides are A, T, C, and G. The base Uracil (U) is present in RNA in place of Thymine (T).](/wiki/NucleotidesNew.jpeg "Nucleotides are built up of a sugar molecule bound to a base and organic phosphate. The bases present in DNA nucleotides are A, T, C, and G. The base Uracil (U) is present in RNA in place of Thymine (T).")
 
 Nucleotides are the units on which [DNA](/wiki/DNA "wikilink") is built. They
 are made up of a sugar molecule (deoxyribose in DNA, ribose in RNA), a

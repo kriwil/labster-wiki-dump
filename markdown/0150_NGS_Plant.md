@@ -1,5 +1,4 @@
-![Workflow of Next Generation Sequencing using Illumina
-platform.]( IlluminaNGSflow.png "Workflow of Next Generation Sequencing using Illumina platform.")
+![Workflow of Next Generation Sequencing using Illumina platform.]( IlluminaNGSflow.png "Workflow of Next Generation Sequencing using Illumina platform.")
 
 ### Next Generation Sequencing
 

@@ -5,8 +5,8 @@ including biomass formation.
 ### Mass Balance
 
 **Black box modeling**\
-![Black box model for
-yeast](/wiki/black box.png "fig:Black box model for yeast") In the black box
+![Black box model for yeast](/wiki/black box.png "fig:Black box model for yeast")
+In the black box
 model, the input and output of the system are analyzed instead of the
 processes inside the system itself. All the chemical reactions that
 occur within the cells are neglected, and the whole fermentation process
@@ -25,10 +25,7 @@ In exponential growth, there is a linear relationship between substrate
 consumption and product formation. The yield coefficient will thereby be
 constant, which can be calculated as the slope in a plot of the product
 versus substrate.\
-![In general fermentation, substrate is consumed and biomass and a
-product are formed. Plotting biomass over substrate shows a linear
-curve, with Y~sx~ as the
-slope.](/wiki/Yield_calculation.jpg "fig:In general fermentation, substrate is consumed and biomass and a product are formed. Plotting biomass over substrate shows a linear curve, with Ysx as the slope.")\
+![In general fermentation, substrate is consumed and biomass and a product are formed. Plotting biomass over substrate shows a linear curve, with Y~sx~ as the slope.](/wiki/Yield_calculation.jpg "fig:In general fermentation, substrate is consumed and biomass and a product are formed. Plotting biomass over substrate shows a linear curve, with Ysx as the slope.")\
 
 **Carbon balance and cmol**\
 For carbon balance (or any elemental balance in the fermentation for

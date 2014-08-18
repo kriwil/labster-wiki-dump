@@ -6,12 +6,9 @@ in the system: manual and automated injection.
 Manual injection
 ----------------
 
-![**Figure 1.** This is a sample injector showing where to insert the
-needle containing sample that will be injected into the HPLC
-machine.]( ManualInjection.png "fig:Figure 1. This is a sample injector showing where to insert the needle containing sample that will be injected into the HPLC machine.")
-![**Figure 2.** This is a Rheodyne injector with 2 main position: Load
-and
-Inject.]( RheodyneValves.png "fig:Figure 2. This is a Rheodyne injector with 2 main position: Load and Inject.")
+![**Figure 1.** This is a sample injector showing where to insert the needle containing sample that will be injected into the HPLC machine.]( ManualInjection.png "fig:Figure 1. This is a sample injector showing where to insert the needle containing sample that will be injected into the HPLC machine.")
+![**Figure 2.** This is a Rheodyne injector with 2 main position: Load and Inject.]( RheodyneValves.png "fig:Figure 2. This is a Rheodyne injector with 2 main position: Load and Inject.")
+
 When using a manual injection, you can only inject 1 sample at a time. A
 syringe is used to inject the sample into the HPLC machine, as seen in
 Figure 1.
@@ -41,13 +38,8 @@ since you have to inject the samples one by one.\
 Automated injection
 -------------------
 
-![**Figure 3.** This is an automated sampler, where a robot will inject
-the samples into the HPLC
-machine.]( AutoSampler.png "fig:Figure 3. This is an automated sampler, where a robot will inject the samples into the HPLC machine.")
-![**Figure 4.** This is the vials used for the automated sampler.
-Samples are stored in these vials and they are placed in a specific
-order in the auto
-sampler.]( AutoVials.png "fig:Figure 4. This is the vials used for the automated sampler. Samples are stored in these vials and they are placed in a specific order in the auto sampler.")
+![**Figure 3.** This is an automated sampler, where a robot will inject the samples into the HPLC machine.]( AutoSampler.png "fig:Figure 3. This is an automated sampler, where a robot will inject the samples into the HPLC machine.")
+![**Figure 4.** This is the vials used for the automated sampler.  Samples are stored in these vials and they are placed in a specific order in the auto sampler.]( AutoVials.png "fig:Figure 4. This is the vials used for the automated sampler. Samples are stored in these vials and they are placed in a specific order in the auto sampler.")
 
 In contrast to the manual injection, a robot is used to inject the
 sample into the machine. The efficiency is much improved as compared to
@@ -68,8 +60,7 @@ transfer it into a loop from where it is injected into the mobile phase.
 \
 \
 \
- [⇐ Previous (Pumps)](/wiki/Pumps "wikilink") / [Next
-(Column)⇒](/wiki/Column "wikilink")
+ [⇐ Previous (Pumps)](/wiki/Pumps "wikilink") / [Next (Column)⇒](/wiki/Column "wikilink")
 
 [⇐Theory overview](/wiki/HPLC "wikilink")
 

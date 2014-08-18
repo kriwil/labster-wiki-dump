@@ -6,8 +6,7 @@ so that DNA molecule can pass the cell membrane and enter the cell. The
 high voltage of electricity causes hydrophobic pores to form at cell
 membrane with of approximately 2 nm.
 
-![Transformation
-process](/wiki/transformation.jpg "fig:Transformation process")\
+![Transformation process](/wiki/transformation.jpg "fig:Transformation process")\
 
 Parameter of electroporation
 ----------------------------
@@ -145,7 +144,5 @@ hindustanus bleomycin gene). This protein will bind to zeocin in a
 stoichiometric manner causing inhibition of the zeocin DNA strand
 cleavage activity.
 
-[⇐ Previous (Ligation)](/wiki/Ligation "wikilink") / [Next (Reporter gene)
-⇒](/wiki/Reporter_Gene "wikilink")\
-[⇐ Theory overview](/wiki/Molecular_Cloning "wikilink")
+[⇐ Previous (Ligation)](/wiki/Ligation "wikilink") / [Next (Reporter gene) ⇒](/wiki/Reporter_Gene "wikilink")\ [⇐ Theory overview](/wiki/Molecular_Cloning "wikilink")
 

@@ -5,8 +5,7 @@ pregnancies and its complication, if any. The family history lists the
 health status of immediate family members as well as their cause of
 death. The family history usually present with pedigree chart.\
 
-![Symbols used in making a
-pedigree](/wiki/pedigree cyto.jpg "Symbols used in making a pedigree")
+![Symbols used in making a pedigree](/wiki/pedigree cyto.jpg "Symbols used in making a pedigree")
 
 The word ”pedigree” comes from the French term *pie de grue* or “crane’s
 foot”. A pedigree, commonly referred to as family tree, is a graphic

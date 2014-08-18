@@ -1,5 +1,4 @@
-![*Physcomitrella patens* in agar
-plate]( Physcomitrella_growing_on_agar_plates.jpg "fig:Physcomitrella patens in agar plate")\
+![*Physcomitrella patens* in agar plate]( Physcomitrella_growing_on_agar_plates.jpg "fig:Physcomitrella patens in agar plate")\
 ===*Physcomitrella patens*=== *Physcomitrella* is a member of the
 bryophytes that has been used increasingly as a model organism. The
 mosses are non-vascular plants with a main haploid phase. Bryophytes
@@ -13,8 +12,7 @@ protonemal stage . In addition, *P. patens* has proven to be very
 tolerant towards a number of abiotic stresses; it can also grow in a
 minimal medium, containing only minerals and water.
 
-![Insertion of DNA fragment flanked by homologous
-sequences]( Homologousrecombination.jpg "Insertion of DNA fragment flanked by homologous sequences")
+![Insertion of DNA fragment flanked by homologous sequences]( Homologousrecombination.jpg "Insertion of DNA fragment flanked by homologous sequences")
 
 ### Homologous recombination
 

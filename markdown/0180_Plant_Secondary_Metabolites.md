@@ -1,5 +1,4 @@
-![Plant secondary metabolite
-biosynthesis](/wiki/PlantSecondaryMetabolite.jpg "fig:Plant secondary metabolite biosynthesis")
+![Plant secondary metabolite biosynthesis](/wiki/PlantSecondaryMetabolite.jpg "fig:Plant secondary metabolite biosynthesis")
 In addition to primary metabolites, which are essential for plant
 growth, plants also produce various secondary metabolites, which are
 important for the plants’ adjustment to its environment. Primary
@@ -16,9 +15,7 @@ protection from herbivores, microbial pathogens, or attractants for
 pollinators. Humans use many secondary metabolites as industrial
 materials, flavors, coloring, poisons and medicinal drugs.\
 
-![*Artemisia annua* produce an antimalarial sesquiterpene lactone known
-as
-artemisinin.](/wiki/artemisinin annua.jpg "Artemisia annua produce an antimalarial sesquiterpene lactone known as artemisinin.")
+![*Artemisia annua* produce an antimalarial sesquiterpene lactone known as artemisinin.](/wiki/artemisinin annua.jpg "Artemisia annua produce an antimalarial sesquiterpene lactone known as artemisinin.")
 
 ### Terpenes and Terpenoids
 

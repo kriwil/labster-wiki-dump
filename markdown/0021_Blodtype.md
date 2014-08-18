@@ -52,10 +52,7 @@ i.
                                                                                                        
   ------------------------------------------------------------------------------------------------------------------------------------------
 
-![Figuren viser hvilke antigener, der er tilstede på de røde blodlegemer
-og hvilke antistoffer, der er tilstede i blodplasma for de fire
-forskellige
-ABO-blodtyper.]( Antigen.jpg "Figuren viser hvilke antigener, der er tilstede på de røde blodlegemer og hvilke antistoffer, der er tilstede i blodplasma for de fire forskellige ABO-blodtyper.")
+![Figuren viser hvilke antigener, der er tilstede på de røde blodlegemer og hvilke antistoffer, der er tilstede i blodplasma for de fire forskellige ABO-blodtyper.]( Antigen.jpg "Figuren viser hvilke antigener, der er tilstede på de røde blodlegemer og hvilke antistoffer, der er tilstede i blodplasma for de fire forskellige ABO-blodtyper.") 
 
 ### Rhesus-systemet
 
@@ -124,7 +121,9 @@ donor.
 Blodtypebestemmelse
 -------------------
 
-![]( Eldon_blood_card.PNG "fig: Eldon_blood_card.PNG") Nu har vi lært,
+![]( Eldon_blood_card.PNG "fig: Eldon_blood_card.PNG")
+
+Nu har vi lært,
 hvorfor det er så vigtigt at give den rigtige slags blod til en patient,
 som har brug for en blodtransfusion. Nu skal vi lære noget om, hvordan
 man kan bestemme en persons blodtype.

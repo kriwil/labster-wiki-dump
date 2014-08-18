@@ -38,9 +38,7 @@ and B are co-dominant, whereas O is recessive.
                                                                  
   ------------------------------------------------------------------------------------------
 
-![100 px|ABO blood group antigens present on red blood cells and
-antibodies present in the
-plasma.]( Groups, antibodies and antigens.png "100 px|ABO blood group antigens present on red blood cells and antibodies present in the plasma.")
+![100 px|ABO blood group antigens present on red blood cells and antibodies present in the plasma.]( Groups, antibodies and antigens.png "100 px|ABO blood group antigens present on red blood cells and antibodies present in the plasma.")
 
 ### Rhesus group system
 

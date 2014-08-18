@@ -1,5 +1,4 @@
-![The biosyhthesis of
-terpene](/wiki/terpene biosynthesis.jpg "The biosyhthesis of terpene")
+![The biosyhthesis of terpene](/wiki/terpene biosynthesis.jpg "The biosyhthesis of terpene")
 
 ### Biosynthetic pathway
 
@@ -42,8 +41,7 @@ Then the extracted material is separated from CO~2~ by boiling it off at
 lower pressures. The used CO~2~ can then be cooled, re-compressed and
 recycled, or discharged to the atmosphere. Therefore usage or toxic
 chemicals can be avoided.\
- ![Diagram of Supercritical Fluid Extraction
-Plant]( SFE.jpg "fig:Diagram of Supercritical Fluid Extraction Plant")
+ ![Diagram of Supercritical Fluid Extraction Plant]( SFE.jpg "fig:Diagram of Supercritical Fluid Extraction Plant")
 
 ### Terpenoid Evolution
 
@@ -53,8 +51,5 @@ from triterpene or tetraterpene synthase. Metabolic engineering of the
 terpenoid pathway is a constantly improving tool, used for the
 fundamental study of terpenoid biosynthesis.
 
-[ ⇐ Plant Secondary
-Metabolites](/wiki/Plant_Secondary_Metabolites "wikilink")/[ Killer Assay ⇒
-](/wiki/Killer_Assay "wikilink")\
-[ ⇐ Theory Overview](/wiki/PlantLab "wikilink")
+[ ⇐ Plant Secondary Metabolites](/wiki/Plant_Secondary_Metabolites "wikilink")/[ Killer Assay ⇒ ](/wiki/Killer_Assay "wikilink")\ [ ⇐ Theory Overview](/wiki/PlantLab "wikilink")
 

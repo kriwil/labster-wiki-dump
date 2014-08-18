@@ -12,13 +12,7 @@ passing the detector.
 Specific detectors:
 -------------------
 
-![**UV-vis detector**. The light travels from the source passing through
-a slit and dispersed into various wavelength using dispersion device (a
-prism). The light then passes another slit called the exit slit. This
-slit acts as a selector only allowing a certain wavelength to pass and
-go through the sample. The amount of light that successfully went
-through the sample is then quantified by the
-detector.]( UV-Vis detector.png "UV-vis detector. The light travels from the source passing through a slit and dispersed into various wavelength using dispersion device (a prism). The light then passes another slit called the exit slit. This slit acts as a selector only allowing a certain wavelength to pass and go through the sample. The amount of light that successfully went through the sample is then quantified by the detector.")
+![**UV-vis detector**. The light travels from the source passing through a slit and dispersed into various wavelength using dispersion device (a prism). The light then passes another slit called the exit slit. This slit acts as a selector only allowing a certain wavelength to pass and go through the sample. The amount of light that successfully went through the sample is then quantified by the detector.]( UV-Vis detector.png "UV-vis detector. The light travels from the source passing through a slit and dispersed into various wavelength using dispersion device (a prism). The light then passes another slit called the exit slit. This slit acts as a selector only allowing a certain wavelength to pass and go through the sample. The amount of light that successfully went through the sample is then quantified by the detector.")
 
 -   **UV-Vis Detector**: The signal (also called response) corresponds
     to the absorbance of structure absorbing UV light of a specific

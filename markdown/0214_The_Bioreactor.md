@@ -4,10 +4,7 @@ will be biochemically processed by the microorganism, and the
 biochemical product can be harnessed. Sometimes, the word fermenter is
 used instead of bioreactor; however, both mean the same.
 
-![Bioreactor parts consist of the following: 1. pH monitor, 2.
-temperature monitor, 3. air outlet and inlet, 4. water/steam outlet and
-inlet, 5. nutrient inlet, 6. stirrer and 7. culture inlet
-](/wiki/Bioreactor.png "Bioreactor parts consist of the following: 1. pH monitor, 2. temperature monitor, 3. air outlet and inlet, 4. water/steam outlet and inlet, 5. nutrient inlet, 6. stirrer and 7. culture inlet ")
+![Bioreactor parts consist of the following: 1. pH monitor, 2.  temperature monitor, 3. air outlet and inlet, 4. water/steam outlet and inlet, 5. nutrient inlet, 6. stirrer and 7. culture inlet ](/wiki/Bioreactor.png "Bioreactor parts consist of the following: 1. pH monitor, 2. temperature monitor, 3. air outlet and inlet, 4. water/steam outlet and inlet, 5. nutrient inlet, 6. stirrer and 7. culture inlet ")
 
 The key for an effective bioreactor is to control and maintain the
 microbial growth and metabolite production inside the bioreactor. To

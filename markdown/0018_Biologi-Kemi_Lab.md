@@ -1,5 +1,4 @@
-![Velkomen til Biologi-Kemi
-Lab.]( Title.jpg "fig:Velkomen til Biologi-Kemi Lab.")\
+![Velkomen til Biologi-Kemi Lab.]( Title.jpg "fig:Velkomen til Biologi-Kemi Lab.")\
 \
 \
 \

@@ -1,5 +1,4 @@
-![Phylogenetic tree of terpenoid synthase (Bohlmann, 1998.
-<doi:10.1073/pnas.95.8.4126>)](/wiki/phylogenetic tree.gif "Phylogenetic tree of terpenoid synthase (Bohlmann, 1998. doi:10.1073/pnas.95.8.4126)")
+![Phylogenetic tree of terpenoid synthase (Bohlmann, 1998.  <doi:10.1073/pnas.95.8.4126>)](/wiki/phylogenetic tree.gif "Phylogenetic tree of terpenoid synthase (Bohlmann, 1998. doi:10.1073/pnas.95.8.4126)")
 
 ### Basic principle
 
@@ -43,7 +42,6 @@ usually responsible for similar functions. When well-studied proteins
 are included in the phylogenetic analysis, one can derive the biological
 function of closely related enzymes.
 
-[⇐ BLAST](/wiki/BLAST "wikilink")/ [ Moss Transformation
-⇒](/wiki/Moss_Transformation "wikilink")\
+[⇐ BLAST](/wiki/BLAST "wikilink")/ [ Moss Transformation ⇒](/wiki/Moss_Transformation "wikilink")\
 [ ⇐ Theory Overview](/wiki/PlantLab "wikilink")
 

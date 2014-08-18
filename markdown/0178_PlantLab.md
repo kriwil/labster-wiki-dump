@@ -1,5 +1,4 @@
-![**Welcome to the Labster Plant Genetic and Evolution
-Lab!**]( wiki plant case.jpg "fig:Welcome to the Labster Plant Genetic and Evolution Lab!")\
+![**Welcome to the Labster Plant Genetic and Evolution Lab!**]( wiki plant case.jpg "fig:Welcome to the Labster Plant Genetic and Evolution Lab!")\
 \
 \
 \

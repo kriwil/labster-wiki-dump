@@ -1,5 +1,4 @@
-![Welcome to the Molecular Cloning
-case!]( molecular cloning case.jpg "fig:Welcome to the Molecular Cloning case!")\
+![Welcome to the Molecular Cloning case!]( molecular cloning case.jpg "fig:Welcome to the Molecular Cloning case!")\
 \
 \
 \

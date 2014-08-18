@@ -1,9 +1,4 @@
-![A figure illustrating the role of a co-factor. This co-factor binds
-the enzyme and contributes to the reaction, and leaves the enzyme with
-the product in a changed state. This could, for example, be a changed
-oxidation state, as is the case for NAD^+^, which then needs to be
-restored elsewhere before the co-factor can assist in another
-reaction.]( Cofactor.jpg "A figure illustrating the role of a co-factor. This co-factor binds the enzyme and contributes to the reaction, and leaves the enzyme with the product in a changed state. This could, for example, be a changed oxidation state, as is the case for NAD+, which then needs to be restored elsewhere before the co-factor can assist in another reaction.")
+![A figure illustrating the role of a co-factor. This co-factor binds the enzyme and contributes to the reaction, and leaves the enzyme with the product in a changed state. This could, for example, be a changed oxidation state, as is the case for NAD^+^, which then needs to be restored elsewhere before the co-factor can assist in another reaction.]( Cofactor.jpg "A figure illustrating the role of a co-factor. This co-factor binds the enzyme and contributes to the reaction, and leaves the enzyme with the product in a changed state. This could, for example, be a changed oxidation state, as is the case for NAD+, which then needs to be restored elsewhere before the co-factor can assist in another reaction.")
 
 Some enzymes require "helper-molecules" for catalysis to take place.
 These helper-molecules are called cofactors. Cofactors are non-protein
@@ -26,9 +21,7 @@ derived from the vitamin niacin. Without NAD^+^, ADH would not function.
 The chemical structure of NAD^+^ and the manner in which reduction takes
 place is shown in Fig. 1 [1].
 
-![Fig. 1. The chemical structure of NAD^+^ and the manner in which it is
-reduced to NADH by the addition of 2 electrons and a
-proton.]( Nadnadh.jpg "Fig. 1. The chemical structure of NAD+ and the manner in which it is reduced to NADH by the addition of 2 electrons and a proton.")
+![Fig. 1. The chemical structure of NAD^+^ and the manner in which it is reduced to NADH by the addition of 2 electrons and a proton.]( Nadnadh.jpg "Fig. 1. The chemical structure of NAD+ and the manner in which it is reduced to NADH by the addition of 2 electrons and a proton.")
 
 References
 ----------

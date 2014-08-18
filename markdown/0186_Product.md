@@ -1,7 +1,4 @@
-![The chemical structure of acetaldehyde. Hydrogen atoms are represented
-as white spheres, carbons as dark gray spheres and the oxygen atom as a
-red
-sphere..]( Acetaldehyde.png "The chemical structure of acetaldehyde. Hydrogen atoms are represented as white spheres, carbons as dark gray spheres and the oxygen atom as a red sphere..")
+![The chemical structure of acetaldehyde. Hydrogen atoms are represented as white spheres, carbons as dark gray spheres and the oxygen atom as a red sphere..]( Acetaldehyde.png "The chemical structure of acetaldehyde. Hydrogen atoms are represented as white spheres, carbons as dark gray spheres and the oxygen atom as a red sphere..")
 
 The product is, as the name states, the output of a reaction. For the
 reaction catalyzed by ADH, the product is acetaldehyde. ADH oxidizes
@@ -18,8 +15,7 @@ acetaldehyde, the product of the enzymatic reaction catalyzed by ADH
 [1]. The accumulation of acetaldehyde is also the cause of the symptoms
 of the [ADH|Asian glow syndrome].
 
-![The chemical formula of
-acetaldehyde.]( Acetaldehyde formula.png "The chemical formula of acetaldehyde.")
+![The chemical formula of acetaldehyde.]( Acetaldehyde formula.png "The chemical formula of acetaldehyde.")
 
 References
 ----------
