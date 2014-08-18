@@ -66,7 +66,7 @@ Det er altså det osmotiske fænomen vi kan mærke hvis vi dykker med åbne
 hyper- eller hypotonisk opløsning bevirker det, at de svulmer op eller
 skrumper og det kan vi registrere som smerte.
 
-![]( osmose.jpg " osmose.jpg")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/osmose.jpg " osmose.jpg")
 
 [\<-- Teori oversigt](/wiki/Bio-Kemi "wikilink")
 

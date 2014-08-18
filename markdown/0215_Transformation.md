@@ -6,7 +6,7 @@ so that DNA molecule can pass the cell membrane and enter the cell. The
 high voltage of electricity causes hydrophobic pores to form at cell
 membrane with of approximately 2 nm.
 
-![Transformation process](/wiki/transformation.jpg "fig:Transformation process")\
+![Transformation process](https://s3-us-west-2.amazonaws.com/labster/wiki/media/transformation.jpg "fig:Transformation process")\
 
 Parameter of electroporation
 ----------------------------

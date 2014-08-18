@@ -1,4 +1,4 @@
-![]( forensicscience.jpeg)
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/forensicscience.jpeg)
 
 I både krimifilm og CSI TV-serier, bliver bioteknologi og videnskab
 generelt fremstillet som essentielle dele af at løse en mordsag. Men

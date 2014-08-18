@@ -1,4 +1,4 @@
-![]( forensicscience.jpeg)
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/forensicscience.jpeg)
 
 In Crime movies and CSI TV-series, science and biotechnology are shown
 as essential parts of solving a murder. But how does this really work?

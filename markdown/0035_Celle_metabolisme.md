@@ -29,7 +29,7 @@ sukker, vil gæren også producere ethanol aerobt. Dette fænomen er kaldet
 bruge på vækst, vil noget af sukkeren blive omdirigeret fra respiration
 til ethanol fermentering.\
 
-![ Aerob og anaerob respiration](/wiki/Anerobic and aerobic respiration dk.jpg " Aerob og anaerob respiration")
+![ Aerob og anaerob respiration](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Anerobic and aerobic respiration dk.jpg " Aerob og anaerob respiration")
 
 ### Substrat niveau fosforylering
 

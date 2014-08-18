@@ -1,4 +1,4 @@
-![**Figure 1.** Sequencing by synthesis. After the polymerase has attached to the primer, nucleotides labeled with fluorophore will be added at the 3' end of the primer. The nucleotides are modified with a 3' capped that allows only 1 nucleotide addition at a time. The fluorescence signal emitted by the fluorophore is detected and the 3' capped is cleaved allowing the next sequencing cycle to begin.]( Sbs.jpg "Figure 1. Sequencing by synthesis. After the polymerase has attached to the primer, nucleotides labeled with fluorophore will be added at the 3' end of the primer. The nucleotides are modified with a 3' capped that allows only 1 nucleotide addition at a time. The fluorescence signal emitted by the fluorophore is detected and the 3' capped is cleaved allowing the next sequencing cycle to begin.")
+![**Figure 1.** Sequencing by synthesis. After the polymerase has attached to the primer, nucleotides labeled with fluorophore will be added at the 3' end of the primer. The nucleotides are modified with a 3' capped that allows only 1 nucleotide addition at a time. The fluorescence signal emitted by the fluorophore is detected and the 3' capped is cleaved allowing the next sequencing cycle to begin.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Sbs.jpg "Figure 1. Sequencing by synthesis. After the polymerase has attached to the primer, nucleotides labeled with fluorophore will be added at the 3' end of the primer. The nucleotides are modified with a 3' capped that allows only 1 nucleotide addition at a time. The fluorescence signal emitted by the fluorophore is detected and the 3' capped is cleaved allowing the next sequencing cycle to begin.")
 
 Now that we have a flow cell filled with a lot of DNA, we are ready to
 begin the sequencing process. There are several different ways of
@@ -30,7 +30,7 @@ nucleotide at a time. Therfore, after 1 nucleotide has been added to the
 nucleotides that are freely floating are then washed away from the
 system.
 
-![**Figure 2.** An overlay image, each color dot represents a clonally amplified DNA cluster. The color codes for the 4 different nucleotides, Thymine, Cytosine, Guanine, and Adenine.]( Sequenceimage.png "Figure 2. An overlay image, each color dot represents a clonally amplified DNA cluster. The color codes for the 4 different nucleotides, Thymine, Cytosine, Guanine, and Adenine.")
+![**Figure 2.** An overlay image, each color dot represents a clonally amplified DNA cluster. The color codes for the 4 different nucleotides, Thymine, Cytosine, Guanine, and Adenine.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Sequenceimage.png "Figure 2. An overlay image, each color dot represents a clonally amplified DNA cluster. The color codes for the 4 different nucleotides, Thymine, Cytosine, Guanine, and Adenine.")
 
 -   **Detection**
 
@@ -63,7 +63,7 @@ nucleotides and repeating the steps again.
 \
 \
 \
-==Single- vs. paired-end sequencing== ![**Figure 3.** Paired-end sequencing implies that the sequencing is performed from both directions. The DNA needs to be flipped by running another round of cluster generation.]( PESeq.jpg "fig:Figure 3. Paired-end sequencing implies that the sequencing is performed from both directions. The DNA needs to be flipped by running another round of cluster generation.")
+==Single- vs. paired-end sequencing== ![**Figure 3.** Paired-end sequencing implies that the sequencing is performed from both directions. The DNA needs to be flipped by running another round of cluster generation.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/PESeq.jpg "fig:Figure 3. Paired-end sequencing implies that the sequencing is performed from both directions. The DNA needs to be flipped by running another round of cluster generation.")
 
 -   **Single-end sequencing**
 

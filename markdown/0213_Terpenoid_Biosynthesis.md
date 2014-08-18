@@ -1,4 +1,4 @@
-![The biosyhthesis of terpene](/wiki/terpene biosynthesis.jpg "The biosyhthesis of terpene")
+![The biosyhthesis of terpene](https://s3-us-west-2.amazonaws.com/labster/wiki/media/terpene biosynthesis.jpg "The biosyhthesis of terpene")
 
 ### Biosynthetic pathway
 

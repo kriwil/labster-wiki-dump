@@ -1,4 +1,4 @@
-![Welcome to the Enzyme Kinetics case!]( EnzymeKinetics Case.jpg "Welcome to the Enzyme Kinetics case!")
+![Welcome to the Enzyme Kinetics case!](https://s3-us-west-2.amazonaws.com/labster/wiki/media/EnzymeKinetics Case.jpg "Welcome to the Enzyme Kinetics case!")
 
 Introduction
 ------------

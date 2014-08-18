@@ -50,7 +50,7 @@ You will need to create a new username and a password in order to access
 the case by clicking the "New Player" button on the front page. See the
 image below.
 
-![]( newplayer.png " newplayer.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/newplayer.png " newplayer.png")
 
 [Click here](http://www.labster.com/enzymekinetics/) to go directly to
 the case website or [Click

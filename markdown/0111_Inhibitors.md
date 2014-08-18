@@ -28,23 +28,23 @@ the [Michaelis-Menten mechanism](/wiki/Michaelis-Menten "wikilink") and
 competitive and un-competitive inhibition can be regarded a special case
 of mixed inhibition:
 
-![]( mixed inhibition mechanism.png " mixed inhibition mechanism.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/mixed inhibition mechanism.png " mixed inhibition mechanism.png")
 
 where K~I~ and K’~I~ are the dissociation constants of the EI and ESI
 complex, respectively. Using the same approach as that used for deriving
 the Michaelis-Menten equation (for a detailed derivation, see [2]), the
 following equation for mixed inhibition can be obtained:
 
-![]( mixed inhibition equation.png "fig: mixed inhibition equation.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/mixed inhibition equation.png "fig: mixed inhibition equation.png")
 where
-![]( inhibition alpha.png "fig: inhibition alpha.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/inhibition alpha.png "fig: inhibition alpha.png")
 and
-![]( inhibition alpha'.png "fig: inhibition alpha'.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/inhibition alpha'.png "fig: inhibition alpha'.png")
 
 Just like the Michealis-Menten equation, this equation can be rearranged
 to fit a double-reciprocal plot:
 
-![]( double reciprocal mixed inhibition equation.png " double reciprocal mixed inhibition equation.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/double reciprocal mixed inhibition equation.png " double reciprocal mixed inhibition equation.png")
 
 If α \> 1 and α’ \> 1, the inhibition is mixed; for competitive
 inhibition, α’ = 1; for uncompetitive inhibition, α = 1. Thus, 3

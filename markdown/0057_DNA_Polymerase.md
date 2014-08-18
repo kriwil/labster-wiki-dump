@@ -1,4 +1,4 @@
-![DNA polymerase (red "circles") synthesizes a new DNA strand in the 5'→3' direction. The new DNA strand is complementary to the template strand, and antiparallel.](/wiki/PCR-process.png "fig:DNA polymerase (red "circles") synthesizes a new DNA strand in the 5'→3' direction. The new DNA strand is complementary to the template strand, and antiparallel.")
+![DNA polymerase (red "circles") synthesizes a new DNA strand in the 5'→3' direction. The new DNA strand is complementary to the template strand, and antiparallel.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/PCR-process.png "fig:DNA polymerase (red "circles") synthesizes a new DNA strand in the 5'→3' direction. The new DNA strand is complementary to the template strand, and antiparallel.")
 
 DNA polymerase is the enzyme that is responsible for the formation of a
 DNA strand from a template DNA strand. For the DNA polymerase to

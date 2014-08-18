@@ -12,21 +12,21 @@ data](http://labster.com/enzyme/ADH1B_1_data.xlsx)
 -   Select "Charts" and then select "Scatter" and then select "Smooth
     Marked Scatter"
 
-![]( MakePlot.png " MakePlot.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/MakePlot.png " MakePlot.png")
 
 **Finding the slope**
 
 -   Right click on the graph
 -   Select "Format Trendline"
 
-![]( FormatTrendline.png " FormatTrendline.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/FormatTrendline.png " FormatTrendline.png")
 
 -   Select "Options" on the left panel and then tick the "Display
     equation on chart"
 
-![]( DisplayEquation.png " DisplayEquation.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/DisplayEquation.png " DisplayEquation.png")
 
 -   The equation Y = m(slope)X + C will be displayed on the graph
 
-![]( Equation.png " Equation.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Equation.png " Equation.png")
 

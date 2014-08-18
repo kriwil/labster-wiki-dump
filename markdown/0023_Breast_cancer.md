@@ -21,7 +21,7 @@ the mother or the father.
 BRCA1/2
 -------
 
-![Figure 1. There are two separate pathways to repair double-strand DNA breaks: nonhomologous end joining and homologous recombination.]( DNArepair.jpg "Figure 1. There are two separate pathways to repair double-strand DNA breaks: nonhomologous end joining and homologous recombination.")
+![Figure 1. There are two separate pathways to repair double-strand DNA breaks: nonhomologous end joining and homologous recombination.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/DNArepair.jpg "Figure 1. There are two separate pathways to repair double-strand DNA breaks: nonhomologous end joining and homologous recombination.")
 
 *BRCA1* (BReast CAncer gene one) is located in chromosome 17q21, while
 *BRCA2* (BReast CAncer gene two) is located in chromosome 13q12.3. These

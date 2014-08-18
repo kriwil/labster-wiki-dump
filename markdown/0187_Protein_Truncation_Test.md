@@ -1,4 +1,4 @@
-![Figure 1. A schematic diagram showing the different steps of the protein truncation test.]( PTT.jpg "fig:Figure 1. A schematic diagram showing the different steps of the protein truncation test.")
+![Figure 1. A schematic diagram showing the different steps of the protein truncation test.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/PTT.jpg "fig:Figure 1. A schematic diagram showing the different steps of the protein truncation test.")
 
 A protein truncation test is a powerful method to view DNA mutation that
 results in protein truncation in vitro. Based on the impact to the

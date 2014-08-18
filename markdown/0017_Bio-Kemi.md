@@ -1,7 +1,7 @@
 Velkommen til Bio-Kemi laboratoriet
 -----------------------------------
 
-![Velkomen til Biologi-Kemi Lab.]( Title.jpg "fig:Velkomen til Biologi-Kemi Lab.")\
+![Velkomen til Biologi-Kemi Lab.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Title.jpg "fig:Velkomen til Biologi-Kemi Lab.")\
 \
 \
 \

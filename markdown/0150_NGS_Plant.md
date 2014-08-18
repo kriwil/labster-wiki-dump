@@ -1,4 +1,4 @@
-![Workflow of Next Generation Sequencing using Illumina platform.]( IlluminaNGSflow.png "Workflow of Next Generation Sequencing using Illumina platform.")
+![Workflow of Next Generation Sequencing using Illumina platform.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/IlluminaNGSflow.png "Workflow of Next Generation Sequencing using Illumina platform.")
 
 ### Next Generation Sequencing
 

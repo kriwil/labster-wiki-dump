@@ -14,7 +14,7 @@ fase og dødsfasen. I nogle arter, så som Saccharomyces cerevisiae, kan
 der opstå to eksponentielle faser med forskellige væksthastigheder,
 dette er grundet et skift i de metaboliske pathways.
 
-![En klassisk vækst kurve for gær, med glukose som substart](/wiki/Growth phase dk.jpg "En klassisk vækst kurve for gær, med glukose som substart")
+![En klassisk vækst kurve for gær, med glukose som substart](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Growth phase dk.jpg "En klassisk vækst kurve for gær, med glukose som substart")
 
 ### Lagfasen
 
@@ -26,18 +26,18 @@ som overføres når den er i den eksponentielle fase.
 
 ### Eksponentielfase
 
-![ Et logaritmisk plot for den mikrobielle vækst. Den specifikke væksthastighed kan bestemmes ud fra hældningen.](/wiki/Logarithm_plot dk.jpg " Et logaritmisk plot for den mikrobielle vækst. Den specifikke væksthastighed kan bestemmes ud fra hældningen.")
+![ Et logaritmisk plot for den mikrobielle vækst. Den specifikke væksthastighed kan bestemmes ud fra hældningen.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Logarithm_plot dk.jpg " Et logaritmisk plot for den mikrobielle vækst. Den specifikke væksthastighed kan bestemmes ud fra hældningen.")
 
 Cellerne vokser ved den maksimale væksthastighed, og holder den stabil
 så længde der er medie. Hastigheden kan beskrives med den følgende
 ligning:\
 
-![100 px|](/wiki/Diff_equation.jpg "fig:100 px|")\
+![100 px|](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Diff_equation.jpg "fig:100 px|")\
 
 Læg mærke til at ændringen i biomasse er afhængig af koncentrationen af
 biomasse. Integrering af formlen giver:\
 
-![180 px|](/wiki/Growth_equation.jpg "fig:180 px|")\
+![180 px|](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Growth_equation.jpg "fig:180 px|")\
 
 Diauxic shift er et fænomen som ofte finder sted under gærs vækst i et
 glukosemedie. Diauxic shift beskriver den periode hvor gæren går fra at

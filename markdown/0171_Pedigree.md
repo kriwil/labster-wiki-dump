@@ -10,7 +10,7 @@ horizontal sip ship line. Each generation is assigned a roman numeral
 (I, II, III, and others) and each individual of a generation is assigned
 an arabic numeral (1, 2, 3, and others).
 
-![Pedigree illustrating a three generation family and the inheritance of an X-linked recessive trait.](/wiki/Pedigree wiki.jpg "Pedigree illustrating a three generation family and the inheritance of an X-linked recessive trait.")
+![Pedigree illustrating a three generation family and the inheritance of an X-linked recessive trait.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Pedigree wiki.jpg "Pedigree illustrating a three generation family and the inheritance of an X-linked recessive trait.")
 
 [← Previous (Hereditary traits)](/wiki/Hereditary_traits "wikilink") / [Next
 (Mode of inheritance) →](/wiki/Mode_of_inheritance "wikilink")

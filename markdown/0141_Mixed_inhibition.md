@@ -1,14 +1,14 @@
-![Fig. 1. Lineweaver-Burk plots showing the 3 major types of inhibition.  If the y-intersect differ, but the slopes are the same, the inhibitor is competitive; if the slopes differ, but the y-intersects differ do not, the inhibitor is uncompetitive; and if both the slope and the y-intersects differ, the inhibitor is mixed.]( lineweaver burk inhibition.png "Fig. 1. Lineweaver-Burk plots showing the 3 major types of inhibition. If the y-intersect differ, but the slopes are the same, the inhibitor is competitive; if the slopes differ, but the y-intersects differ do not, the inhibitor is uncompetitive; and if both the slope and the y-intersects differ, the inhibitor is mixed.")
+![Fig. 1. Lineweaver-Burk plots showing the 3 major types of inhibition.  If the y-intersect differ, but the slopes are the same, the inhibitor is competitive; if the slopes differ, but the y-intersects differ do not, the inhibitor is uncompetitive; and if both the slope and the y-intersects differ, the inhibitor is mixed.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/lineweaver burk inhibition.png "Fig. 1. Lineweaver-Burk plots showing the 3 major types of inhibition. If the y-intersect differ, but the slopes are the same, the inhibitor is competitive; if the slopes differ, but the y-intersects differ do not, the inhibitor is uncompetitive; and if both the slope and the y-intersects differ, the inhibitor is mixed.")
 
 A mixed inhibitor interacts with the enzyme alone and with the
 enzyme-substrate complex. The double-reciprocal equation for mixed
 inhibition is as follows, as already mentioned [1]:
 
-![]( double reciprocal mixed inhibition equation.png "fig: double reciprocal mixed inhibition equation.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/double reciprocal mixed inhibition equation.png "fig: double reciprocal mixed inhibition equation.png")
 where
-![]( inhibition alpha.png "fig: inhibition alpha.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/inhibition alpha.png "fig: inhibition alpha.png")
 and
-![]( inhibition alpha'.png "fig: inhibition alpha'.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/inhibition alpha'.png "fig: inhibition alpha'.png")
 
 For mixed inhibition, the Lineweaver-Burk plots show both different
 slopes and different y-intersects at different inhibitor concentrations.
@@ -33,9 +33,9 @@ that the competitor is non-competitive [1,2].
 The double-reciprocal equation for noncompetitive inhibition is thus as
 follows:
 
-![]( double reciprocal non-competitive inhibition equation.png "fig: double reciprocal non-competitive inhibition equation.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/double reciprocal non-competitive inhibition equation.png "fig: double reciprocal non-competitive inhibition equation.png")
 where
-![]( inhibition alpha.png "fig: inhibition alpha.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/inhibition alpha.png "fig: inhibition alpha.png")
 
 When plotting kinetic data using a non-competitive inhibitor, the
 apparent K~m~ remains the same as the actual K~m~, and it can be

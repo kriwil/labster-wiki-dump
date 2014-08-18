@@ -1,4 +1,4 @@
-![**Figure 1.** Blunt ends DNA with both of the strands having the same length vs. sticky ends DNA with 1 of the strand being longer than the other strand.]( RestrictionEnzymes.png "Figure 1. Blunt ends DNA with both of the strands having the same length vs. sticky ends DNA with 1 of the strand being longer than the other strand.")
+![**Figure 1.** Blunt ends DNA with both of the strands having the same length vs. sticky ends DNA with 1 of the strand being longer than the other strand.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/RestrictionEnzymes.png "Figure 1. Blunt ends DNA with both of the strands having the same length vs. sticky ends DNA with 1 of the strand being longer than the other strand.")
 
 Fragmented DNA (either artificially fragmented or partially degraded)
 typically have sticky ends, implying that 1 of the strand is longer than
@@ -23,7 +23,7 @@ Figure 2)
     double strand DNA will be the same length as the original shortest
     DNA strand.
 
-![**Figure 2.** The Polymerase adding nucleotides in the 5' → 3' direction and the exonuclease removing nucleotides at the 3' overhangs.]( Endrepairs.jpg "Figure 2. The Polymerase adding nucleotides in the 5' → 3' direction and the exonuclease removing nucleotides at the 3' overhangs.")
+![**Figure 2.** The Polymerase adding nucleotides in the 5' → 3' direction and the exonuclease removing nucleotides at the 3' overhangs.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Endrepairs.jpg "Figure 2. The Polymerase adding nucleotides in the 5' → 3' direction and the exonuclease removing nucleotides at the 3' overhangs.")
 
 \
 \

@@ -10,7 +10,7 @@ Principles of HPLC
 ------------------
 
 [frame |500px| Figure 1. Components of an HPLC instrument (based on:
-<http://www.waters.com/waters/en_US/How-Does-High-Performance-Liquid-Chromatography-Work%3F/nav.htm?cid=10049055&locale=en_US>)](/wiki/File:_HPLC_components.jpg "wikilink")
+<http://www.waters.com/waters/en_US/How-Does-High-Performance-Liquid-Chromatography-Work%3F/nav.htm?cid=10049055&locale=en_US>)](https://s3-us-west-2.amazonaws.com/labster/wiki/media/File:_HPLC_components.jpg "wikilink")
 
 As it is shown in Figure 1, this method uses a column which is filled
 with fine beads that form the **stationary phase** and a solvent, which

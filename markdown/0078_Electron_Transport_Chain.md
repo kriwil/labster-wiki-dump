@@ -4,7 +4,7 @@ chain is formed by a carrier compound embedded in the inner membrane of
 mitochondria of yeast. Two basic functions of electron transport chain
 are as follows:
 
-![Electron transport chain](/wiki/electron transport.jpg "fig:Electron transport chain")
+![Electron transport chain](https://s3-us-west-2.amazonaws.com/labster/wiki/media/electron transport.jpg "fig:Electron transport chain")
 
 -   Facilitating the transfer of electrons from the primary donor to
     terminal acceptor

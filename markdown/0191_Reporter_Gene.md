@@ -6,7 +6,7 @@ certain gene.
 Green Fluorescent Protein
 -------------------------
 
-![Green fluorescent protein reaction](/wiki/GFP photoactivate.jpg "fig:Green fluorescent protein reaction")
+![Green fluorescent protein reaction](https://s3-us-west-2.amazonaws.com/labster/wiki/media/GFP photoactivate.jpg "fig:Green fluorescent protein reaction")
 In this case, the green fluorescent protein (GFP) from jelly fish
 *(Aequorea victoria)* was used as a reporter gene because it emits
 bright green light (λ = 509 nm) when excited with UV or blue light (λ
@@ -25,7 +25,7 @@ which converts it into the green light.
 Tet-On and Off System
 ---------------------
 
-![Tet-off system. Activator: tTA, Operator: TRE, Promoter: Pcmv, Dox: Doxycycline. Gene of interest transcription is blocked in the presence of Doxycycline ](/wiki/tet off.png "fig:Tet-off system. Activator: tTA, Operator: TRE, Promoter: Pcmv, Dox: Doxycycline. Gene of interest transcription is blocked in the presence of Doxycycline ")
+![Tet-off system. Activator: tTA, Operator: TRE, Promoter: Pcmv, Dox: Doxycycline. Gene of interest transcription is blocked in the presence of Doxycycline ](https://s3-us-west-2.amazonaws.com/labster/wiki/media/tet off.png "fig:Tet-off system. Activator: tTA, Operator: TRE, Promoter: Pcmv, Dox: Doxycycline. Gene of interest transcription is blocked in the presence of Doxycycline ")
 
 Gene expression can be controlled using a regulator gene. A regulator
 gene can regulate the gene expression by expressing certain protein or
@@ -58,7 +58,7 @@ making it unable to bind to TRE, causing GOI not to be expressed.
 Transilluminator
 ----------------
 
-![ Colony that contain GFP gene will excite fluorescence when exposed to blue light or UV light](/wiki/GFP.png " Colony that contain GFP gene will excite fluorescence when exposed to blue light or UV light")
+![ Colony that contain GFP gene will excite fluorescence when exposed to blue light or UV light](https://s3-us-west-2.amazonaws.com/labster/wiki/media/GFP.png " Colony that contain GFP gene will excite fluorescence when exposed to blue light or UV light")
 
 Transilluminator is commonly used for fluorescent marker visualization.
 Transilluminator parts are UV, blue light source and supporting

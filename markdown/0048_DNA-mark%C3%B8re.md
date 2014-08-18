@@ -1,4 +1,4 @@
-![En gel køres med en DNA-markør i en af brøndende. De synlige brånd illustere DNA af forskellige længder. Det yderste tal fortæller om koncentrationen af DNA'et tilføjet i de forskellige brønde.]( Dnaladder.jpeg "En gel køres med en DNA-markør i en af brøndende. De synlige brånd illustere DNA af forskellige længder. Det yderste tal fortæller om koncentrationen af DNA'et tilføjet i de forskellige brønde.")
+![En gel køres med en DNA-markør i en af brøndende. De synlige brånd illustere DNA af forskellige længder. Det yderste tal fortæller om koncentrationen af DNA'et tilføjet i de forskellige brønde.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Dnaladder.jpeg "En gel køres med en DNA-markør i en af brøndende. De synlige brånd illustere DNA af forskellige længder. Det yderste tal fortæller om koncentrationen af DNA'et tilføjet i de forskellige brønde.")
 
 En DNA markør er en opløsning af DNA fragmenter med forskellige kendte
 længder. Det bruges som en skala for at bestemme længden af ukendte DNA

@@ -1,4 +1,4 @@
-![A closed oven where the column can be stored in a temperature-controlled environment.]( Oven regulator.png "A closed oven where the column can be stored in a temperature-controlled environment.")
+![A closed oven where the column can be stored in a temperature-controlled environment.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Oven regulator.png "A closed oven where the column can be stored in a temperature-controlled environment.")
 
 Temperature is an important factor when separating compounds using HPLC.
 The column can be placed inside a closed oven where the temperature can
@@ -14,14 +14,14 @@ available to the solute for interaction. The important point is that the
 equilibrium constant is a thermodynamic quantity. Therefore, the
 following relation from thermodynamics applies:
 
-![]( DeltaG.png " DeltaG.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/DeltaG.png " DeltaG.png")
 
 Where ∆G is the standard free energy of adsorption to the stationary
 phase, ∆H is the standard enthalpy of adsorption to the stationary
 phase, ∆S is the standard entropy of adsorption to the stationary phase
 and T is the temperature in the system.
 
-![]( ln(K).png " ln(K).png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/ln(K).png " ln(K).png")
 
 Where K is the equilibrium constant for the distribution between the
 mobile and stationary phase, R is the the gas constant and ln the

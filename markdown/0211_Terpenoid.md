@@ -1,4 +1,4 @@
-![The biosyhthesis of terpene](/wiki/terpene biosynthesis.jpg "The biosyhthesis of terpene")
+![The biosyhthesis of terpene](https://s3-us-west-2.amazonaws.com/labster/wiki/media/terpene biosynthesis.jpg "The biosyhthesis of terpene")
 
 ### Biosynthetic pathway
 
@@ -41,7 +41,7 @@ Then the extracted material is separated from CO~2~ by boiling it off at
 lower pressures. The used CO~2~ can then be cooled, re-compressed and
 recycled, or discharged to the atmosphere. Therefore usage or toxic
 chemicals can be avoided.\
- ![Diagram of Supercritical Fluid Extraction Plant]( SFE.jpg "fig:Diagram of Supercritical Fluid Extraction Plant")
+ ![Diagram of Supercritical Fluid Extraction Plant](https://s3-us-west-2.amazonaws.com/labster/wiki/media/SFE.jpg "fig:Diagram of Supercritical Fluid Extraction Plant")
 
 ### Terpenoid Evolution
 

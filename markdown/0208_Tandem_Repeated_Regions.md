@@ -13,7 +13,7 @@ sites in the human genome, and differ in their number of repeats.
 repeats among individuals. Repeats can be dinucleotide, trinucleotide,
 and others. A set of primers placed on the flanking regions of a
 variable sequence will amplify fragments of different lengths depending
-on the number of repeats.|x350px](/wiki/FIle:_tandem.jpeg "wikilink")
+on the number of repeats.|x350px](https://s3-us-west-2.amazonaws.com/labster/wiki/media/FIle:_tandem.jpeg "wikilink")
 
 ### Tandem Repeated Regions change because of replication errors
 

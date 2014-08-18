@@ -1,4 +1,4 @@
-![Phylogenetic tree of terpenoid synthase (Bohlmann, 1998.  <doi:10.1073/pnas.95.8.4126>)](/wiki/phylogenetic tree.gif "fig:Phylogenetic tree of terpenoid synthase (Bohlmann, 1998. doi:10.1073/pnas.95.8.4126)")
+![Phylogenetic tree of terpenoid synthase (Bohlmann, 1998.  <doi:10.1073/pnas.95.8.4126>)](https://s3-us-west-2.amazonaws.com/labster/wiki/media/phylogenetic tree.gif "fig:Phylogenetic tree of terpenoid synthase (Bohlmann, 1998. doi:10.1073/pnas.95.8.4126)")
 
 Phylogenetics is the study of evolutionary relationship between
 biological entities. It can be used to determine the eevolutionary

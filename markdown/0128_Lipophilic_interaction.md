@@ -10,7 +10,7 @@ less time in the column. The partition coefficient (*K*) is used to
 relate the concentration of the analyte in each of the two phases, as
 shown below:
 
-![]( Partition coefficient.png " Partition coefficient.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Partition coefficient.png " Partition coefficient.png")
 
 Where *K* is the Partition coefficient, *C~A~^stationary\\ phase^* is
 the molar concentration of analyte in the stationary phase and
@@ -21,7 +21,7 @@ the larger the *K* value is.
 London dispersion force
 -----------------------
 
-![London Dispersion force is a weak interaction that occurs between non polar molecules.]( London Dispension Force.jpg "London Dispersion force is a weak interaction that occurs between non polar molecules.")
+![London Dispersion force is a weak interaction that occurs between non polar molecules.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/London Dispension Force.jpg "London Dispersion force is a weak interaction that occurs between non polar molecules.")
 
 There are different types of interactions occurring between the side
 chains of the beads of the column and the analytes in the sample. One of

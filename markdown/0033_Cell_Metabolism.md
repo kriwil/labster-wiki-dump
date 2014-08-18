@@ -28,7 +28,7 @@ as carbon overflow. When the sugar uptake is higher than what can be
 used for growth, some carbon is diverted from respiration to ethanol
 production.
 
-![ Aerobic and anaerobic respiration](/wiki/anerobic and aerobic respiration.png " Aerobic and anaerobic respiration")
+![ Aerobic and anaerobic respiration](https://s3-us-west-2.amazonaws.com/labster/wiki/media/anerobic and aerobic respiration.png " Aerobic and anaerobic respiration")
 
 ### Substrate-level phosphorylation
 

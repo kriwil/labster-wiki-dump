@@ -1,4 +1,4 @@
-![The Adenine tail of the DNA sample will bind specifically with the Thymine tail of the adapter.]( Adapterligation.png "The Adenine tail of the DNA sample will bind specifically with the Thymine tail of the adapter.")
+![The Adenine tail of the DNA sample will bind specifically with the Thymine tail of the adapter.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Adapterligation.png "The Adenine tail of the DNA sample will bind specifically with the Thymine tail of the adapter.")
 
 As explained in the [End-repair](/wiki/End-repair "wikilink") section, the
 purpose of adding Adenine at the end of the DNA strand is to allow

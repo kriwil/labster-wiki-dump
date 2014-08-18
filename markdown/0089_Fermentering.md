@@ -1,5 +1,5 @@
-![ *Saccharomyces cerevisiae*]( Saccharomyces cerevisiae.jpg "fig: Saccharomyces cerevisiae")
-![*Lactobacillus acidophilus*]( Lactobacillus acidophilus.jpg "fig:Lactobacillus acidophilus")
+![ *Saccharomyces cerevisiae*](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Saccharomyces cerevisiae.jpg "fig: Saccharomyces cerevisiae")
+![*Lactobacillus acidophilus*](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Lactobacillus acidophilus.jpg "fig:Lactobacillus acidophilus")
 
 Fernentering er en anaerobisk katabolisme, hvor et organisk stof fungere
 som både elektron donor og acceptor. Fermentering bliver brugt som en
@@ -34,9 +34,9 @@ Disse to trin lever en forsat strøm af NAD+ til den ATP dannede
 glykolyse proces. En af de organismer der kan udfører alkohol
 fermentering er gær cellen *Saccharomyces cerevisiae*.
 
-![Alcoholic fermentation](/wiki/Alcohol_fermentation dk.jpg "Alcoholic fermentation")
+![Alcoholic fermentation](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Alcohol_fermentation dk.jpg "Alcoholic fermentation")
 
-![Lactic acid fermentation](/wiki/Lactic_acid_fermentation dk.jpg "Lactic acid fermentation")
+![Lactic acid fermentation](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Lactic_acid_fermentation dk.jpg "Lactic acid fermentation")
 
 ### Mælkesyre fermentering
 

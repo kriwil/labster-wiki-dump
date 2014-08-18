@@ -9,7 +9,7 @@ vessel is 15 psi and held for 20 min. After sterilization complete, it
 is important to maintain positive pressure inside the vessel; otherwise,
 a vacuum may develop and unsterile air be drawn into the vessel.
 
-![Aseptic technique used in material transfer from the bottle. The neck of the bottle is always heated by Bunsen burner flame](/wiki/aseptic.jpg "Aseptic technique used in material transfer from the bottle. The neck of the bottle is always heated by Bunsen burner flame")
+![Aseptic technique used in material transfer from the bottle. The neck of the bottle is always heated by Bunsen burner flame](https://s3-us-west-2.amazonaws.com/labster/wiki/media/aseptic.jpg "Aseptic technique used in material transfer from the bottle. The neck of the bottle is always heated by Bunsen burner flame")
 
 ### Aseptic Technique
 
@@ -37,7 +37,7 @@ Key to work sterile is as follows:
 -   Media and fermenter have to be sterilized to prevent the growth of
     unwanted microorganisms.
 
-![Autoclave tape. Before autoclave; white stripe, After autoclave: black stripe](/wiki/autoclave tape.jpg "Autoclave tape. Before autoclave; white stripe, After autoclave: black stripe")
+![Autoclave tape. Before autoclave; white stripe, After autoclave: black stripe](https://s3-us-west-2.amazonaws.com/labster/wiki/media/autoclave tape.jpg "Autoclave tape. Before autoclave; white stripe, After autoclave: black stripe")
 
 ### Media Sterilization
 
@@ -70,8 +70,8 @@ one can use the formula below: V~1~ is the volume taken from the
 inoculum, C~1~ is the concentration in the inoculum, V~2~ is the final
 volume in the fermenter and C~2~ is the concentration wanted in the
 fermenter.\
-![](/wiki/Volumen.jpg "fig:Volumen.jpg")\
- ![A contaminated petri dish. Various species of fungi has grown in this petri dish.](/wiki/Contaminated culture.jpg "fig:A contaminated petri dish. Various species of fungi has grown in this petri dish.")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Volumen.jpg "fig:Volumen.jpg")\
+ ![A contaminated petri dish. Various species of fungi has grown in this petri dish.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Contaminated culture.jpg "fig:A contaminated petri dish. Various species of fungi has grown in this petri dish.")
 
 Culture used to inoculate (inoculum) for fermentation meet the following
 criteria:

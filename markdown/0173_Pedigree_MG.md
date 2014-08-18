@@ -1,4 +1,4 @@
-![Figure 1. A pedigree showing a phenotype that is passed on over three generations.]( Pedigree.jpg "fig:Figure 1. A pedigree showing a phenotype that is passed on over three generations.")
+![Figure 1. A pedigree showing a phenotype that is passed on over three generations.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Pedigree.jpg "fig:Figure 1. A pedigree showing a phenotype that is passed on over three generations.")
 Pedigree is a diagram used to show the phenotype of a particular gene
 documented over several generations. It is particularly useful to
 determine whether a phenotype is inherited or not and the method of
@@ -8,7 +8,7 @@ penetrance).
 A lot of information can be gathered by studying a pedigree. These
 symbols have specific meanings:
 
-![Figure 2. Explanation for pedigree symbols.]( Pedigree_Key.jpg "Figure 2. Explanation for pedigree symbols.")
+![Figure 2. Explanation for pedigree symbols.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Pedigree_Key.jpg "Figure 2. Explanation for pedigree symbols.")
 
 \
 \

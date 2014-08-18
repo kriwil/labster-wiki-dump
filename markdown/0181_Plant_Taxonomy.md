@@ -1,4 +1,4 @@
-![Plant Taxonomy](/wiki/plant taxonomy.jpg "Plant Taxonomy")
+![Plant Taxonomy](https://s3-us-west-2.amazonaws.com/labster/wiki/media/plant taxonomy.jpg "Plant Taxonomy")
 
 ### Plant Taxonomy
 

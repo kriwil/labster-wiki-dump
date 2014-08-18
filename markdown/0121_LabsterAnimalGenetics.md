@@ -46,7 +46,7 @@ post-test result.
 
 See the image below.
 
-![]( newplayer.png " newplayer.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/newplayer.png " newplayer.png")
 
 ### Start the Animal Genetics case
 

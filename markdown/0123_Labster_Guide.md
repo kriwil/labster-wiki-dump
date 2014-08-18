@@ -16,7 +16,7 @@ dashboard.
 
 The registration page looks like this:
 
-![Registration page]( RegistrationPage.png "fig:Registration page")\
+![Registration page](https://s3-us-west-2.amazonaws.com/labster/wiki/media/RegistrationPage.png "fig:Registration page")\
 \
 \
 \
@@ -45,7 +45,7 @@ The registration page looks like this:
 
 This is how your student dashboard looks like:
 
-![Student dashboard]( Dashboard.png "fig:Student dashboard")\
+![Student dashboard](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Dashboard.png "fig:Student dashboard")\
 \
 \
 \
@@ -104,7 +104,7 @@ web address to the virtual lab. You need to install Unity web player
 pop-up asking you to install Unity web player if you do not have it yet.
 See the screenshot below:
 
-![Unity plugin]( Unity.png "fig:Unity plugin")\
+![Unity plugin](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Unity.png "fig:Unity plugin")\
 \
 \
 \
@@ -145,7 +145,7 @@ your computer’s memory. You can clear the cache memory by opening the
 preference/setting menu on your internet browser --\> privacy --\> clear
 browsing data. ￼ Or see the screenshot below:
 
-![Clear cache]( Cache.png "fig:Clear cache")\
+![Clear cache](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Cache.png "fig:Clear cache")\
 \
 \
 \
@@ -174,7 +174,7 @@ to answer all incoming queries as soon as possible. You are also welcome
 to contact us via the hotline, +45 6143 7244, that is open between
 08.30-17.00 Central European Time.
 
-![Feedback & Support icon]( Support.png "fig:Feedback & Support icon")\
+![Feedback & Support icon](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Support.png "fig:Feedback & Support icon")\
 \
 \
 \
@@ -206,7 +206,7 @@ You can interact with the objects in the virtual lab by clicking on them
 machine). You can also hover your mouse on top of an object in order to
 read the description.
 
-![Features of the virtual lab]( Vlab.png "fig:Features of the virtual lab")\
+![Features of the virtual lab](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Vlab.png "fig:Features of the virtual lab")\
 \
 \
 \
@@ -281,7 +281,7 @@ We have written a special wiki page containing essential theories needed
 to complete this virtual lab exercise. You can access the wiki page by
 clicking on the “View Theory” button as shown here:
 
-![Wiki]( Wiki.png "fig:Wiki")\
+![Wiki](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Wiki.png "fig:Wiki")\
 \
 \
 \

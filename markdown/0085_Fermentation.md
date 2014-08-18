@@ -1,5 +1,5 @@
-![ *Saccharomyces cerevisiae*]( Saccharomyces cerevisiae.jpg "fig: Saccharomyces cerevisiae")
-![*Lactobacillus acidophilus*]( Lactobacillus acidophilus.jpg "fig:Lactobacillus acidophilus")
+![ *Saccharomyces cerevisiae*](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Saccharomyces cerevisiae.jpg "fig: Saccharomyces cerevisiae")
+![*Lactobacillus acidophilus*](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Lactobacillus acidophilus.jpg "fig:Lactobacillus acidophilus")
 
 Fermentation is a form of anaerobic catabolism in which an organic
 compound is both an electron donor and an electron acceptor.
@@ -20,7 +20,7 @@ require oxygen. Aerobic fermentation means that oxygen is present in the
 environment when the fermentation process takes place (e.g. oxygen is
 pumped into the bioreactor where bioethanol fermentation takes place).
 
-![Alcoholic fermentation](/wiki/Alcohol fermentation.jpg "Alcoholic fermentation")
+![Alcoholic fermentation](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Alcohol fermentation.jpg "Alcoholic fermentation")
 
 ### Alcohol fermentation
 
@@ -36,7 +36,7 @@ These step provide continous supply of NAD^+^ for ATP generating
 glycolysis. One of the microorganism that can perform alcohol
 fermentation is yeast such as *Saccharomyces cerevisiae*.
 
-![Lactic acid fermentation](/wiki/Lactic acid fermentation.jpg "Lactic acid fermentation")
+![Lactic acid fermentation](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Lactic acid fermentation.jpg "Lactic acid fermentation")
 
 ### Lactic Acid fermentation
 

@@ -52,7 +52,7 @@ i.
                                                                                                        
   ------------------------------------------------------------------------------------------------------------------------------------------
 
-![Figuren viser hvilke antigener, der er tilstede på de røde blodlegemer og hvilke antistoffer, der er tilstede i blodplasma for de fire forskellige ABO-blodtyper.]( Antigen.jpg "Figuren viser hvilke antigener, der er tilstede på de røde blodlegemer og hvilke antistoffer, der er tilstede i blodplasma for de fire forskellige ABO-blodtyper.") 
+![Figuren viser hvilke antigener, der er tilstede på de røde blodlegemer og hvilke antistoffer, der er tilstede i blodplasma for de fire forskellige ABO-blodtyper.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Antigen.jpg "Figuren viser hvilke antigener, der er tilstede på de røde blodlegemer og hvilke antistoffer, der er tilstede i blodplasma for de fire forskellige ABO-blodtyper.") 
 
 ### Rhesus-systemet
 
@@ -121,7 +121,7 @@ donor.
 Blodtypebestemmelse
 -------------------
 
-![]( Eldon_blood_card.PNG "fig: Eldon_blood_card.PNG")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Eldon_blood_card.PNG "fig: Eldon_blood_card.PNG")
 
 Nu har vi lært,
 hvorfor det er så vigtigt at give den rigtige slags blod til en patient,
@@ -145,7 +145,7 @@ sammen. Billedet nedenfor viser alle mulige resultater af
 blodtypetesten. Bemærk, at hvis blodet i kontrolfeltet klumper sammen,
 er der gået noget galt, og testen bør gentages med et nyt Eldon-kort.
 
-![]( blodtype.jpg " blodtype.jpg")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/blodtype.jpg " blodtype.jpg")
 
 [\<-- Teori oversigt](/wiki/Bio-Kemi "wikilink")
 

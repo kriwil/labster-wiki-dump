@@ -10,7 +10,7 @@ reaction tubes for each condition being tested). In that way, if similar
 results are obtained from all three samples, there is a greater chance
 that we can believe conclusions made from those results.
 
-![]( steril.jpeg " steril.jpeg")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/steril.jpeg " steril.jpeg")
 
 Back to [Animal Genetics](/wiki/Animal_Genetics "wikilink")
 

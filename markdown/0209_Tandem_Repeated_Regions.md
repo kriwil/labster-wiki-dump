@@ -13,7 +13,7 @@ gentagelser i forskellige individer. Gentagelserne kan være
 dinukleotide, trinukleotide eller mere. Et primer sæt placeret i enderne
 af den variable region vil forøge antallet af fragmenter af forskellig
 længde alt efter antallet af
-gentagelser.|x350px](/wiki/FIle:_tandem_dk.jpeg "wikilink")
+gentagelser.|x350px](https://s3-us-west-2.amazonaws.com/labster/wiki/media/FIle:_tandem_dk.jpeg "wikilink")
 
 ### Tandem repeated regions ændrer sig på grund af replikerings fejl
 

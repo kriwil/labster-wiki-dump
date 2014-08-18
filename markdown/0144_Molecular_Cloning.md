@@ -1,4 +1,4 @@
-![Welcome to the Molecular Cloning case!]( molecular cloning case.jpg "fig:Welcome to the Molecular Cloning case!")\
+![Welcome to the Molecular Cloning case!](https://s3-us-west-2.amazonaws.com/labster/wiki/media/molecular cloning case.jpg "fig:Welcome to the Molecular Cloning case!")\
 \
 \
 \

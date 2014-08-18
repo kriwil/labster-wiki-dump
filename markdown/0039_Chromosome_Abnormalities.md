@@ -2,7 +2,7 @@ Chromosomal abnormality reflects an alteration of chromosome number or
 structure. These alteration can been seen under the light microscope.
 Chromosome abnormalities can be inherited from a parent (such as a
 translocation) or be "de novo" (new to the individual).\
-![Structural chromosome abnormalities](/wiki/Chromosome mutation.jpg "fig:Structural chromosome abnormalities")
+![Structural chromosome abnormalities](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Chromosome mutation.jpg "fig:Structural chromosome abnormalities")
 
 Chromosome abnormalities often associate with a syndrome. A syndrome
 involves more organs or features – a complex of symptoms. A syndrome can
@@ -27,10 +27,10 @@ chromosome.
 Structural abnormalities
 ------------------------
 
-![Paracentric inversion](/wiki/Paracentric inversion.jpg "fig:Paracentric inversion")
-![Pericentric inversion](/wiki/Pericentric inversion.jpg "fig:Pericentric inversion")
-![Reciprocal translocation](/wiki/Reciprocal translocation.jpg "fig:Reciprocal translocation")
-![Robertsonian translocation](/wiki/Robertsonian translocation.jpg "fig:Robertsonian translocation")
+![Paracentric inversion](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Paracentric inversion.jpg "fig:Paracentric inversion")
+![Pericentric inversion](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Pericentric inversion.jpg "fig:Pericentric inversion")
+![Reciprocal translocation](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Reciprocal translocation.jpg "fig:Reciprocal translocation")
+![Robertsonian translocation](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Robertsonian translocation.jpg "fig:Robertsonian translocation")
 
 Several form of structural abnormalities are:\
 \***Deletion**: A part of the chromosome is missing or deleted.
@@ -65,7 +65,7 @@ Several form of structural abnormalities are:\
 Duplication of 9p
 -----------------
 
-![Chromosome 9 banding pattern](/wiki/chromosome 9.jpg "fig:Chromosome 9 banding pattern") Extra
+![Chromosome 9 banding pattern](https://s3-us-west-2.amazonaws.com/labster/wiki/media/chromosome 9.jpg "fig:Chromosome 9 banding pattern") Extra
 
 chromosome material from the short arm of chromosome 9 (9p) in the cells
 of the body. The extra material may consist of the entire short arm,

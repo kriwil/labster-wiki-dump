@@ -5,7 +5,7 @@ from a plant extract when passing a solvent through a column filled with
 calcium carbonate where the sample was placed. This was the start of
 this widely used and versatile technique.
 
-![Tswett's experiment of separating the 3 pigments from a plant extract.]( Tswett.gif "fig:Tswett's experiment of separating the 3 pigments from a plant extract.")\
+![Tswett's experiment of separating the 3 pigments from a plant extract.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Tswett.gif "fig:Tswett's experiment of separating the 3 pigments from a plant extract.")\
 \
 \
 \

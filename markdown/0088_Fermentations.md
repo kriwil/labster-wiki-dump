@@ -17,7 +17,7 @@ the reaction is done. In batch fermentation, there is no nutrients
 addition during fermentation so exponential growth of cell is limited to
 a few generations.
 
-![Yeast growth phase in batch fermentation](/wiki/Growth curve.png "Yeast growth phase in batch fermentation")
+![Yeast growth phase in batch fermentation](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Growth curve.png "Yeast growth phase in batch fermentation")
 
 The phase of microbial growth in batch fermentation is generally divided
 into four phase which are lag phase, log phase or exponential phase and

@@ -60,7 +60,7 @@ swell and cells may eventually burst. On the other hand, losing too much
 water (the medium around the cell will be hypertonic) causes cell
 shrink.
 
-![Osmosis phenomena in red blood cells.](/wiki/Osmotic_pressure_on_blood_cells_diagram.png "Osmosis phenomena in red blood cells.")
+![Osmosis phenomena in red blood cells.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Osmotic_pressure_on_blood_cells_diagram.png "Osmosis phenomena in red blood cells.")
 
 Water potential
 ---------------

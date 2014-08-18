@@ -1,4 +1,4 @@
-![Figure 1. An illustration showing how primary cancer invades through the blood vessel producing secondary cancer (or metastasis). This image was provided by Jane Hurd and released by the National Cancer Institute.]( Metastasis illustration.jpg "fig:Figure 1. An illustration showing how primary cancer invades through the blood vessel producing secondary cancer (or metastasis).
+![Figure 1. An illustration showing how primary cancer invades through the blood vessel producing secondary cancer (or metastasis). This image was provided by Jane Hurd and released by the National Cancer Institute.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Metastasis illustration.jpg "fig:Figure 1. An illustration showing how primary cancer invades through the blood vessel producing secondary cancer (or metastasis).
 
 This image was provided by Jane Hurd and released by the National Cancer Institute.")
 Cancer is a term used to describe a group of diseases involving
@@ -73,7 +73,7 @@ two-hit hypothesis of tumor suppressor inactivation in familial
 (hereditable) cancer. 10 Knudson, A.G. (1971) Mutation and cancer:
 statistical study of retinoblastoma. Proc Natl Acad Sci U S A 68,
 820-823, [
-PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids=71153958&dopt=Abstract "wikilink").]( Knudson.gif "fig:Figure 2. Illustration of Knudson’s two-hit hypothesis of tumor suppressor inactivation in familial (hereditable) cancer. 10 Knudson, A.G. (1971) Mutation and cancer: statistical study of retinoblastoma. Proc Natl Acad Sci U S A 68, 820-823,  PubMed.")
+PubMed](https://s3-us-west-2.amazonaws.com/labster/wiki/media/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids=71153958&dopt=Abstract "wikilink").]( Knudson.gif "fig:Figure 2. Illustration of Knudson’s two-hit hypothesis of tumor suppressor inactivation in familial (hereditable) cancer. 10 Knudson, A.G. (1971) Mutation and cancer: statistical study of retinoblastoma. Proc Natl Acad Sci U S A 68, 820-823,  PubMed.")
 
 Reference
 ---------

@@ -1,4 +1,4 @@
-![Welcome to the NGS case!]( NGS_Case.jpg "fig:Welcome to the NGS case!")\
+![Welcome to the NGS case!](https://s3-us-west-2.amazonaws.com/labster/wiki/media/NGS_Case.jpg "fig:Welcome to the NGS case!")\
 \
 \
 \

@@ -1,4 +1,4 @@
-![Welcome to the Cytogenetics lab!]( cytogenetic title image.jpg "fig:Welcome to the Cytogenetics lab!")\
+![Welcome to the Cytogenetics lab!](https://s3-us-west-2.amazonaws.com/labster/wiki/media/cytogenetic title image.jpg "fig:Welcome to the Cytogenetics lab!")\
 \
 \
 \

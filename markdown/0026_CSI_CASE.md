@@ -1,4 +1,4 @@
-![**Welcome to the Labster CSI Case!**]( CSI Case.jpg "fig:Welcome to the Labster CSI Case!")\
+![**Welcome to the Labster CSI Case!**](https://s3-us-west-2.amazonaws.com/labster/wiki/media/CSI Case.jpg "fig:Welcome to the Labster CSI Case!")\
 \
 \
 \

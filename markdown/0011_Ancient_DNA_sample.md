@@ -9,7 +9,7 @@ and other factors. The older the DNA sample is, the more damage it
 undergoes. But due to recent advances in DNA analysis technology, even
 ancient DNA can be analyzed using Next Generation Sequencing.
 
-![Several characteristics of ancient DNA are as follows: (a) single strand breaks, (b) cross-linking, and (c) oxidative and hydrolytic modification of bases. ''Willerslev, E. and Cooper, A., 2005, Proc.R.Soc.B, 272,3–16.]( AncientDNA.png "Several characteristics of ancient DNA are as follows: (a) single strand breaks, (b) cross-linking, and (c) oxidative and hydrolytic modification of bases. ''Willerslev, E. and Cooper, A., 2005, Proc.R.Soc.B, 272,3–16.")
+![Several characteristics of ancient DNA are as follows: (a) single strand breaks, (b) cross-linking, and (c) oxidative and hydrolytic modification of bases. ''Willerslev, E. and Cooper, A., 2005, Proc.R.Soc.B, 272,3–16.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/AncientDNA.png "Several characteristics of ancient DNA are as follows: (a) single strand breaks, (b) cross-linking, and (c) oxidative and hydrolytic modification of bases. ''Willerslev, E. and Cooper, A., 2005, Proc.R.Soc.B, 272,3–16.")
 
 ### Ancient DNA characteristics
 

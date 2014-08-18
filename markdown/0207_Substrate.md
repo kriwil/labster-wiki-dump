@@ -1,6 +1,6 @@
-![The chemical structure of ethanol. Hydrogen atoms are represented as white spheres, carbons as dark gray spheres and the oxygen atom as red sphere.]( Ethanol spheres.jpg "The chemical structure of ethanol. Hydrogen atoms are represented as white spheres, carbons as dark gray spheres and the oxygen atom as red sphere.")
+![The chemical structure of ethanol. Hydrogen atoms are represented as white spheres, carbons as dark gray spheres and the oxygen atom as red sphere.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Ethanol spheres.jpg "The chemical structure of ethanol. Hydrogen atoms are represented as white spheres, carbons as dark gray spheres and the oxygen atom as red sphere.")
 
-![The chemical formula of ethanol]( Ethanol formula.png "The chemical formula of ethanol")
+![The chemical formula of ethanol](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Ethanol formula.png "The chemical formula of ethanol")
 
 A substrate is a molecule upon which an enzyme acts. If we think of the
 enzyme as a machine in an assembly line, the substrate would be what we

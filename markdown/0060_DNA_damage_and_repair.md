@@ -7,7 +7,7 @@ UV-induced DNA damage and repair
 
 **DNA damage**
 
-![UV induce nucleotide dimer](/wiki/photoreactivation.png "fig:UV induce nucleotide dimer")
+![UV induce nucleotide dimer](https://s3-us-west-2.amazonaws.com/labster/wiki/media/photoreactivation.png "fig:UV induce nucleotide dimer")
 
 The
 purine and pyrimidine bases of nucleic acids absorb UV radiation
@@ -33,7 +33,7 @@ can lead to the loss of genetic material.
 
 **DNA repair**
 
-![Homologous recombination](/wiki/homologous recombination.png "fig:Homologous recombination")
+![Homologous recombination](https://s3-us-west-2.amazonaws.com/labster/wiki/media/homologous recombination.png "fig:Homologous recombination")
 
 Double-strand DNA breaks can be repaired by two main pathways:
 homologous recombination and non-homologous end-joining. In simple

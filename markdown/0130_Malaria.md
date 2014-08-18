@@ -1,4 +1,4 @@
-![Malaria parasite, *Plasmodium* inside human cell]( Malaria.jpg "Malaria parasite, Plasmodium inside human cell")
+![Malaria parasite, *Plasmodium* inside human cell](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Malaria.jpg "Malaria parasite, Plasmodium inside human cell")
 
 ### Malaria parasite
 

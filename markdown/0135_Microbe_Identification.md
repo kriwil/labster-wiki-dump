@@ -3,9 +3,9 @@ applications, such as disease diagnosis and infection treatment in the
 health industry, criminal investigation, environmental studies or
 inoculum preparation in the wine and brewing industry. Microbe
 identification can be performed with several methods, as follows:
- ![ Colony morphology identification. Each microorganism has a distinct characteristic when grown on certain media agar in Petri dish.]( Colony morphology.jpg "fig: Colony morphology identification. Each microorganism has a distinct characteristic when grown on certain media agar in Petri dish.")
+ ![ Colony morphology identification. Each microorganism has a distinct characteristic when grown on certain media agar in Petri dish.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Colony morphology.jpg "fig: Colony morphology identification. Each microorganism has a distinct characteristic when grown on certain media agar in Petri dish.")
 
-![Bacteria shape can be identified under the microscope.]( Bacteria shape.png "Bacteria shape can be identified under the microscope.")
+![Bacteria shape can be identified under the microscope.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Bacteria shape.png "Bacteria shape can be identified under the microscope.")
 
 ### Morphology identification
 

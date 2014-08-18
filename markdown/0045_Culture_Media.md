@@ -27,7 +27,7 @@ the electron transport system.
 
 ### Physical Condition
 
-![ Effect of temperature on microbial growth](/wiki/temperature effect.jpg " Effect of temperature on microbial growth")
+![ Effect of temperature on microbial growth](https://s3-us-west-2.amazonaws.com/labster/wiki/media/temperature effect.jpg " Effect of temperature on microbial growth")
 
 Growth is defined as an increase in the number of cells. The growth of
 microorganism is greatly affected by environment conditions such as

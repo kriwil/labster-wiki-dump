@@ -21,7 +21,7 @@ The ligation reaction generally consist of two steps:
      DNA ligase catalyzes the joining between 3'-hydroxyl to
     5'-phosphate.
 
-![Ligation reaction. The AMP nucleotide is transferred to the 5'-phosphate. Then the AMP-phosphate bond is attacked by 3'-OH forming a covalent bond while releasing AMP.](/wiki/ligase.png "Ligation reaction. The AMP nucleotide is transferred to the 5'-phosphate. Then the AMP-phosphate bond is attacked by 3'-OH forming a covalent bond while releasing AMP.") 
+![Ligation reaction. The AMP nucleotide is transferred to the 5'-phosphate. Then the AMP-phosphate bond is attacked by 3'-OH forming a covalent bond while releasing AMP.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/ligase.png "Ligation reaction. The AMP nucleotide is transferred to the 5'-phosphate. Then the AMP-phosphate bond is attacked by 3'-OH forming a covalent bond while releasing AMP.") 
 
 The efficiency of a ligation reaction can be increased by optimizing the
 insert:vector ratio. A ratio of 3:1 is a good initial parameter. The
@@ -30,7 +30,7 @@ spectrophotometer such as [Nanodrop](/wiki/DNA_Isolation "wikilink"). The
 formula required to calculate amount of gene of interest (insert) to be
 added in the ligation reaction is:\
 
-![](/wiki/ligation formula.png "fig:ligation formula.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/ligation formula.png "fig:ligation formula.png")
 
 **Example of ligation reaction optimization calculation:**\
 **Data**\
@@ -77,7 +77,7 @@ ng of insert
 Plasmid vector
 --------------
 
-![ Expression vector contains multiple cloning sites, a selectable marker, an origin of replication, an operator and a strong promoter.](/wiki/Expression vector.jpg "fig: Expression vector contains multiple cloning sites, a selectable marker, an origin of replication, an operator and a strong promoter.")
+![ Expression vector contains multiple cloning sites, a selectable marker, an origin of replication, an operator and a strong promoter.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Expression vector.jpg "fig: Expression vector contains multiple cloning sites, a selectable marker, an origin of replication, an operator and a strong promoter.")
 
 Plasmid are extra-chromosomal molecules of DNA, mostly double-stranded,
 covalently closed, and circular molecule. It varies in size from 1 kb to
@@ -108,7 +108,7 @@ cleaved with one or more restriction enzymes.
 -   Gene of interest is ligated to the linearized vector plasmid.
 -   The resulting plasmid is transformed into an appropriate host.
 
-![ Different restriction enzymes can generate compatible overhangs]( compatible overhang.png "fig: Different restriction enzymes can generate compatible overhangs")
+![ Different restriction enzymes can generate compatible overhangs](https://s3-us-west-2.amazonaws.com/labster/wiki/media/compatible overhang.png "fig: Different restriction enzymes can generate compatible overhangs")
 Higher success rate in plasmid assembly is achieved when using DNA
 fragment with 5' or 3' sticky/overhang ends compared with assembling
 plasmid with blunt end DNA fragments. DNA ligase joins two DNA fragment

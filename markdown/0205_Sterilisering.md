@@ -11,7 +11,7 @@ ellers kan opstå vakuum og usterilt luft blive suget ind i tanken.
 
 ### Steril teknikker
 
-![Steril teknikker brugt når materiale skal overføres fra en flaske.  Åbningen på flaskehalsen skal altid opvarmes med flammen fra en Bunsenbrænder for at sterilisere åbningen.](/wiki/aseptic.jpg "Steril teknikker brugt når materiale skal overføres fra en flaske. Åbningen på flaskehalsen skal altid opvarmes med flammen fra en Bunsenbrænder for at sterilisere åbningen.")
+![Steril teknikker brugt når materiale skal overføres fra en flaske.  Åbningen på flaskehalsen skal altid opvarmes med flammen fra en Bunsenbrænder for at sterilisere åbningen.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/aseptic.jpg "Steril teknikker brugt når materiale skal overføres fra en flaske. Åbningen på flaskehalsen skal altid opvarmes med flammen fra en Bunsenbrænder for at sterilisere åbningen.")
 
 Når man bruger en bioreaktor er det altid bedst at arbejde med en
 renkultur, da uønskede mikroorganismer kaldet kontaminanter, kan
@@ -39,7 +39,7 @@ Gode råd til at arbejde sterilt:
 
 ### Medie Sterilisering
 
-![Autoklavetape. Før autoklavering: Hvide striber og efter autoklavering: Sorte striber.](/wiki/autoclave tape.jpg "fig:Autoklavetape. Før autoklavering: Hvide striber og efter autoklavering: Sorte striber.")
+![Autoklavetape. Før autoklavering: Hvide striber og efter autoklavering: Sorte striber.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/autoclave tape.jpg "fig:Autoklavetape. Før autoklavering: Hvide striber og efter autoklavering: Sorte striber.")
 
 Både medie, og dets beholder skal steriliseres ved hjælp af
 autoklavering for at undgå kontaminering. En autoklave udnytter et højt
@@ -70,8 +70,8 @@ fra starterkulturen, C1 er koncentrationen for mikroorganismen i
 starterkulturen, V2 er den endelige volumen i fermentoren og C2 er den
 ønskede koncentration i fermentoren.
 
-![](/wiki/Volumen.jpg "fig:Volumen.jpg")\
- ![En forurenet petriskål. Forskellige arter af svampe er vokset i denne petriskål.](/wiki/Contaminated culture.jpg "fig:En forurenet petriskål. Forskellige arter af svampe er vokset i denne petriskål.")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Volumen.jpg "fig:Volumen.jpg")\
+ ![En forurenet petriskål. Forskellige arter af svampe er vokset i denne petriskål.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Contaminated culture.jpg "fig:En forurenet petriskål. Forskellige arter af svampe er vokset i denne petriskål.")
 
 Den kultur som bruges som starterkultur for en fermentering skal opfylde
 følgende kriterier:

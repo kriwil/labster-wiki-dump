@@ -1,4 +1,4 @@
-![ The process of Array CGH](/wiki/Array CGH.jpg " The process of Array CGH")
+![ The process of Array CGH](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Array CGH.jpg " The process of Array CGH")
 
 Array Comparative Genome Hybridization (aCGH) compares the patient’s
 genome against the reference genome and identifies difference between
@@ -68,7 +68,7 @@ the dark as much as possible. Therefore it is highly recommended to
 perform all labeling steps in the dark to prevent signal loss from dye
 photo-bleaching.
 
-![Left: Cy3 label Right: Cy5 label ](/wiki/Cy3 and Cy5.jpg "Left: Cy3 label Right: Cy5 label ")
+![Left: Cy3 label Right: Cy5 label ](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Cy3 and Cy5.jpg "Left: Cy3 label Right: Cy5 label ")
 
 The Cy3 and Cy5 molecule interact with DNA using universal linkage
 system (ULS) which uses a special platinum compound. The platinum

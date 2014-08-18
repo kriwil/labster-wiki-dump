@@ -9,7 +9,7 @@ bind to the 3' Adenine of the DNA sample.
 A non-proof reading Polymerase such as *Taq* could be use to add an
 Adenine at the 3' of the blunt end DNA.
 
-![Adenine is added at the 3' end of the blunt DNA.]( Atailing.png "Adenine is added at the 3' end of the blunt DNA.")
+![Adenine is added at the 3' end of the blunt DNA.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Atailing.png "Adenine is added at the 3' end of the blunt DNA.")
 
 [⇐ Previous (End-repair)](/wiki/End-repair "wikilink") / [Next (Adapter ligation) ⇒](/wiki/Adapter_ligation "wikilink")
 

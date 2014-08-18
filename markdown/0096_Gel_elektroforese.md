@@ -12,7 +12,7 @@ den første brønd. En DNA-markør består af en række DNA fragmenter med
 kendte størrelser, og ved så at sammenlige sine prøver med markøren kan
 man estimere størrelsen på sine enge fragmenter.
 
-![Figur 1. Fragmenter af forskellige længder fra PCR reaktionen kører på gelen. Fragmenterne vil bevæge sig med en hastighed relativ med deres størrelse. Små DNA molekyler vil bevæge sig hurtigere og længere ned igennem gelen end lange DNA molekyler]( Gel electrophoresis dk.jpg "Figur 1. Fragmenter af forskellige længder fra PCR reaktionen kører på gelen. Fragmenterne vil bevæge sig med en hastighed relativ med deres størrelse. Små DNA molekyler vil bevæge sig hurtigere og længere ned igennem gelen end lange DNA molekyler")
+![Figur 1. Fragmenter af forskellige længder fra PCR reaktionen kører på gelen. Fragmenterne vil bevæge sig med en hastighed relativ med deres størrelse. Små DNA molekyler vil bevæge sig hurtigere og længere ned igennem gelen end lange DNA molekyler](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Gel electrophoresis dk.jpg "Figur 1. Fragmenter af forskellige længder fra PCR reaktionen kører på gelen. Fragmenterne vil bevæge sig med en hastighed relativ med deres størrelse. Små DNA molekyler vil bevæge sig hurtigere og længere ned igennem gelen end lange DNA molekyler")
 
 Hvis man blander sit PCR produkt med en loading buffer, kan man følge
 båndende i takt med at elektroforesen kører. En loading buffer er også

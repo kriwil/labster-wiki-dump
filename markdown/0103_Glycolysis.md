@@ -13,7 +13,7 @@ or presence of oxygen. Glycolysis consists of four important steps:
 The end products of glycolysis are two ATP molecules, two pyruvic acids,
 and two molecule of NADH.
 
-![ Glycolisis consists of multiple steps where six-carbon molecules are broken down into two three-carbon molecules, and generate two ATP molecules, two pyruvic acids, and two molecules of NADH.](/wiki/glycolysis.jpg " Glycolisis consists of multiple steps where six-carbon molecules are broken down into two three-carbon molecules, and generate two ATP molecules, two pyruvic acids, and two molecules of NADH.")
+![ Glycolisis consists of multiple steps where six-carbon molecules are broken down into two three-carbon molecules, and generate two ATP molecules, two pyruvic acids, and two molecules of NADH.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/glycolysis.jpg " Glycolisis consists of multiple steps where six-carbon molecules are broken down into two three-carbon molecules, and generate two ATP molecules, two pyruvic acids, and two molecules of NADH.")
 
 [⇐ Previous (Cell Metabolism)](/wiki/Cell_Metabolism "wikilink") / [Next
 (Krebs Cycle) ⇒](/wiki/Krebs_Cycle "wikilink")\

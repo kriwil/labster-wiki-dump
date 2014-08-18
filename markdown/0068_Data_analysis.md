@@ -15,8 +15,8 @@ shown on the first equation or by using other parameters (theoretical
 plate number, selectivity and capacity factor) as shown on the second
 equation.
 
-![]( Resolution1.png "fig: Resolution1.png")
-![]( Resolution2.png "fig: Resolution2.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Resolution1.png "fig: Resolution1.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Resolution2.png "fig: Resolution2.png")
 
 Where R is the resolution, t~R~ is the retention time, w is the peak
 width, N is the theoretical plate number, α is the selectivity and *k*'
@@ -38,14 +38,14 @@ expression can also be written as a function of the relative retention
 time (t’~R~). This is the time that the analyte needs to reach the
 column after the non-retained compounds.
 
-![]( Retentionfactor.png " Retentionfactor.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Retentionfactor.png " Retentionfactor.png")
 
 If the distribution constant is independent of sample component
 concentration, then the retention factor (k') is also equal to the ratio
 of the amounts of a sample component in the stationary and mobile phases
 respectively, at equilibrium:
 
-![]( capacityfactor.png " capacityfactor.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/capacityfactor.png " capacityfactor.png")
 
 Retention time (t~R~)
 ---------------------
@@ -80,7 +80,7 @@ measured by comparing the different in retention factors (k'). The
 selectivity value needs to be larger than 1 in order for separation to
 take place.
 
-![]( Selectivity.png " Selectivity.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Selectivity.png " Selectivity.png")
 
 Theoretical plate number (N)
 ----------------------------
@@ -93,7 +93,7 @@ formulas that one can used to measure the theoretical plate number,
 depending if you know the peak width (w) or half of the peak width
 (w~1/2~).
 
-![]( N1.png "fig: N1.png") ![]( N2.png "fig: N2.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/N1.png "fig: N1.png") ![]( N2.png "fig: N2.png")
 
 Higher plate number gives sharper and narrower bands leading to better
 detection and better peak capacity to resolve complex samples. The

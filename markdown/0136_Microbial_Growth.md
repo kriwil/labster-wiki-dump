@@ -13,7 +13,7 @@ classified into four phases: the lag phase, log/exponential phase,
 stationary phase, and death phase. In some species, such as
 *Saccharomyces cerevisiae*, the exponential phase can occur twice with
 slightly different growth rates due to a switch in metabolic pathways.\
-![Typical growth curve of yeast with glucose substrate](/wiki/Growth phase1.jpg "fig:Typical growth curve of yeast with glucose substrate")
+![Typical growth curve of yeast with glucose substrate](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Growth phase1.jpg "fig:Typical growth curve of yeast with glucose substrate")
 
 ### Lag Phase
 
@@ -24,19 +24,19 @@ minimum time in the lag phase.
 
 ### Exponential phase
 
-![ The logarithm plot of microbial growth. Specific growth rate can be determined from the slope.](/wiki/logarithm plot.png "fig: The logarithm plot of microbial growth. Specific growth rate can be determined from the slope.")
+![ The logarithm plot of microbial growth. Specific growth rate can be determined from the slope.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/logarithm plot.png "fig: The logarithm plot of microbial growth. Specific growth rate can be determined from the slope.")
 Cells grow at a constant and maximum rate, which can be described by
 this equation:\
-![100 px|](/wiki/Diff_equation.jpg "fig:100 px|")\
+![100 px|](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Diff_equation.jpg "fig:100 px|")\
 Note that the change in biomass is dependent on the concentration of
 biomass. Integration of the formula gives the following:\
-![180 px|](/wiki/Growth_equation.jpg "fig:180 px|")\
+![180 px|](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Growth_equation.jpg "fig:180 px|")\
 As seen, from the equation, μ~max~ can be found in a plot of ln(x)
 versus time. The intercept of this plot will be ln(x~0~), and the slope
 will be μ~max~, also called the maximum specific growth rate.\
  Doubling time of cells is the time it takes for the biomass
 concentration to double. It can be calculated using formula below:\
-![200 px|](/wiki/Double_equation.jpg "fig:200 px|")\
+![200 px|](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Double_equation.jpg "fig:200 px|")\
 
 Yeast cells shows diauxic growth when grown aerobic on glucose. Diauxic
 means that there is two growth phases, separated by diauxic shift.

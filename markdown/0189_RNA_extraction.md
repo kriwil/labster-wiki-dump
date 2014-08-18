@@ -1,4 +1,4 @@
-![ Extraction of DNA, RNA and protein.]( Trizol.png "fig: Extraction of DNA, RNA and protein.") In
+![ Extraction of DNA, RNA and protein.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Trizol.png "fig: Extraction of DNA, RNA and protein.") In
 order to retrieve the RNA molecules from plant cells, the cell walls
 must be cracked and plasma membranes lysed. Every organism encodes for
 RNAses, an enzyme family that degrades RNA molecules. It is important to

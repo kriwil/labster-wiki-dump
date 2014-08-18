@@ -1,4 +1,4 @@
-![Gene structure]( Gene structure.png "fig:Gene structure")
+![Gene structure](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Gene structure.png "fig:Gene structure")
 
 Plants
 produce numerous secondary metabolites that hold tremendous potential
@@ -14,7 +14,7 @@ investigate the function of genes at the genomic, transcriptomic and
 proteomic level. In this lab, we will use functional genomics techniques
 to characterize the enzymatic pathway of a terpenoid, which has the
 potential to be used as an antimalarial drug.\
-![Genetic code\ Each codon (nucleotide triplet) encodes for an amino acid.]( genetic_code.png "fig:Genetic code Each codon (nucleotide triplet) encodes for an amino acid.")
+![Genetic code\ Each codon (nucleotide triplet) encodes for an amino acid.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/genetic_code.png "fig:Genetic code Each codon (nucleotide triplet) encodes for an amino acid.")
 
 **Transcription**\
 Each enzyme consists of one or several amino acid chains that fold into

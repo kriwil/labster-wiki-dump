@@ -1,7 +1,7 @@
 Hazard signs
 ------------
 
-![Hazard signs](/wiki/Hazard_signs.png‎ "Hazard signs")
+![Hazard signs](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Hazard_signs.png‎ "Hazard signs")
 
 Dangerous goods (or hazardous materials) are solids, liquids or gases
 that can damage people, other living organisms or the environment and
@@ -65,7 +65,7 @@ personnel suit with a segregated air supply, taking several showers,
 utilization of a vacuum room, an ultraviolet light room or an autonomous
 detection system.
 
-![](/wiki/Protection.jpg‎ "Protection.jpg‎")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Protection.jpg‎ "Protection.jpg‎")
 
 [Next (Acid and base) --\>](/wiki/Acid_and_base "wikilink")
 

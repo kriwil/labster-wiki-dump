@@ -1,7 +1,7 @@
 This page is specifically discussing the process of diagnosing cleft lip
 and/or palate.
 
-![The risk of birth defects increases with mother's age](/wiki/Maternal Age Risk.jpg "The risk of birth defects increases with mother's age")
+![The risk of birth defects increases with mother's age](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Maternal Age Risk.jpg "The risk of birth defects increases with mother's age")
 
 Prenatal diagnosis is the process of ruling in or out fetal anomalies or
 genetic disorders, to provide expecting parents with information and the

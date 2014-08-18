@@ -1,4 +1,4 @@
-![Welcome to the Fermentation case!]( Wiki_Fermentation.jpg "fig:Welcome to the Fermentation case!")\
+![Welcome to the Fermentation case!](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Wiki_Fermentation.jpg "fig:Welcome to the Fermentation case!")\
 \
 \
 \

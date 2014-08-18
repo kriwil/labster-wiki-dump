@@ -1,4 +1,4 @@
-![Welcome to Animal Genetics case!](/wiki/AnimalGenetics Case.jpg "Welcome to Animal Genetics case!")
+![Welcome to Animal Genetics case!](https://s3-us-west-2.amazonaws.com/labster/wiki/media/AnimalGenetics Case.jpg "Welcome to Animal Genetics case!")
 
 \
  Here we have gathered all the relevant theory material to boost your

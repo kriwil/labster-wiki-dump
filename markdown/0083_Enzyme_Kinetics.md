@@ -1,5 +1,5 @@
-![Fig. 1. Michaelis-Menten saturation curve]( Michaelis-Menten_curve.jpg "fig:Fig. 1. Michaelis-Menten saturation curve")
-![Fig. 2. Progress curve of a general enzymatic reaction.  ]( Progress curve.png "fig:Fig. 2. Progress curve of a general enzymatic reaction. ")
+![Fig. 1. Michaelis-Menten saturation curve](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Michaelis-Menten_curve.jpg "fig:Fig. 1. Michaelis-Menten saturation curve")
+![Fig. 2. Progress curve of a general enzymatic reaction.  ](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Progress curve.png "fig:Fig. 2. Progress curve of a general enzymatic reaction. ")
 Enzyme kinetics is the study of enzyme mechanisms through determination
 of reaction rates under varied conditions. The rate of a reaction is
 dependent on several factors including the concentration of the

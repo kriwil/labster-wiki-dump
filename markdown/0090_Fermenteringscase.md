@@ -1,4 +1,4 @@
-![Velkommen til fermenteringscasen!]( Wiki_Fermentation dk.jpg "fig:Velkommen til fermenteringscasen!")\
+![Velkommen til fermenteringscasen!](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Wiki_Fermentation dk.jpg "fig:Velkommen til fermenteringscasen!")\
 \
 \
 \

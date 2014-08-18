@@ -1,5 +1,5 @@
-![A gel with one suspect sample vs. three suspect DNA profiles. The DNA profiles evidence A (e.g., blood sample from a crime scene) and suspect 2 are a match!]( suspectgel.png "fig:A gel with one suspect sample vs. three suspect DNA profiles. The DNA profiles evidence A (e.g., blood sample from a crime scene) and suspect 2 are a match!")
-![Every human has a unique DNA profile, similar to having unique fingerprints](/wiki/DNA Fingerprinting.jpeg "fig:Every human has a unique DNA profile, similar to having unique fingerprints")
+![A gel with one suspect sample vs. three suspect DNA profiles. The DNA profiles evidence A (e.g., blood sample from a crime scene) and suspect 2 are a match!](https://s3-us-west-2.amazonaws.com/labster/wiki/media/suspectgel.png "fig:A gel with one suspect sample vs. three suspect DNA profiles. The DNA profiles evidence A (e.g., blood sample from a crime scene) and suspect 2 are a match!")
+![Every human has a unique DNA profile, similar to having unique fingerprints](https://s3-us-west-2.amazonaws.com/labster/wiki/media/DNA Fingerprinting.jpeg "fig:Every human has a unique DNA profile, similar to having unique fingerprints")
 
 ### Unique DNA profiles
 

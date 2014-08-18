@@ -38,7 +38,7 @@ and B are co-dominant, whereas O is recessive.
                                                                  
   ------------------------------------------------------------------------------------------
 
-![100 px|ABO blood group antigens present on red blood cells and antibodies present in the plasma.]( Groups, antibodies and antigens.png "100 px|ABO blood group antigens present on red blood cells and antibodies present in the plasma.")
+![100 px|ABO blood group antigens present on red blood cells and antibodies present in the plasma.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Groups, antibodies and antigens.png "100 px|ABO blood group antigens present on red blood cells and antibodies present in the plasma.")
 
 ### Rhesus group system
 
@@ -118,7 +118,7 @@ possible results are shown. Notice that if the control shows blood
 clots, it means that something went wrong in the test and you should
 repeat it with another card to trust the result.
 
-![]( Possible_results_blood_typing.png " Possible_results_blood_typing.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Possible_results_blood_typing.png " Possible_results_blood_typing.png")
 
 [\<-- Previous (Diffusion and
 osmosis)](/wiki/Diffusion_and_osmosis "wikilink")

@@ -1,4 +1,4 @@
-![**Figure 1.** An example of chromatogram.]( Chromatogram.png "Figure 1. An example of chromatogram.")
+![**Figure 1.** An example of chromatogram.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Chromatogram.png "Figure 1. An example of chromatogram.")
 
 The chromatogram (see Figure 1) is the representation of the signal
 strength acquired by the detector vs. time. Before the analyte reaches
@@ -21,14 +21,14 @@ value that gives an idea of how efficient a column is. The higher the
 number, the more efficient the column. That is, columns that lead to
 narrower and sharper peaks.
 
-![]( N2.png " N2.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/N2.png " N2.png")
 
 In addition, when two peaks appear in the chromatogram, these parameters
 help to calculate the resolution (R), which gives an idea of how good
 the separation of the two analytes is. It should normally be higher than
 1.5 for good quantification.
 
-![]( Resolution1.png " Resolution1.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Resolution1.png " Resolution1.png")
 
 There are several instances where a separation is not successfully
 reached and the resulting is a merged peak instead of several
@@ -60,7 +60,7 @@ shown in the Figure 2.
 
 ![**Figure 2.** Calibration curve showing the relation between peak area
 to the
-concentration.]( Calibration curve.png "Figure 2. Calibration curve showing the relation between peak area to the concentration.")
+concentration.](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Calibration curve.png "Figure 2. Calibration curve showing the relation between peak area to the concentration.")
 
 [⇐ Previous (Data analysis)](/wiki/Data_analysis "wikilink")
 

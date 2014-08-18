@@ -8,14 +8,14 @@ defined as the change in concentration over time. The rate can be
 expressed as either the rate of formation of products (P), or as the
 rate of consumption of reactants (the substrate, S) [1].
 
-![]( rate_definition.png " rate_definition.png")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/rate_definition.png " rate_definition.png")
 
 Note that the rate of consumption of the substrate is equal to the
 negative change in the concentration of the substrate over time. The
 Michaelis-Menten equation described on the previous page is based on the
 following reaction mechanism:
 
-![]( fig1.jpg " fig1.jpg")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/fig1.jpg " fig1.jpg")
 
 This mechanism includes 3 individual reactions with three different rate
 constants:
@@ -35,7 +35,7 @@ called the [turnover number](/wiki/kcat "wikilink") or k~cat~. For another
 reaction mechanism, the turnover number would be defined differently,
 for instance, in the following reaction:
 
-![]( Fig3.jpg " Fig3.jpg")
+![](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Fig3.jpg " Fig3.jpg")
 
 where the last step is the rate-limiting step. Here, k~cat~ is equal to
 the rate constant of this step, i.e., k~cat~ = k~3~. For reactions with
@@ -45,7 +45,7 @@ several rate constants. [2]
 Initial reaction rate
 ---------------------
 
-![Fig. 1. Progress curve of a general enzymatic reaction.  ]( Progress curve.png "fig:Fig. 1. Progress curve of a general enzymatic reaction. ")
+![Fig. 1. Progress curve of a general enzymatic reaction.  ](https://s3-us-west-2.amazonaws.com/labster/wiki/media/Progress curve.png "fig:Fig. 1. Progress curve of a general enzymatic reaction. ")
 During the course of the reaction, [S] decreases and [P] increases. This
 results in an overall decrease in the reaction rate, as illustrated in
 Fig. 1. To measure the reaction rate of an enzymatic reaction
